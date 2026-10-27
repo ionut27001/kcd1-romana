@@ -1,0 +1,745 @@
+{
+ "table": "text_ui_misc.xml",
+ "entries": [
+  {
+   "key": "game_over_basicTraining",
+   "en": "You've lost the trust of Sir Radzig.",
+   "ro": "Ai pierdut încrederea lui Sir Radzig."
+  },
+  {
+   "key": "game_over_conquest_fled",
+   "en": "Without your help, Istvan won the Battle of Talmberg.",
+   "ro": "Fără ajutorul tău, Istvan a câștigat bătălia de la Talmberg."
+  },
+  {
+   "key": "game_over_conquest_follow_capon",
+   "en": "Without getting help, your father died.",
+   "ro": "Fără ajutor, tatăl tău a murit."
+  },
+  {
+   "key": "game_over_counteroffensive_reinforcements",
+   "en": "You didn't get the reinforcements to Vranik from Talmberg.",
+   "ro": "Nu ai adus întăririle la Vranik din Talmberg."
+  },
+  {
+   "key": "game_over_died_by_bleeding",
+   "en": "You have bled to death.",
+   "ro": "Ai sângerat până la moarte."
+  },
+  {
+   "key": "game_over_died_by_collision",
+   "en": "You have died.",
+   "ro": "Ai murit."
+  },
+  {
+   "key": "game_over_died_by_fall",
+   "en": "You have fallen to your death.",
+   "ro": "Ai căzut în gol și ai murit."
+  },
+  {
+   "key": "game_over_died_by_poison",
+   "en": "You have been poisoned.",
+   "ro": "Ai fost otrăvit."
+  },
+  {
+   "key": "game_over_died_by_scripted_hit",
+   "en": "You were murdered under unforseen circumstances.",
+   "ro": "Ai fost ucis în împrejurări neprevăzute."
+  },
+  {
+   "key": "game_over_died_by_self_harm",
+   "en": "You have died by your own hand.",
+   "ro": "Ai murit de mâna ta."
+  },
+  {
+   "key": "game_over_died_by_starving",
+   "en": "You have starved to death. ",
+   "ro": "Ai murit de foame."
+  },
+  {
+   "key": "game_over_died_in_combat",
+   "en": "You have died in combat.",
+   "ro": "Ai murit în luptă."
+  },
+  {
+   "key": "game_over_died_in_jail",
+   "en": "You have died in jail.",
+   "ro": "Ai murit în închisoare."
+  },
+  {
+   "key": "game_over_died_unknown",
+   "en": "You have died.",
+   "ro": "Ai murit."
+  },
+  {
+   "key": "game_over_E3_lost",
+   "en": "You have lost the battle.",
+   "ro": "Ai pierdut bătălia."
+  },
+  {
+   "key": "game_over_E3_win",
+   "en": "You are victorious!",
+   "ro": "Ai fost victorios!"
+  },
+  {
+   "key": "game_over_escape_skalitz",
+   "en": "You've been hit by a stray Cuman arrow.",
+   "ro": "Ai fost lovit de o săgeată rătăcită a cumanilor."
+  },
+  {
+   "key": "game_over_escape_talmberk",
+   "en": "Robard is really angry at you right now.",
+   "ro": "Robard e foarte furios pe tine acum."
+  },
+  {
+   "key": "game_over_finished",
+   "en": "Game finished",
+   "ro": "Joc terminat"
+  },
+  {
+   "key": "game_over_killed_by_zmola",
+   "en": "Zmola killed you while you were unconscious.",
+   "ro": "Zmola te-a ucis cât erai inconștient."
+  },
+  {
+   "key": "game_over_killed_while_unconscious",
+   "en": "You were killed while unconscious.",
+   "ro": "Ai fost ucis în timp ce erai inconștient."
+  },
+  {
+   "key": "game_over_lostBattle",
+   "en": "You lost the battle.",
+   "ro": "Ai pierdut bătălia."
+  },
+  {
+   "key": "game_over_night_rescue_crime",
+   "en": "You committed treachery!",
+   "ro": "Ai comis trădare!"
+  },
+  {
+   "key": "game_over_night_rescue_ran_away",
+   "en": "Young Lord Capon died while attempting to rescue the hostages.",
+   "ro": "Tânărul jupân Capon a murit încercând să salveze ostatecii."
+  },
+  {
+   "key": "game_over_nights_watch",
+   "en": "You've been kicked out of the Bailiff's service for incompetence.",
+   "ro": "Ai fost dat afară din slujba judelui pentru incompetență."
+  },
+  {
+   "key": "game_over_ptacek_bled",
+   "en": "Capon lost 5 pints of blood. His goose is cooked.",
+   "ro": "Capon a pierdut 5 pinte de sânge. Gâsca lui e friptă."
+  },
+  {
+   "key": "game_over_revelation_killing_inquisitor_text",
+   "en": "Murdering a servant of God is a most heinous crime! You tried to flee, but they soon caught up with you. Sir Radzig turned his back on you and you were hanged for your crime. Johanka was convicted of heresy and died as a result of her punishment.",
+   "ro": "Uciderea unui slujitor al lui Dumnezeu este cea mai hidoasă crimă! Ai încercat să fugi, dar au ajuns repede din urmă. Sir Radzig și-a întors spatele și ai fost spânzurat pentru crima ta. Johanka a fost condamnată pentru erezie și a murit în urma pedepsei."
+  },
+  {
+   "key": "game_over_revelation_killing_inquisitor_undercover_seen_text",
+   "en": "You were seen killing the Inquisitor and the law soon caught up with you. Sir Radzig turned his back on you and you were hanged for your crime.",
+   "ro": "Ai fost văzut ucigând inchizitorul, iar legea a ajuns curând din urmă. Sir Radzig și-a întors spatele și ai fost spânzurat pentru crima ta."
+  },
+  {
+   "key": "game_over_revelation_speking_heresy_text",
+   "en": "You died after your tongue was cut out for heretical speeches. Johanka was also convicted of heresy and suffered the same fate.",
+   "ro": "Ai murit după ce ți-a fost tăiată limba pentru cuvinte eretice. Johanka a fost și ea condamnată pentru erezie și a suferit aceeași soartă."
+  },
+  {
+   "key": "game_over_run",
+   "en": "A village lad like you has no chance of defeating the fearsome Cumans. Better to run and save your skin.",
+   "ro": "Un flăcău de sat ca tine nu are nicio șansă împotriva temuților cumani. Mai bine fugi și îți scapi pielea."
+  },
+  {
+   "key": "game_over_simek_text",
+   "en": "Samuel died.",
+   "ro": "Samuel a murit."
+  },
+  {
+   "key": "game_over_tereza_escape",
+   "en": "You were hit by a stray Cuman arrow and died while trying to flee.",
+   "ro": "Ai fost lovit de o săgeată cumană rătăcită și ai murit în timp ce încercai să fugi."
+  },
+  {
+   "key": "game_over_tereza_prison",
+   "en": "You've been executed for your grave crimes. May God have mercy on your sinful soul.",
+   "ro": "Ai fost executat pentru crimele tale grave. Dumnezeu să aibă milă de sufletul tău păcătos."
+  },
+  {
+   "key": "game_over_test",
+   "en": "TEST",
+   "ro": "TEST"
+  },
+  {
+   "key": "game_over_thank_you",
+   "en": "Thank you for playing!",
+   "ro": "Mulțumim că ai jucat!"
+  },
+  {
+   "key": "chap_dlc2_sch2_GhfW_e1050_G8Y7",
+   "en": "Replace",
+   "ro": "Înlocuiește"
+  },
+  {
+   "key": "chap_dlc2_sch2_GhfW_e1051_XHhc",
+   "en": "Bury",
+   "ro": "Îngroapă"
+  },
+  {
+   "key": "chap_dlc2_sch2_GhfW_e1210_8zxc",
+   "en": "Colour the water",
+   "ro": "Colorează apa"
+  },
+  {
+   "key": "chap_dlc2_sch2_GhfW_e1508_DCgh",
+   "en": "Throw",
+   "ro": "Aruncă"
+  },
+  {
+   "key": "chap_dlc3_sch8_9v0p_e20_O9rb",
+   "en": "Travelling the roads in the province is hazardous - merchants are afraid even to stick their noses out of the inns, visiting relatives in neighbouring villages is a life or death gamble and folk living in remote farmsteads sleep with axes under their pillows. Behind any oak or ash along the wayside, there may be a ruthless bandit lying in wait, or even a poor student, who has drunk away his last Groschen and entered the spirit of these lawless times. Either way, the victim is lucky to lose only his purse, and not his head. ",
+   "ro": "Călătoritul pe drumurile provinciei este periculos: neguțătorii se tem chiar să-și scoată nasul din hanuri, a-ți vizita rudele din satele vecine e un joc de viață și de moarte, iar oamenii din fermele izolate dorm cu topoare sub pernă. În spatele oricărui stejar sau frasin de la marginea drumului poate pândi un tâlhar nemilos sau chiar un sărac student, care și-a băut ultimul groschen și a intrat în duhul acestor vremuri fără de lege. Oricum ar fi, victima are noroc dacă pierde doar punga, și nu capul. "
+  },
+  {
+   "key": "chap_dlc3_sch8_9v0p_e21_Nuca",
+   "en": "You can start dealing with the danger on the roads by talking to Sir Radzig after completing the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Baptism of Fire&amp;lt;/font&amp;gt;. Shortly after this point in the story, Sir Radzig will be found at the viewing point over Talmberg, and later at Pirkstein Castle in Rattay. If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc3Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon. This assignment may be temporarily unavailable during the military operations towards the end of the main storyline, or may halt progress in the story for a while. ",
+   "ro": "Poți începe să te ocupi de pericolele de pe drumuri vorbind cu Sir Radzig după ce termini misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Botezul focului&amp;lt;/font&amp;gt;. Puțin după acest punct al poveștii, Sir Radzig va fi găsit la punctul de belvedere de deasupra Talmbergului, iar mai târziu la castelul Pirkstein din Rattay. Dacă nu ești sigur unde să-l găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc3Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;. Această sarcină poate fi temporar indisponibilă în timpul operațiunilor militare de spre finalul poveștii principale sau poate opri progresul poveștii pentru un timp. "
+  },
+  {
+   "key": "chap_dlc3_sch8_9v0p_e23_kzPo",
+   "en": "Travelling the roads in the province is hazardous - merchants are afraid even to stick their noses out of the inns, visiting relatives in neighbouring villages is a life or death gamble and folk living in remote farmsteads sleep with axes under their pillows. Behind any oak or ash along the wayside, there may be a ruthless bandit lying in wait, or even a poor student, who has drunk away his last Groschen and entered the spirit of these lawless times. Either way, the victim is lucky to lose only his purse, and not his head. ",
+   "ro": "Călătoritul pe drumurile provinciei este periculos: neguțătorii se tem chiar să-și scoată nasul din hanuri, a-ți vizita rudele din satele vecine e un joc de viață și de moarte, iar oamenii din fermele izolate dorm cu topoare sub pernă. În spatele oricărui stejar sau frasin de la marginea drumului poate pândi un tâlhar nemilos sau chiar un sărac student, care și-a băut ultimul groschen și a intrat în duhul acestor vremuri fără de lege. Oricum ar fi, victima are noroc dacă pierde doar punga, și nu capul. "
+  },
+  {
+   "key": "chap_dlc3_sch8_9v0p_e24_xgFu",
+   "en": "You can see Sir Radzig and begin dealing with the dangers lurking on the provincial roads. He can usually be found at Pirkstein Castle in Rattay. If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc3Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon. This assignment may be temporarily unavailable during the military operations towards the end of the main storyline, or may halt progress in the story for a while. ",
+   "ro": "Poți să-l vezi pe Sir Radzig și să începi să te ocupi de pericolele care pândesc pe drumurile provinciei. De obicei îl poți găsi la castelul Pirkstein din Rattay. Dacă nu ești sigur unde să-l găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc3Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;. Această sarcină poate fi temporar indisponibilă în timpul operațiunilor militare de spre finalul poveștii principale sau poate opri progresul poveștii pentru un timp. "
+  },
+  {
+   "key": "chap_dlc4_sch1_AMrB_e3098_CkTL",
+   "en": "Talk to Johanka",
+   "ro": "Vorbește cu Johanka"
+  },
+  {
+   "key": "chap_dlc4_sch15_0k9l_e13_o1c5",
+   "en": "Once she goes into Skalitz, Theresa can't continue to pursue side quests and won't be able to save the survivors outside.",
+   "ro": "Odată ce ajunge în Skalitz, Theresa nu mai poate urmări misiuni secundare și nu va mai putea salva supraviețuitorii de afară."
+  },
+  {
+   "key": "chap12_sch20_Bmon_e2_Zpwe",
+   "en": "Foe",
+   "ro": "Dușman"
+  },
+  {
+   "key": "chap12_sch20_Bmon_e3_4ZbU",
+   "en": "Fight",
+   "ro": "Luptă"
+  },
+  {
+   "key": "chap12_sch20_Bmon_e4_pPRz",
+   "en": "Stop",
+   "ro": "Oprește"
+  },
+  {
+   "key": "chap12_sch20_Bmon_e6_FZId",
+   "en": "Flee",
+   "ro": "(Fugi)"
+  },
+  {
+   "key": "chap12_sch20_Bmon_e8_evade",
+   "en": "Evade",
+   "ro": "Evită"
+  },
+  {
+   "key": "chap12_sch3_6Ntp_e1050_ShB2",
+   "en": "You blacked out and have no idea how you got here.",
+   "ro": "Ai leșinat și nu ai nicio idee cum ai ajuns aici."
+  },
+  {
+   "key": "chap17_t1C__sch0_kfJy_e117_T7YN",
+   "en": "There's no time. You're under attack!",
+   "ro": "Nu e timp. Ești atacat!"
+  },
+  {
+   "key": "chap17_t1C__sch0_kfJy_e131_CFPj",
+   "en": "You abandoned your lord and he died. For that you'll swing on the gallows.",
+   "ro": "Ți-ai părăsit jupânul, iar el a murit. Pentru asta vei fi spânzurat."
+  },
+  {
+   "key": "chap17_t1C_sch1_oPBP_e1311_7rP3",
+   "en": "Pick roses",
+   "ro": "Culege trandafiri"
+  },
+  {
+   "key": "chap17_t1C_sch1_oPBP_e597_vKdO",
+   "en": "Get into the bath dressed.",
+   "ro": "Intră în cadă îmbrăcat."
+  },
+  {
+   "key": "chap17_t1C_sch1_oPBP_e598_e1oH",
+   "en": "Take off the clothes and get into the bath.",
+   "ro": "Scoate hainele și intră în cadă."
+  },
+  {
+   "key": "chap17_t1C_sch2_dZo8_e1718_qbrs",
+   "en": "A certain robber baron by the name of Wolflin of Kamberg has been pillaging farms in the fiefdom of Rattay with his band of renegades. The Lord of Rattay, Sir Hanush, takes a very dim view of his estates being ransacked, and so he's sent out a punitive expedition to deal with the outlaws. You are to take part.",
+   "ro": "Un anumit baron tâlhar pe nume Wolflin de Kamberg jefuiește de câtva timp fermele din feudul Rattay, împreună cu banda sa de renegați. Jupânul Rattay-ului, Sir Hanush, privește cu foarte mare nemulțumire la devastarea domeniilor sale, așa că a trimis o expediție de pedeapsă împotriva tâlharilor. Tu trebuie să iei parte."
+  },
+  {
+   "key": "chap17_t1C_sch2_dZo8_e1719_yQKd",
+   "en": "Your corps is about to attack Wolflin's encampment. It will be a tough battle, because the enemy is expecting you and your forces are more or less matched. Arm yourself well and may God guide your hand!",
+   "ro": "Oastea ta este pe punctul de a ataca tabăra lui Wolflin. Va fi o bătălie grea, pentru că dușmanul te așteaptă, iar forțele voastre sunt cam egale. Înarmează-te bine și fie ca Dumnezeu să-ți călăuzească mâna!"
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e1_FNiR",
+   "en": "There's never a dull moment with the bold Sir Hans Capon. Before he can proceed with his knightly duties, he wants me to help him with a certain delicate matter of great urgency. ",
+   "ro": "Cu vitejul Sir Hans Capon nu te plictisești niciodată. Înainte să-și poată urma datoriile cavalerești, vrea să-l ajut la o chestiune delicată și foarte urgentă. "
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e11_pHxc",
+   "en": "The beginning of a new adventure with Sir Hans is active at the end of the Capon quest line, culminating in the &amp;lt;font color='#B8AE7E'&amp;gt;Robber Baron&amp;lt;/font&amp;gt; assigment, which can be started after the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Questions and Answers.&amp;lt;/font&amp;gt; Capon, however, has no time for amorous adventures during the battles towards the end of the game, so you won't be able to accept the quest from him until the very end, when Sir Hans arrives at the camp by Neuhof. If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc2Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon.",
+   "ro": "Începutul unei noi aventuri cu Sir Hans este activ la sfârșitul șirului de misiuni Capon, culminând cu misiunea &amp;lt;font color='#B8AE7E'&amp;gt;Baronul tâlhar&amp;lt;/font&amp;gt;, care poate fi pornită după misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Întrebări și răspunsuri.&amp;lt;/font&amp;gt; Capon însă nu are timp de aventuri amoroase în bătăliile de la sfârșitul jocului, așa că nu vei putea accepta misiunea de la el decât la final, când Sir Hans ajunge în tabăra de lângă Neuhof. Dacă nu ești sigur unde să-l găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc2Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;."
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e13_J5OK",
+   "en": "The beginning of a new adventure with Sir Hans is now active. All you have to do is go and talk to him. Capon, however, has no time for amorous adventures during the battles towards the end of the game, so you won't be able to accept the quest from him until the very end, when Sir Hans goes to the camp at Neuhof. If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc2Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon.",
+   "ro": "Începutul unei noi aventuri cu Sir Hans este acum activ. Tot ce trebuie să faci este să mergi și să vorbești cu el. Capon însă nu are timp de aventuri amoroase în bătăliile de la sfârșitul jocului, așa că nu vei putea accepta misiunea de la el decât la final, când Sir Hans merge în tabăra de la Neuhof. Dacă nu ești sigur unde să-l găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc2Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;."
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e2_Kw10",
+   "en": "Knowing that Sir Hans has somewhat different priorities than the other local lords, it wouldn't be unreasonable to assume that a damsel is involved. After our last dramatic adventure at the bathhouse, I'm curious - and more than a little apprehensive - as to what his latest escapade will be all about.",
+   "ro": "Știind că Sir Hans are alte priorități decât ceilalți lorzi locali, n-ar fi nefiresc să presupunem că e implicată o domniță. După ultima noastră aventură dramatică de la băi, sunt curios – și nu puțin neliniștit – ce va ieși din cea mai recentă ispravă a lui."
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e2_NFgO",
+   "en": "Wicked tongues say the heir to the Town of Rattay, young Sir Hans Capon, is an incorrigible seducer and whore-monger. A more charitable view is that he's just looking for love. The kind you can't buy at the bathhouse...",
+   "ro": "Limbile rele spun că tânărul Sir Hans Capon, moștenitorul orașului Rattay, este un seducător incorigibil și un desfrânat. O părere mai binevoitoare spune că e doar în căutarea iubirii. Aceea pe care n-o poți cumpăra de la băi..."
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e3_XzI6",
+   "en": "You know the heir to the Town of Rattay, young Sir Hans Capon, well enough to realise that there's more than a little truth to the rumours that he's an incorrigible seducer and whore-monger. But then again, maybe he's just looking for love. The kind you can't buy at the bathhouse...",
+   "ro": "Îl cunoști destul de bine pe tânărul Sir Hans Capon, moștenitorul orașului Rattay, cât să-ți dai seama că zvonurile despre el ca seducător incorigibil și desfrânat nu sunt deloc fără temei. Dar poate că e doar în căutarea iubirii. Aceea pe care n-o poți cumpăra de la băi..."
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e4_iPlE",
+   "en": "You have yet to make the acquaintance of the bold Sir Hans Capon, but once you do, be prepared to get drawn into his amorous adventures. You, a common blacksmith's son, will become His Lordship's herald, his messenger of love!",
+   "ro": "N-ai făcut încă cunoștință cu vitejul Sir Hans Capon, dar odată ce o faci, pregătește-te să fii atras în aventurile lui amoroase. Tu, un simplu fiu de fierar, vei deveni heraldul Domniei Sale, solul iubirii lui!"
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e6_YhfZ",
+   "en": "You have a feeling that if you knew him better, you are very likely to get drawn into his amorous adventures. His Lordship's herald, his messenger of love - it has a ring to it!",
+   "ro": "Ai impresia că dacă l-ai cunoaște mai bine, ai fi foarte probabil atras în aventurile lui amoroase. Heraldul Domniei Sale, solul iubirii – sună bine!"
+  },
+  {
+   "key": "chap17_t1C_sch3_JglP_e9_SGAF",
+   "en": "Sir Hans Capon, the rightful heir to the Town of Rattay, dedicates most of his time to educating himself in matters knightly. He excels at hunting, combat and horseriding... or so he believes. He hasn't mastered the nobel game of chess, or even the more common game of dice, and as for poetry recitation, the time has come for him to work on that, if he's to win the heart of the maiden of his dreams.",
+   "ro": "Sir Hans Capon, adevăratul moștenitor al orașului Rattay, își petrece cea mai mare parte a timpului instruindu-se în cele cavalerești. Excelează la vânătoare, luptă și călărie... sau așa crede el. Nu a stăpânit nobilul joc de șah și nici jocul de zaruri, mai comun, iar cât despre recitarea poeziei, a sosit vremea să se apuce de ea, dacă vrea să câștige inima fecioarei visurilor sale."
+  },
+  {
+   "key": "chap21_sch19_T9qy_e10_XLxy",
+   "en": "Begin combat (easy foe)",
+   "ro": "Începe lupta (dușman ușor)"
+  },
+  {
+   "key": "chap21_sch19_T9qy_e11_EBhq",
+   "en": "Begin combat (intermediate foe)",
+   "ro": "Începe lupta (dușman mediu)"
+  },
+  {
+   "key": "chap21_sch19_T9qy_e12_FPK6",
+   "en": "Begin combat (hard foe)",
+   "ro": "Începe lupta (dușman greu)"
+  },
+  {
+   "key": "chap21_sch19_T9qy_e13_h6fh",
+   "en": "Begin combat with two foes",
+   "ro": "Începe lupta cu doi dușmani"
+  },
+  {
+   "key": "chap21_sch19_T9qy_e14_Bvcn",
+   "en": "Begin battle (end of tutorial)",
+   "ro": "Începe bătălia (sfârșitul instructajului)"
+  },
+  {
+   "key": "chap21_sch7_d5jy_e23_l8le",
+   "en": "Black clouds of strife are gathering, the thundering drums of war rumble across the land and the whole  kingdom awaits the next lightning bolt with bated breath. Not so the undaunted Sir Hanush, who decided to bolster morale with a regular tourney to keep his subjects fighting fit and distract them from the pervasive gloom. ",
+   "ro": "Nori negri de ceartă se adună, tobele războiului bubuie peste țară, iar întregul regat așteaptă cu sufletul la gură următorul fulger. Nu și neînfricatul Sir Hanush, care a hotărât să ridice moralul printr-un turnir obișnuit, ca să-și țină supușii în formă de luptă și să-i distragă de la mohorârea care domnește peste tot. "
+  },
+  {
+   "key": "chap21_sch7_d5jy_e24_Edki",
+   "en": "The tourney takes place every few days by the Upper Castle in Rattay. All types of melee weapons are permitted, and the contest is open to combatants from all walks of life, even a lowborn, uneducated misfit like you. Just go and ask Sir Hans Capon about it and he'll tell you all you need to know.",
+   "ro": "Turnirul are loc la fiecare câteva zile lângă Castelul de Sus din Rattay. Sunt permise toate tipurile de arme de corp la corp, iar întrecerea este deschisă luptătorilor din toate categoriile sociale, chiar și unui om de jos, needucat și neisprăvit, ca tine. Nu trebuie decât să-l întrebi pe Sir Hans Capon despre el și îți va spune tot ce trebuie să știi."
+  },
+  {
+   "key": "chap21_sch7_d5jy_e26_cIeS",
+   "en": "Black clouds of strife are gathering, the thundering drums of war rumble across the land and the whole  kingdom awaits the next lightning bolt with bated breath. Not so the undaunted Sir Hanush, who decided to bolster morale with a regular tourney to keep his subjects fighting fit and distract them from the pervasive gloom. ",
+   "ro": "Nori negri de ceartă se adună, tobele războiului bubuie peste țară, iar întregul regat așteaptă cu sufletul la gură următorul fulger. Nu și neînfricatul Sir Hanush, care a hotărât să ridice moralul printr-un turnir obișnuit, ca să-și țină supușii în formă de luptă și să-i distragă de la mohorârea care domnește peste tot. "
+  },
+  {
+   "key": "chap21_sch7_d5jy_e27_dQji",
+   "en": "The tourney takes place every few days by the Upper Castle in Rattay. All types of melee weapons are permitted, and the contest is open to combatants from all walks of life, even a lowborn, uneducated misfit like you. Young Sir Hans Capon will tell you all you need to know about it. Once you've become better acquainted with him, that is. ",
+   "ro": "Turnirul are loc la fiecare câteva zile lângă Castelul de Sus din Rattay. Sunt permise toate tipurile de arme de corp la corp, iar întrecerea este deschisă luptătorilor din toate categoriile sociale, chiar și unui om de jos, needucat și neisprăvit, ca tine. Tânărul Sir Hans Capon îți va spune tot ce trebuie să știi despre el. Odată ce ai ajuns să-l cunoști mai bine, adică. "
+  },
+  {
+   "key": "chap21_sch7_d5jy_e30_5QY2",
+   "en": "The tournament convened by Sir Hanush takes place once every seven days at Rattay Upper Castle. The aim of the tourney is to test the skill of combatants will all kinds of weapons. It's intended for commoners, so you can enrol too. ",
+   "ro": "Turnirul organizat de Sir Hanush are loc o dată la șapte zile, la Castelul de Sus din Rattay. Scopul turnirului este să încerce iscusința luptătorilor cu tot felul de arme. Este destinat oamenilor de rând, deci și tu te poți înscrie. "
+  },
+  {
+   "key": "chap21_sch7_d5jy_e32_m7B8",
+   "en": "After completing the side quest &amp;lt;font color='#B8AE7E'&amp;gt;Next to Godliness&amp;lt;/font&amp;gt; with Sir Hans, you can accept a new quest from him, which will launch an instance of the regular tournament. If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlcTournamentOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon. If you've already progressed in the storyline as far as &amp;lt;font color='#B8AE7E'&amp;gt;Epilogue&amp;lt;/font&amp;gt;, you won't be able to accept the quest from Capon and the Tournament will launch on its own. the tournament will not take place while Sir Hanush is at war. ",
+   "ro": "După ce termini misiunea secundară &amp;lt;font color='#B8AE7E'&amp;gt;Curățenia e alături de sfințenie&amp;lt;/font&amp;gt; cu Sir Hans, poți accepta de la el o nouă misiune, care va porni o ediție a turnirului obișnuit. Dacă nu ești sigur unde să-l găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlcTournamentOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;. Dacă ai progresat deja în povestea principală până la &amp;lt;font color='#B8AE7E'&amp;gt;Epilog&amp;lt;/font&amp;gt;, nu vei putea accepta misiunea de la Capon, iar turnirul va porni de la sine. Turnirul nu va avea loc cât timp Sir Hanush este în război. "
+  },
+  {
+   "key": "chap21_sch7_d5jy_e34_2Ipt",
+   "en": "You can go and see Sir Hans and accept from him a new quest, which will launch a regular tournament. If you're not sure where to find Sir Hans, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlcTournamentOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon. If you've already progressed in the storyline as far as &amp;lt;font color='#B8AE7E'&amp;gt;Epilogue&amp;lt;/font&amp;gt;, you won't be able to accept the quest from Capon and the tournament will launch on its own. The tournament will not take place while Sir Hanush is at war. ",
+   "ro": "Poți merge să-l vezi pe Sir Hans și să accepți de la el o misiune nouă, care va porni un turneu regulat. Dacă nu ești sigur unde îl găsești pe Sir Hans, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlcTournamentOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;. Dacă ai avansat deja în firul povestirii până la &amp;lt;font color='#B8AE7E'&amp;gt;Epilog&amp;lt;/font&amp;gt;, nu vei putea accepta misiunea de la Capon, iar turneul va porni de la sine. Turneul nu va avea loc cât timp Sir Hanush este în război. "
+  },
+  {
+   "key": "chap21_sch7_d5jy_e36_F5Dq",
+   "en": "After launching the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Awakening&amp;lt;/font&amp;gt; in Rattay, a tournament will be automatically launched every week at Rattay Upper Castle. The tournament will not take place, however, while Sir Hanush is at war. ",
+   "ro": "După ce pornești misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Trezirea&amp;lt;/font&amp;gt; la Rattay, un turneu va porni automat în fiecare săptămână la Castelul de Sus din Rattay. Turneul nu va avea loc, însă, cât timp Sir Hanush este în război. "
+  },
+  {
+   "key": "chap27_PxIe_sch0_c5YT_e131_Qgwo",
+   "en": "Quest started",
+   "ro": "Misiune începută"
+  },
+  {
+   "key": "chap27_PxIe_sch0_c5YT_e132_70UZ",
+   "en": "Blessing of overseer",
+   "ro": "Binecuvântarea supraveghetorului"
+  },
+  {
+   "key": "chap27_PxIe_sch0_c5YT_e132_gMEy",
+   "en": "Chasing Zmola",
+   "ro": "Pe urmele lui Zmola"
+  },
+  {
+   "key": "chap27_PxIe_sch0_c5YT_e132_H3Q2",
+   "en": "Disappearance of Leshek",
+   "ro": "Dispariția lui Leshek"
+  },
+  {
+   "key": "chap32_sch1_Yhte_e2_eyDY",
+   "en": "Wayfarer",
+   "ro": "Călător"
+  },
+  {
+   "key": "chap32_sch1_Yhte_e4_dQKb",
+   "en": "Examine",
+   "ro": "Cercetează"
+  },
+  {
+   "key": "chap32_sch1_Yhte_e5_yZbc",
+   "en": "Ignore",
+   "ro": "Ignoră"
+  },
+  {
+   "key": "chap32_sch1_Yhte_e7_obSX",
+   "en": "Stop  ",
+   "ro": "Oprește  "
+  },
+  {
+   "key": "chap32_sch1_Yhte_e8_5efG",
+   "en": "Flee",
+   "ro": "(Fugi)"
+  },
+  {
+   "key": "chap35_sch2_HvqS_e52_pzSy",
+   "en": "To your surprise, you've found there are some interesting papers amongst your things. Most likely they were concealed in the saddlebag of the horse you escaped from Skalitz on. It seems the men of the Talmberg garrison assumed they were yours and put them in your trunk. But how would a common blacksmith's son come by such documents? After all, you can't even read! The mysterious documents have an ancient seal that testifies to the noble and ancient origin of their author. ",
+   "ro": "Spre surprinderea ta, ai găsit printre lucrurile tale câteva hârtii interesante. Cel mai probabil au fost ascunse în sacoșa de șa a calului pe care ai scăpat din Skalitz. Se pare că oamenii din garnizoana Talmberg le-au crezut ale tale și le-au pus în lada ta. Dar cum ar fi ajuns un simplu fiu de fierar la asemenea documente? Până la urmă, nici măcar nu știi să citești! Documentele misterioase poartă un sigiliu vechi, care dovedește nobila și vechea origine a autorului lor. "
+  },
+  {
+   "key": "chap35_sch2_HvqS_e53_nsaj",
+   "en": "You're not able to make any sense out of their content, but, luckily for you, you're not the first one to examine them. And whoever it was that read them, that learned person created a number of simple sketches based on their content, which look like descriptions of places where rare items of clothing and armour are hidden! You've put the papers safely away in your trunk, where they're waiting until you have time to study them more closely.",
+   "ro": "Nu reușești să înțelegi nimic din conținutul lor, dar, din fericire pentru tine, nu ești primul care le cercetează. Oricine le-a citit, cel învățat a făcut câteva schițe simple după conținutul lor, care par descrieri ale locurilor unde sunt ascunse piese rare de îmbrăcăminte și de armură! Ai pus hârtiile la loc sigur, în lada ta, unde așteaptă până vei avea timp să le studiezi mai atent."
+  },
+  {
+   "key": "chap35_sch2_HvqS_e56_v6wf",
+   "en": "A legend is circulating in the province about stashes containing magnificent Warhorse armour. Many people have searched for it, but in vain. With a little effort and the grace of God, perhaps you can succeed in finding the armour and donning it to assist you in fighting the good fight!",
+   "ro": "Un zvon circulă prin provincie despre ascunzători care conțin armuri magnifice pentru Warhorse. Mulți le-au căutat, dar în zadar. Cu puțină strădanie și cu harul lui Dumnezeu, poate reușești să găsești armura și s-o îmbraci, ca să te ajute în lupta cea bună!"
+  },
+  {
+   "key": "chap35_sch2_HvqS_e58_tSzl",
+   "en": "The first part of the Warhorse armour and five treasure maps will appear in your universal trunk after launching the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Awakening&amp;lt;/font&amp;gt; in Rattay Mill. You can access your trunk from any home or lodgings you have in the world.",
+   "ro": "Prima parte a armurii Warhorse și cinci hărți ale comorilor vor apărea în lada ta universală după ce pornești misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Trezirea&amp;lt;/font&amp;gt; la Moara din Rattay. Poți accesa lada de oriunde ai o casă sau o cameră de han în lume."
+  },
+  {
+   "key": "chap35_sch2_HvqS_e60_b6T9",
+   "en": "The first part of the Warhorse armour and five more treasure maps are stored in your universal trunk in Rattay Mill. You can access your trunk from any home or lodgings you have in the world.",
+   "ro": "Prima parte a armurii Warhorse și încă cinci hărți ale comorilor sunt păstrate în lada ta universală de la Moara din Rattay. Poți accesa lada de oriunde ai o casă sau o cameră de han în lume."
+  },
+  {
+   "key": "chap35_sch4_3oGW_e29_B18G",
+   "en": "Although you hardly ventured beyond Skalitz your whole life, now and again you heard tidings from travelling merchants and wayfarers about goings on in the outside world - the big harvest festival in Merhojed, the rebuilding of Sasau Monastery and stories about an abandoned village in the woods near Talmberg. ",
+   "ro": "Deși de-a lungul vieții tale aproape nu ai ieșit din Skalitz, din când în când ai auzit vești de la negustorii și călătorii ambulanți despre ce se petrece în lumea de afară: marea sărbătoare a recoltei de la Merhojed, reconstruirea mănăstirii din Sasau și povești despre un sat părăsit din pădure, lângă Talmberg. "
+  },
+  {
+   "key": "chap35_sch4_3oGW_e30_zOG0",
+   "en": "That village is called Pribyslavitz, and for years it has lain in ruins. You've always been curious about it - where exactly it is, what mysteries it conceals and why no one ever went back there to live. You're determined to go there and explore the village, just as soon as you and the local lords have dealt with the bandits.",
+   "ro": "Satul acela se numește Pribyslavitz și de ani de zile zace în ruine. Te-ai întrebat mereu unde se află exact, ce taine ascunde și de ce nu s-a mai întors nimeni să locuiască acolo. Ești hotărât să mergi acolo și să explorezi satul, îndată ce tu și domnii locali veți fi scăpat de tâlhari."
+  },
+  {
+   "key": "chap35_sch4_3oGW_e32_eqgM",
+   "en": "After you and your comrades-in-arms drove the bandits out of Pribyslavitz, the village was once again left to be slowly swallowed up by the woods. A shame - before being plundered by a renegade lord, it was no doubt a sprawling, bustling hamlet, judging by the size of the ruined church there, which is all that's left as a reminder of its former prosperity.",
+   "ro": "După ce tu și tovarășii tăi de arme i-ați alungat pe tâlhari din Pribyslavitz, satul a fost din nou lăsat să fie înghițit încet de pădure. Păcat: înainte de a fi jefuit de un jupân trădător, fără îndoială că era un cătun întins și vesel, judecând după mărimea bisericii ruinate de acolo, singura amintire a prosperității de odinioară."
+  },
+  {
+   "key": "chap35_sch4_3oGW_e33_mdnB",
+   "en": "You always wondered why the folk never went back to live there, so you were pleasantly surprised to learn that Sir Divish has plans for his former hamlet. You don't know exactly what he has in mind, but you'll be glad to have a hand in it. You're sure to find out in Talmberg what needs to be done.",
+   "ro": "Te-ai întrebat mereu de ce oamenii nu s-au mai întors să trăiască acolo, așa că ai fost plăcut surprins să afli că Sir Divish are planuri pentru fostul său cătun. Nu știi exact ce are în minte, dar te vei bucura să ajuți la asta. Sigur vei afla la Talmberg ce trebuie făcut."
+  },
+  {
+   "key": "chap35_sch4_3oGW_e41_Z7m2",
+   "en": "Pribyslavitz, a sprawling, long-abandoned village, is now swallowed up by the woods. You always wondered what secrets it concealed and why the villagers never returned there, and so you were pleasantly surprised when Sir Divish told you he had plans for the old settlement. ",
+   "ro": "Pribyslavitz, un sat întins, de mult părăsit, este acum înghițit de pădure. Te-ai întrebat mereu ce taine ascundea și de ce sătenii nu s-au mai întors acolo, așa că ai fost plăcut surprins când Sir Divish ți-a spus că are planuri pentru vechea așezare. "
+  },
+  {
+   "key": "chap35_sch4_3oGW_e43_Sx5N",
+   "en": "Sir Divish enlists your help in rebuilding Pribyslavitz after the bandits have been driven out of the hamlet in the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Baptism of Fire.&amp;lt;/font&amp;gt; If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc1Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon. However, you will temporarily not be able to launch or continue playing the DLC during any battle quests.",
+   "ro": "Sir Divish îți cere ajutorul la reconstruirea satului Pribyslavitz după ce tâlharii vor fi fost alungați din cătun, în misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Botezul focului.&amp;lt;/font&amp;gt; Dacă nu ești sigur unde îl găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc1Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;. Totuși, nu vei putea porni sau continua temporar DLC-ul în timpul misiunilor de luptă."
+  },
+  {
+   "key": "chap35_sch4_3oGW_e45_P5pu",
+   "en": "Go and see Sir Divish, who wants you to help rebuild Pribyslavitz.  If you're not sure where to find him, look for the &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc1Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt; icon. Bear in mind, though, that it will not be possible to temporarily resume or complete the rebuilding during any battles. ",
+   "ro": "Mergi și vorbește cu Sir Divish, care vrea să-l ajuți la reconstruirea satului Pribyslavitz. Dacă nu ești sigur unde să-l găsești, caută pictograma &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc1Overlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;. Ține minte însă că reconstrucția nu poate fi reluată sau încheiată temporar în timpul vreunei lupte. "
+  },
+  {
+   "key": "chap35_sch5_mZpP_e507_HUZ7",
+   "en": "A few days later.",
+   "ro": "Câteva zile mai târziu."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e11_xZNi",
+   "en": "You can get a dog from Theresa at Rattay Mill, but only after launching the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Awakening&amp;lt;/font&amp;gt;.",
+   "ro": "Poți primi un câine de la Theresa, la Moara din Rattay, dar numai după ce pornești misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Trezirea&amp;lt;/font&amp;gt;."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e13_pa33",
+   "en": "Theresa's story is now active. You can launch the quest line by talking to Theresa. You'll be led to her by &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4TheresaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;.",
+   "ro": "Povestea Theresei este acum activă. Poți porni firul misiunilor vorbind cu Theresa. Te va duce la ea &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4TheresaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e17_jskP",
+   "en": "Theresa is now looking after a dog at Rattay Mill. She's hoping you take it over, because her uncle, Miller Peshek, doesn't like the animal. Go and see Theresa and offer to help.",
+   "ro": "Theresa are acum grijă de un câine la Moara din Rattay. Speră să-l iei tu, pentru că unchiul ei, morarul Peshek, nu suferă animalul. Mergi și vorbește cu Theresa și oferă-te să ajuți."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e21_BK5Z",
+   "en": "A difficult fate awaits Johanka. To find out more, go and visit her at the monastery infirmary and look for &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4JohankaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;",
+   "ro": "O soartă grea o așteaptă pe Johanka. Ca să afli mai multe, du-te s-o vezi la infirmeria mănăstirii și caută &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4JohankaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;"
+  },
+  {
+   "key": "chap35_sch6_EHtL_e3_k92t",
+   "en": "Armed with fortitude and dignity, she faces the coming days with a smile on her lips. And since God moves in mysterious ways, none of us can know the lot we shall have to bear. But it is often those of whom we least expect it who encounter an extraordinary destiny...",
+   "ro": "Înarmată cu tărie și demnitate, ea înfruntă zilele ce vin cu un zâmbet pe buze. Și, fiindcă Dumnezeu lucrează în chipuri tainice, niciunul dintre noi nu poate ști soarta pe care o va purta. Dar adesea cei de la care ne-am aștepta cel mai puțin întâlnesc un destin extraordinar..."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e5_oXts",
+   "en": "You're the son of a blacksmith, whose life centred around the forge, not farming and livestock. It's not as if you ever missed cattle or pigs, but to have a dog of your own? Now that would be nice...",
+   "ro": "Ești fiul unui fierar, a cărui viață se învârtea în jurul forjei, nu al agriculturii și al vitelor. Nu că ți-ar fi lipsit vreodată vacile sau porcii, dar să ai un câine al tău? Asta ar fi frumos..."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e7_tMbu",
+   "en": "Theresa's story will be available to you once you launch the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Awakening&amp;lt;/font&amp;gt;. Then all you have to do is talk to Theresa in Rattay Mill. You'll be led to her by &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4TheresaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;.",
+   "ro": "Povestea Theresei îți va fi disponibilă după ce pornești misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Trezirea&amp;lt;/font&amp;gt;. Tot ce ai de făcut este să vorbești cu Theresa la Moara din Rattay. Vei fi călăuzit spre ea de &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4TheresaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;."
+  },
+  {
+   "key": "chap35_sch6_EHtL_e9_AUe9",
+   "en": "A difficult fate awaits Johanka. To find out more about it, you must have completed the side quests &amp;lt;font color='#B8AE7E'&amp;gt;Pestilence&amp;lt;/font&amp;gt; and &amp;lt;font color='#B8AE7E'&amp;gt;In God's Hands&amp;lt;/font&amp;gt;, whether successfully or not. You will get to &amp;lt;font color='#B8AE7E'&amp;gt;Pestilence&amp;lt;/font&amp;gt; from the main quest &amp;lt;font color='#B8AE7E'&amp;gt;Questions and Answers&amp;lt;/font&amp;gt;. &amp;lt;font color='#B8AE7E'&amp;gt;In God's Hands&amp;lt;/font&amp;gt; is assigned to you by Johanka, who is to be found at Sasau Monastery. Once you've completed those quests, all you have to do is visit Johanka again, where you will be guided by &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4JohankaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;.",
+   "ro": "O soartă grea o așteaptă pe Johanka. Ca să afli mai multe despre ea, trebuie să fi încheiat misiunile secundare &amp;lt;font color='#B8AE7E'&amp;gt;Pestilența&amp;lt;/font&amp;gt; și &amp;lt;font color='#B8AE7E'&amp;gt;În mâinile lui Dumnezeu&amp;lt;/font&amp;gt;, cu succes sau nu. Vei ajunge la &amp;lt;font color='#B8AE7E'&amp;gt;Pestilența&amp;lt;/font&amp;gt; din misiunea principală &amp;lt;font color='#B8AE7E'&amp;gt;Întrebări și răspunsuri&amp;lt;/font&amp;gt;. &amp;lt;font color='#B8AE7E'&amp;gt;În mâinile lui Dumnezeu&amp;lt;/font&amp;gt; ți-o dă Johanka, care se află la Mănăstirea Sasau. Odată ce ai încheiat aceste misiuni, tot ce ai de făcut este să o vizitezi din nou pe Johanka, unde vei fi călăuzit de &amp;lt;img src='img://Libs/UI/Textures/Dynamic/dlc4JohankaOverlay.dds' width='38' height='38' align='baseline' vspace='-8' &amp;gt;."
+  },
+  {
+   "key": "chap5_sch35_xmhH_e337_KWau",
+   "en": "Preacher",
+   "ro": "Predicator"
+  },
+  {
+   "key": "chap5_sch42_ZQyf_e13_bdlz",
+   "en": "Hold-up",
+   "ro": "Jaf"
+  },
+  {
+   "key": "chap5_sch42_ZQyf_e14_Ii0w",
+   "en": "Don't interfere in it",
+   "ro": "Nu te amesteca"
+  },
+  {
+   "key": "chap5_sch42_ZQyf_e18_AlMX",
+   "en": "Fight",
+   "ro": "Luptă"
+  },
+  {
+   "key": "chap5_sch42_ZQyf_e19_lmga",
+   "en": "Watch the battle",
+   "ro": "Privește lupta"
+  },
+  {
+   "key": "chap5_sch42_ZQyf_e19_velx",
+   "en": "Flee",
+   "ro": "(Fugi)"
+  },
+  {
+   "key": "chap5_sch42_ZQyf_e23_Onaq",
+   "en": "Untie",
+   "ro": "Dezleagă"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e497_Jylz",
+   "en": "Carcass on the Road",
+   "ro": "Carcasă pe drum"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e498_udhL",
+   "en": "Stop",
+   "ro": "Oprește"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e499_Gkvg",
+   "en": "Ride around and ignore it",
+   "ro": "Ocolește călare și ignoră"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e500_6K58",
+   "en": "Go around and ignore it",
+   "ro": "Ocolește și ignoră"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e503_wcog",
+   "en": "Have a chat",
+   "ro": "Schimbă câteva cuvinte"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e504_4I17",
+   "en": "Flee",
+   "ro": "(Fugi)"
+  },
+  {
+   "key": "chap5_sch44_mS8C_e514_FS5n",
+   "en": "Look at the weapon",
+   "ro": "Privește arma"
+  },
+  {
+   "key": "chap5_sch45_nmtr_e95_BhsL",
+   "en": "Give the convict a drink.",
+   "ro": "Dă o băutură condamnatului."
+  },
+  {
+   "key": "chap5_sch47_94Dl_e1_W2wk",
+   "en": "Chase",
+   "ro": "Urmărire"
+  },
+  {
+   "key": "chap5_sch50_NV1D_e1_O1wc",
+   "en": "Attack on the road",
+   "ro": "Atac pe drum"
+  },
+  {
+   "key": "chap5_sch50_NV1D_e16_ewho",
+   "en": "Scout",
+   "ro": "Iscodește"
+  },
+  {
+   "key": "chap5_sch50_NV1D_e17_PQwb",
+   "en": "Halt",
+   "ro": "Oprește-te"
+  },
+  {
+   "key": "chap5_sch50_NV1D_e18_2dRv",
+   "en": "Run away",
+   "ro": "Fugi"
+  },
+  {
+   "key": "chap5_sch50_NV1D_e19_RGfd",
+   "en": "Avoid",
+   "ro": "Evită"
+  },
+  {
+   "key": "chapter1a_sch15_T7No_e6_QlXw",
+   "en": "Too many of your men have died.",
+   "ro": "Prea mulți dintre oamenii tăi au murit."
+  },
+  {
+   "key": "chapter1a_sch2_iRf2_e11_6IvY",
+   "en": "The early 15th century was a time of turmoil in the Holy Roman Empire, which had flourished under the late Emperor Charles IV, but now, with his son Wenceslas “the Idle“ on the Bohemian throne, was falling into disarray.\r\n\r\n",
+   "ro": "The early 15th century was a time of turmoil in the Holy Roman Empire, which had flourished under the late Emperor Charles IV, but now, with his son Wenceslas “the Idle“ on the Bohemian throne, was falling into disarray.\r\n\r\n"
+  },
+  {
+   "key": "chapter1a_sch2_iRf2_e12_U8N0",
+   "en": "The King’s inactivity angered many of the nobility, as well as his half-brother, King Sigismund of Hungary, who decided to take drastic steps to restore order to the Empire…\r\n",
+   "ro": "The King’s inactivity angered many of the nobility, as well as his half-brother, King Sigismund of Hungary, who decided to take drastic steps to restore order to the Empire…\r\n"
+  },
+  {
+   "key": "chapter1a_sch2_iRf2_e12_vkUl",
+   "en": "Silver Skalitz, 1403",
+   "ro": "Skalitz de argint, 1403"
+  },
+  {
+   "key": "chapter1a_sch2_iRf2_e990_QBhT",
+   "en": "Throw manure.",
+   "ro": "Aruncă gunoi de grajd."
+  },
+  {
+   "key": "chapter1a_sch22_LAqJ_e810_xbED",
+   "en": "Skip mass",
+   "ro": "Lipsește de la liturghie"
+  },
+  {
+   "key": "chapter1a_sch22_LAqJ_e815_OUNX",
+   "en": "Eat",
+   "ro": "Mănâncă"
+  },
+  {
+   "key": "chapter1a_sch25_kJcP_e58_PAkf",
+   "en": "Raise the portcullis",
+   "ro": "Ridică rastelul"
+  },
+  {
+   "key": "chapter1a_sch25_kJcP_e9_mUC2",
+   "en": "Before the return to Talmberg",
+   "ro": "Înainte de întoarcerea la Talmberg"
+  },
+  {
+   "key": "chapter1a_sch28_w7oB_e271_IWz9",
+   "en": "You did not arrive at the battleground.",
+   "ro": "Nu ai ajuns la câmpul de luptă."
+  },
+  {
+   "key": "chapter1a_sch28_w7oB_e273_wPqw",
+   "en": "You fled the battlefield.",
+   "ro": "Ai fugit de pe câmpul de luptă."
+  },
+  {
+   "key": "chapter1a_sch7_9t19_e58_Suu4",
+   "en": "In the castle.",
+   "ro": "În castel."
+  },
+  {
+   "key": "chapter1a_sch7_9t19_e8_Zrcd",
+   "en": "Run!",
+   "ro": "Fugiți!"
+  },
+  {
+   "key": "chapter1a_sch7_nFPk_e311_GKf6",
+   "en": "Zbyshek killed you while you were unconscious.",
+   "ro": "Zbyshek te-a ucis cât erai inconștient."
+  },
+  {
+   "key": "chapter1a_sch8_Votg_e104_iWG2",
+   "en": "A FEW DELIRIOUS DAYS LATER…",
+   "ro": "CÂTEVA ZILE DELIRANTE MAI TÂRZIU…"
+  },
+  {
+   "key": "chapter1a_sch8_Votg_e186_2516",
+   "en": "AND EVEN LATER…",
+   "ro": "ȘI MAI TÂRZIU…"
+  },
+  {
+   "key": "chapter1a_sch9_FEsU_e1491_2eLv",
+   "en": "Inspect",
+   "ro": "Inspectează"
+  }
+ ]
+}

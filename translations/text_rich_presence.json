@@ -1,0 +1,65 @@
+{
+ "table": "text_rich_presence.xml",
+ "entries": [
+  {
+   "key": "hero_stat_kills",
+   "en": "Enemies killed",
+   "ro": "Inamici uciși"
+  },
+  {
+   "key": "hero_stat_max_level",
+   "en": "Level reached",
+   "ro": "Nivel atins"
+  },
+  {
+   "key": "hero_stat_money",
+   "en": "Money collected",
+   "ro": "Bani obținuți"
+  },
+  {
+   "key": "hero_stat_playtime",
+   "en": "Total playtime",
+   "ro": "Timp total de joc"
+  },
+  {
+   "key": "rich_presence_initial",
+   "en": "Initial rich presence",
+   "ro": "Prezență inițială (rich presence)"
+  },
+  {
+   "key": "rich_presence_main_quest_started",
+   "en": "Playing the quest %s",
+   "ro": "Joacă misiunea %s"
+  },
+  {
+   "key": "rich_presence_skill_level_up",
+   "en": "New skill level (%s)",
+   "ro": "Nivel nou de îndemânare (%s)"
+  },
+  {
+   "key": "rich_presence_stat_level_up",
+   "en": "New stat level (%s)",
+   "ro": "Nivel nou de atribut (%s)"
+  },
+  {
+   "key": "xbox_rp_level_up_skill",
+   "en": "Skill level up - ( {0} )",
+   "ro": "Îndemânare crescută - ( {0} )"
+  },
+  {
+   "key": "xbox_rp_level_up_stat",
+   "en": "Stat level up - ({0}) - not used now",
+   "ro": "Atribut crescut - ({0}) - nefolosit acum"
+  },
+  {
+   "key": "xbox_rp_playing_game",
+   "en": "I'm playing the game",
+   "ro": "Mă joc acum"
+  },
+  {
+   "key": "xbox_rp_playing_quest",
+   "en": "Playing the quest {0}",
+   "ro": "Joacă misiunea {0}"
+  }
+ ]
+}

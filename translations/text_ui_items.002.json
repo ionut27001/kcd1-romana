@@ -1,0 +1,3185 @@
+{
+ "table": "text_ui_items.xml",
+ "entries": [
+  {
+   "key": "ui_nm_lepiota_dried",
+   "en": "Dried lepiota",
+   "ro": "Lepiotă uscată"
+  },
+  {
+   "key": "ui_nm_letter_for_karolina",
+   "en": "Letter for Karolina",
+   "ro": "Scrisoare pentru Karolina"
+  },
+  {
+   "key": "ui_nm_libri_prohibiti_key",
+   "en": "Key to forbidden books",
+   "ro": "Cheia cărților interzise"
+  },
+  {
+   "key": "ui_nm_linen",
+   "en": "Linen cloth",
+   "ro": "Pânză de in"
+  },
+  {
+   "key": "ui_nm_live_chicken",
+   "en": "Live chicken",
+   "ro": "Găină vie"
+  },
+  {
+   "key": "ui_nm_liver",
+   "en": "Deer liver",
+   "ro": "Ficat de cerb"
+  },
+  {
+   "key": "ui_nm_liver_cooked",
+   "en": "Cooked deer liver",
+   "ro": "Ficat de cerb gătit"
+  },
+  {
+   "key": "ui_nm_lockpick",
+   "en": "Lockpick",
+   "ro": "Descuie"
+  },
+  {
+   "key": "ui_nm_long_sword_EXAMPLE",
+   "en": "Test longsword",
+   "ro": "Spadă lungă de probă"
+  },
+  {
+   "key": "ui_nm_long_sword_expensive_01",
+   "en": "St. Michael's sword",
+   "ro": "Sabia Sfântului Mihail"
+  },
+  {
+   "key": "ui_nm_long_sword_expensive_02",
+   "en": "Herod's Sword",
+   "ro": "Sabia lui Irod"
+  },
+  {
+   "key": "ui_nm_long_sword_expensive_03",
+   "en": "Longinus' sword",
+   "ro": "Sabia lui Longinus"
+  },
+  {
+   "key": "ui_nm_long_sword_expensive_04",
+   "en": "Magdeburg sword",
+   "ro": "Sabia de Magdeburg"
+  },
+  {
+   "key": "ui_nm_long_sword_expensive_05",
+   "en": "St. George's sword",
+   "ro": "Sabia Sfântului Gheorghe"
+  },
+  {
+   "key": "ui_nm_long_sword_cheap_01",
+   "en": "Robber's sword",
+   "ro": "Sabia tâlharului"
+  },
+  {
+   "key": "ui_nm_long_sword_cheap_02",
+   "en": "Assassin",
+   "ro": "Asasin"
+  },
+  {
+   "key": "ui_nm_long_sword_cheap_03",
+   "en": "Pricker",
+   "ro": "Împungătorul"
+  },
+  {
+   "key": "ui_nm_long_sword_cheap_04",
+   "en": "Thumper",
+   "ro": "Bătăușul"
+  },
+  {
+   "key": "ui_nm_long_sword_cheap_05",
+   "en": "Saving Grace",
+   "ro": "Harul mântuitor"
+  },
+  {
+   "key": "ui_nm_long_sword_medium_01",
+   "en": "Merchant's sword",
+   "ro": "Sabia negustorului"
+  },
+  {
+   "key": "ui_nm_long_sword_medium_02",
+   "en": "Soul Slicer",
+   "ro": "Tăietorul de suflete"
+  },
+  {
+   "key": "ui_nm_long_sword_medium_03",
+   "en": "Piercer",
+   "ro": "Străpungătorul"
+  },
+  {
+   "key": "ui_nm_long_sword_medium_04",
+   "en": "Fearnot",
+   "ro": "Fărăfrică"
+  },
+  {
+   "key": "ui_nm_long_sword_medium_05",
+   "en": "Duellist",
+   "ro": "Duelistul"
+  },
+  {
+   "key": "ui_nm_long_sword_new_homes",
+   "en": "Tusk",
+   "ro": "Colțul"
+  },
+  {
+   "key": "ui_nm_lovecke_ruka",
+   "en": "Hunter's gloves",
+   "ro": "Mănuși de vânător"
+  },
+  {
+   "key": "ui_nm_lucerne_hammer",
+   "en": "Lucerne hammer",
+   "ro": "Ciocan de Luzern"
+  },
+  {
+   "key": "ui_nm_lumberjack_axe",
+   "en": "Woodcutter's axe",
+   "ro": "Topor de lemnar"
+  },
+  {
+   "key": "ui_nm_mace",
+   "en": "Mace",
+   "ro": "Buzdugan"
+  },
+  {
+   "key": "ui_nm_mace_EXAMPLE",
+   "en": "Test mace",
+   "ro": "Buzdugan de probă"
+  },
+  {
+   "key": "ui_nm_mag_kyrys",
+   "en": "Magdeburg cuirass",
+   "ro": "Platoșă de Magdeburg"
+  },
+  {
+   "key": "ui_nm_mag_plat",
+   "en": "Magdeburg plate pauldrons",
+   "ro": "Umăriere de plăci de Magdeburg"
+  },
+  {
+   "key": "ui_nm_mag_plat_noh",
+   "en": "Magdeburg plate chausses",
+   "ro": "Pulpane de plăci Magdeburg"
+  },
+  {
+   "key": "ui_nm_magdeburk_ruka",
+   "en": "Magdeburg gauntlets",
+   "ro": "Mănuși Magdeburg"
+  },
+  {
+   "key": "ui_nm_magic_PI_mushroom",
+   "en": "Magic PI - mushroom",
+   "ro": "PI magic - ciupercă"
+  },
+  {
+   "key": "ui_nm_map_dice_contest",
+   "en": "Scorched map ",
+   "ro": "Hartă pârjolită "
+  },
+  {
+   "key": "ui_nm_map_dlc4_theresa_treasure",
+   "en": "Map to Skalitz treasure",
+   "ro": "Harta comorii din Skalitz"
+  },
+  {
+   "key": "ui_nm_map_klaster_northwest",
+   "en": "Treasure map I",
+   "ro": "Harta comorii I"
+  },
+  {
+   "key": "ui_nm_map_klaster_west",
+   "en": "Treasure map II",
+   "ro": "Harta comorii II"
+  },
+  {
+   "key": "ui_nm_map_klaster_west2",
+   "en": "Treasure map III",
+   "ro": "Harta comorii III"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_east",
+   "en": "Treasure map IV",
+   "ro": "Harta comorii IV"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_north",
+   "en": "Treasure map V",
+   "ro": "Harta comorii V"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_northeast",
+   "en": "Treasure map VI",
+   "ro": "Harta comorii VI"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_northwest",
+   "en": "Treasure map VII",
+   "ro": "Harta comorii VII"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_south",
+   "en": "Treasure map VIII",
+   "ro": "Harta comorii VIII"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_southeast",
+   "en": "Ancient map I",
+   "ro": "Harta veche I"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_southwest",
+   "en": "Treasure map X",
+   "ro": "Harta comorii X"
+  },
+  {
+   "key": "ui_nm_map_ledetchko_west",
+   "en": "Treasure map XI",
+   "ro": "Harta comorii XI"
+  },
+  {
+   "key": "ui_nm_map_neuhof_south",
+   "en": "Treasure map XII",
+   "ro": "Harta comorii XII"
+  },
+  {
+   "key": "ui_nm_map_neuhof_southeast",
+   "en": "Treasure map XIII",
+   "ro": "Harta comorii XIII"
+  },
+  {
+   "key": "ui_nm_map_neuhof_southeast2",
+   "en": "Treasure map XIV",
+   "ro": "Harta comorii XIV"
+  },
+  {
+   "key": "ui_nm_map_neuhof_southwest",
+   "en": "Treasure map XV",
+   "ro": "Harta comorii XV"
+  },
+  {
+   "key": "ui_nm_map_ratay_west",
+   "en": "Ancient Map IV",
+   "ro": "Harta veche IV"
+  },
+  {
+   "key": "ui_nm_map_rovna_southwest",
+   "en": "Treasure map XVII",
+   "ro": "Harta comorii XVII"
+  },
+  {
+   "key": "ui_nm_map_samopesh_west",
+   "en": "Treasure map XVI",
+   "ro": "Harta comorii XVI"
+  },
+  {
+   "key": "ui_nm_map_sazava_northwest",
+   "en": "Treasure map XIX",
+   "ro": "Harta comorii XIX"
+  },
+  {
+   "key": "ui_nm_map_skalitz_east",
+   "en": "Treasure map XX",
+   "ro": "Harta comorii XX"
+  },
+  {
+   "key": "ui_nm_map_skalitz_mines",
+   "en": "Treasure map XXI",
+   "ro": "Harta comorii XXI"
+  },
+  {
+   "key": "ui_nm_map_skalitz_north",
+   "en": "Ancient map V",
+   "ro": "Harta veche V"
+  },
+  {
+   "key": "ui_nm_map_skalitz_northeast",
+   "en": "Treasure map XXIII",
+   "ro": "Harta comorii XXIII"
+  },
+  {
+   "key": "ui_nm_map_skalitz_northwest",
+   "en": "Treasure map XXIV",
+   "ro": "Harta comorii XXIV"
+  },
+  {
+   "key": "ui_nm_map_skalitz_south",
+   "en": "Treasure map IX",
+   "ro": "Harta comorii IX"
+  },
+  {
+   "key": "ui_nm_map_skalitz_west",
+   "en": "Treasure map XXV",
+   "ro": "Harta comorii XXV"
+  },
+  {
+   "key": "ui_nm_map_stolen_silver",
+   "en": "Map of flooded shaft",
+   "ro": "Harta puțului inundat"
+  },
+  {
+   "key": "ui_nm_map_talmberk_east",
+   "en": "Treasure map XVIII",
+   "ro": "Harta comorii XVIII"
+  },
+  {
+   "key": "ui_nm_map_uzice_north",
+   "en": "Ancient Map III",
+   "ro": "Harta veche III"
+  },
+  {
+   "key": "ui_nm_map_vranik_south",
+   "en": "Ancient map II",
+   "ro": "Harta veche II"
+  },
+  {
+   "key": "ui_nm_map_vranik_southwest",
+   "en": "Treasure map XXII",
+   "ro": "Harta comorii XXII"
+  },
+  {
+   "key": "ui_nm_markrabske_valky",
+   "en": "On the Margraviate Wars",
+   "ro": "Despre războaiele margrafiatului"
+  },
+  {
+   "key": "ui_nm_mash",
+   "en": "Lentil mash",
+   "ro": "Piure de linte"
+  },
+  {
+   "key": "ui_nm_matej_die",
+   "en": "Matthias' lucky dice",
+   "ro": "Zarurile norocoase ale lui Matthias"
+  },
+  {
+   "key": "ui_nm_meat_piece",
+   "en": "Piece of meat",
+   "ro": "Bucată de carne"
+  },
+  {
+   "key": "ui_nm_meat_piece_cooked",
+   "en": "Cooked piece of meat",
+   "ro": "Bucată de carne gătită"
+  },
+  {
+   "key": "ui_nm_meat_piece_dried",
+   "en": "Dried meat",
+   "ro": "Carne uscată"
+  },
+  {
+   "key": "ui_nm_meat_piece_smoked",
+   "en": "Smoked meat",
+   "ro": "Carne afumată"
+  },
+  {
+   "key": "ui_nm_mikulas_horn",
+   "en": "Nicholas' hunting horn",
+   "ro": "Cornul de vânătoare al lui Nicholas"
+  },
+  {
+   "key": "ui_nm_mil_brig",
+   "en": "Milanese brigandine",
+   "ro": "Brigantină milaneză"
+  },
+  {
+   "key": "ui_nm_mil_brig_col",
+   "en": "Dyed Milanese brigandine",
+   "ro": "Brigantină milaneză vopsită"
+  },
+  {
+   "key": "ui_nm_mil_brig_dark",
+   "en": "Dark Milanese brigandine",
+   "ro": "Brigantină milaneză închisă"
+  },
+  {
+   "key": "ui_nm_mil_kyrys",
+   "en": "Milanese cuirass",
+   "ro": "Platoșă milaneză"
+  },
+  {
+   "key": "ui_nm_mil_kyrys_kr",
+   "en": "Shortened Milanese cuirass",
+   "ro": "Platoșă milaneză scurtată"
+  },
+  {
+   "key": "ui_nm_mil_plat",
+   "en": "Milanese plate pauldrons",
+   "ro": "Umărare milaneze de plăci"
+  },
+  {
+   "key": "ui_nm_mil_plat_noh",
+   "en": "Milanese plate chausses",
+   "ro": "Ciorapi de plăci milanezi"
+  },
+  {
+   "key": "ui_nm_mil_ruka",
+   "en": "Milanese gauntlets",
+   "ro": "Mănuși milaneze"
+  },
+  {
+   "key": "ui_nm_milanska_briga",
+   "en": "Bright Milanese brigandine",
+   "ro": "Brigantină milaneză strălucitoare"
+  },
+  {
+   "key": "ui_nm_mis_plat_noh",
+   "en": "Meissen plate chausses",
+   "ro": "Ciorapi de plăci de Meissen"
+  },
+  {
+   "key": "ui_nm_misen_plat",
+   "en": "Meissen plate pauldrons",
+   "ro": "Umărare de plăci de Meissen"
+  },
+  {
+   "key": "ui_nm_money",
+   "en": "Groschen  ",
+   "ro": "Groschen  "
+  },
+  {
+   "key": "ui_nm_monk_coat",
+   "en": "Monk's habit",
+   "ro": "Haina de călugăr"
+  },
+  {
+   "key": "ui_nm_morgenstern",
+   "en": "Morgenstern",
+   "ro": "Morgenstern"
+  },
+  {
+   "key": "ui_nm_mysky",
+   "en": "Plate couters",
+   "ro": "Cotiere de plăci"
+  },
+  {
+   "key": "ui_nm_mysky_uvaz",
+   "en": "Plate couters",
+   "ro": "Cotiere de plăci"
+  },
+  {
+   "key": "ui_nm_nahrdelnik_1",
+   "en": "Simple neckchain",
+   "ro": "Lanț simplu de gât"
+  },
+  {
+   "key": "ui_nm_nahrdelnik_2",
+   "en": "Silver neck chain",
+   "ro": "Lanț de gât de argint"
+  },
+  {
+   "key": "ui_nm_nahrdelnik_3",
+   "en": "Gold necklace",
+   "ro": "Colier de aur"
+  },
+  {
+   "key": "ui_nm_nahrdelnik_4",
+   "en": "Heraldic neckchain",
+   "ro": "Lanț de gât heraldic"
+  },
+  {
+   "key": "ui_nm_nahrdelnik_5",
+   "en": "Gold chain",
+   "ro": "Lanț de aur"
+  },
+  {
+   "key": "ui_nm_nahrdelnik_tereza",
+   "en": "Mother's necklace",
+   "ro": "Colierul mamei"
+  },
+  {
+   "key": "ui_nm_natepniky",
+   "en": "Vambraces",
+   "ro": "Brațare"
+  },
+  {
+   "key": "ui_nm_necklace_001",
+   "en": "Necklace",
+   "ro": "Colier"
+  },
+  {
+   "key": "ui_nm_nem_slap",
+   "en": "German bascinet",
+   "ro": "Bacinet german"
+  },
+  {
+   "key": "ui_nm_nem_zdob_sla",
+   "en": "Decorated German bascinet",
+   "ro": "Bacinet german ornamentat"
+  },
+  {
+   "key": "ui_nm_newhomes_report_to_rattay",
+   "en": "Sir Divish's announcement",
+   "ro": "Anunțul lui Sir Divish"
+  },
+  {
+   "key": "ui_nm_nightgown_001",
+   "en": "Nightgown",
+   "ro": "Cămașă de noapte"
+  },
+  {
+   "key": "ui_nm_nor_kyrys",
+   "en": "Nurembergian cuirass",
+   "ro": "Platoșă nurnbergheză"
+  },
+  {
+   "key": "ui_nm_nor_plat_noh",
+   "en": "Nuremberg plate chausses",
+   "ro": "Ciorapi de plăci de Nürnberg"
+  },
+  {
+   "key": "ui_nm_norim_plat",
+   "en": "Nuremberg plate pauldrons",
+   "ro": "Umărare de plăci de Nürnberg"
+  },
+  {
+   "key": "ui_nm_norimberk_ruka",
+   "en": "Nuremberg gauntlets",
+   "ro": "Mănuși de la Nürnberg"
+  },
+  {
+   "key": "ui_nm_o_svatokupectvi",
+   "en": "On Simony",
+   "ro": "Despre simonie"
+  },
+  {
+   "key": "ui_nm_oblehani_prahy",
+   "en": "The Peculiar Siege of Prague",
+   "ro": "Asediul neobișnuit al Pragăi"
+  },
+  {
+   "key": "ui_nm_obnos_gambe",
+   "en": "Threadbare gambeson",
+   "ro": "Gambezon tocit"
+  },
+  {
+   "key": "ui_nm_obnos_gambe_cer",
+   "en": "Threadbare dark gambeson",
+   "ro": "Gambezon închis, tocit"
+  },
+  {
+   "key": "ui_nm_obycejny_haube",
+   "en": "Short common hauberk",
+   "ro": "Hauberc scurt, obișnuit"
+  },
+  {
+   "key": "ui_nm_onion",
+   "en": "Onion",
+   "ro": "Ceapă"
+  },
+  {
+   "key": "ui_nm_onion_cooked",
+   "en": "Cooked onion",
+   "ro": "Ceapă fiartă"
+  },
+  {
+   "key": "ui_nm_ornate_gold_chalice",
+   "en": "Ornamented golden goblet",
+   "ro": "Pocal auriu ornamentat"
+  },
+  {
+   "key": "ui_nm_ota_kyrys",
+   "en": "Armourer Ota's cuirass",
+   "ro": "Platoșa armurierului Ota"
+  },
+  {
+   "key": "ui_nm_pa_arm_015_bonus",
+   "en": "Warhorse pauldrons",
+   "ro": "Umărare pentru cal de război"
+  },
+  {
+   "key": "ui_nm_pa_helmet_001",
+   "en": "Old bascinet",
+   "ro": "Bacinet vechi"
+  },
+  {
+   "key": "ui_nm_pa_helmet_002_talmberk",
+   "en": "Kettle hat",
+   "ro": "Coif de fier"
+  },
+  {
+   "key": "ui_nm_pa_helmet_023_bonus",
+   "en": "Warhorse helmet",
+   "ro": "Cască pentru cal de război"
+  },
+  {
+   "key": "ui_nm_pa_legs_011_bonus",
+   "en": "Warhorse greaves",
+   "ro": "Jambiere pentru cal de război"
+  },
+  {
+   "key": "ui_nm_pa_legs_016_bonus",
+   "en": "Warhorse greaves",
+   "ro": "Jambiere pentru cal de război"
+  },
+  {
+   "key": "ui_nm_pan_skladane_noh",
+   "en": "Noble's composite chausses",
+   "ro": "Ciorapi compoziți ai nobilului"
+  },
+  {
+   "key": "ui_nm_panske_ruka",
+   "en": "Nobleman's gauntlets",
+   "ro": "Mănuși de plăci ale nobilului"
+  },
+  {
+   "key": "ui_nm_pansky_hauberk",
+   "en": "Short noble hauberk",
+   "ro": "Cotă scurtă de zale nobiliară"
+  },
+  {
+   "key": "ui_nm_pansky_hauberk_d",
+   "en": "Long noble hauberk",
+   "ro": "Cotă lungă de zale nobiliară"
+  },
+  {
+   "key": "ui_nm_pansky_kyrys",
+   "en": "Noble cuirass",
+   "ro": "Platoșă nobilă"
+  },
+  {
+   "key": "ui_nm_pants_001",
+   "en": "Red hose",
+   "ro": "Ciorapi roșii"
+  },
+  {
+   "key": "ui_nm_pants_001_blue",
+   "en": "Decorated blue hose",
+   "ro": "Ciorapi albaștri decorați"
+  },
+  {
+   "key": "ui_nm_pants_001_dirty_blue",
+   "en": "Blue hose",
+   "ro": "Ciorapi albaștri"
+  },
+  {
+   "key": "ui_nm_pants_001_dirty_brown",
+   "en": "Brown hose",
+   "ro": "Ciorapi maro"
+  },
+  {
+   "key": "ui_nm_pants_001_dirty_green",
+   "en": "Green hose",
+   "ro": "Ciorapi verzi"
+  },
+  {
+   "key": "ui_nm_pants_001_dirty_yellow",
+   "en": "Yellow hose",
+   "ro": "Ciorapi galbeni"
+  },
+  {
+   "key": "ui_nm_pants_001_miparty_02",
+   "en": "Grey hose",
+   "ro": "Ciorapi gri"
+  },
+  {
+   "key": "ui_nm_pants_001_miparty_03",
+   "en": "Red-white miparti hose",
+   "ro": "Ciorapi miparti roșu-albi"
+  },
+  {
+   "key": "ui_nm_pants_001_miparty_03_C2",
+   "en": "Decorated black hose",
+   "ro": "Ciorapi negri decorați"
+  },
+  {
+   "key": "ui_nm_pants_001_miparty_03_noble",
+   "en": "Light decorated hose",
+   "ro": "Ciorapi ușori, decorați"
+  },
+  {
+   "key": "ui_nm_pants_001_rattay",
+   "en": "Yellow-black hose",
+   "ro": "Ciorapi galben-negri"
+  },
+  {
+   "key": "ui_nm_pants_001_sasau",
+   "en": "Blue and green hose",
+   "ro": "Ciorapi albaștri și verzi"
+  },
+  {
+   "key": "ui_nm_pants_001_skalitz",
+   "en": "Red-yellow hose",
+   "ro": "Ciorapi roșu-galbeni"
+  },
+  {
+   "key": "ui_nm_pants_001_talmberg",
+   "en": "Red and white hose",
+   "ro": "Ciorapi roșii și albi"
+  },
+  {
+   "key": "ui_nm_pants_002",
+   "en": "Braies",
+   "ro": "Braies"
+  },
+  {
+   "key": "ui_nm_pants_003",
+   "en": "Fashionable black hose",
+   "ro": "Ciorapi negri la modă"
+  },
+  {
+   "key": "ui_nm_pants_003_blue",
+   "en": "Fashionable blue hose",
+   "ro": "Ciorapi albaștri la modă"
+  },
+  {
+   "key": "ui_nm_pants_003_green",
+   "en": "Fashionable green hose",
+   "ro": "Ciorapi verzi la modă"
+  },
+  {
+   "key": "ui_nm_pants_003_red",
+   "en": "Fashionable red hose",
+   "ro": "Ciorapi roșii la modă"
+  },
+  {
+   "key": "ui_nm_pants_004",
+   "en": "Loose hose",
+   "ro": "Ciorapi largi"
+  },
+  {
+   "key": "ui_nm_pants_005",
+   "en": "Tight olive hose",
+   "ro": "Ciorapi strânși, măslinii"
+  },
+  {
+   "key": "ui_nm_pants_005_arrow",
+   "en": "Tight hose",
+   "ro": "Ciorapi strânși"
+  },
+  {
+   "key": "ui_nm_pants_005_blue",
+   "en": "Tight blue hose",
+   "ro": "Ciorapi strânși albaștri"
+  },
+  {
+   "key": "ui_nm_pants_005_dark",
+   "en": "Tight black hose",
+   "ro": "Ciorapi strânși negri"
+  },
+  {
+   "key": "ui_nm_pants_005_greener",
+   "en": "Tight green hose",
+   "ro": "Ciorapi strânși verzi"
+  },
+  {
+   "key": "ui_nm_pants_006_color_var_A",
+   "en": "Nobleman's blue hose",
+   "ro": "Ciorapi nobiliari albaștri"
+  },
+  {
+   "key": "ui_nm_pants_006_color_var_B",
+   "en": "Nobleman's brown hose",
+   "ro": "Ciorapi nobiliari maro"
+  },
+  {
+   "key": "ui_nm_pants_006_color_var_B_straps",
+   "en": "Green nobleman's hose",
+   "ro": "Ciorapi nobiliari verzi"
+  },
+  {
+   "key": "ui_nm_pants_006_color_var_C",
+   "en": "Noble yellow-green hose",
+   "ro": "Ciorapi nobiliari galben-verzi"
+  },
+  {
+   "key": "ui_nm_pants_006_color_var_D",
+   "en": "Noble's red-blue hose",
+   "ro": "Ciorapi nobiliari roșu-albaștri"
+  },
+  {
+   "key": "ui_nm_pants_006_color_var_E",
+   "en": "Nobleman's red hose",
+   "ro": "Ciorapi nobiliari roșii"
+  },
+  {
+   "key": "ui_nm_pants_007",
+   "en": "Patched hose",
+   "ro": "Ciorapi peticiți"
+  },
+  {
+   "key": "ui_nm_pants_007_color_var_C",
+   "en": "Patched dark hose",
+   "ro": "Ciorapi întunecați, peticiți"
+  },
+  {
+   "key": "ui_nm_pavels_dagger",
+   "en": "Pavel's dagger",
+   "ro": "Pumnalul lui Pavel"
+  },
+  {
+   "key": "ui_nm_pea_soup",
+   "en": "Pea soup",
+   "ro": "Supă de mazăre"
+  },
+  {
+   "key": "ui_nm_pear",
+   "en": "Pear",
+   "ro": "Hrushka"
+  },
+  {
+   "key": "ui_nm_pear_cooked",
+   "en": "Cooked pear",
+   "ro": "Pară fiartă"
+  },
+  {
+   "key": "ui_nm_pear_dried",
+   "en": "Dried pear",
+   "ro": "Pară uscată"
+  },
+  {
+   "key": "ui_nm_pernach",
+   "en": "Pernach",
+   "ro": "Pernach"
+  },
+  {
+   "key": "ui_nm_peshek_pickpocket_knife",
+   "en": "Peshek's dagger",
+   "ro": "Pumnalul lui Peshek"
+  },
+  {
+   "key": "ui_nm_pickpocket_bag",
+   "en": "Pouch with amulet",
+   "ro": "Pungă cu amuletă"
+  },
+  {
+   "key": "ui_nm_pickpocket_hooker_bag",
+   "en": "Purse with coin",
+   "ro": "Pungă cu bani"
+  },
+  {
+   "key": "ui_nm_pickpocket_hooker_key",
+   "en": "Trunk key",
+   "ro": "Cheia lădiței"
+  },
+  {
+   "key": "ui_nm_pickpocket_hooker_knife",
+   "en": "Old whore's dagger",
+   "ro": "Pumnalul unei vechi târfe"
+  },
+  {
+   "key": "ui_nm_pickpocket_hooker_shawl",
+   "en": "Old whore's shawl  ",
+   "ro": "Șalul unei vechi târfe  "
+  },
+  {
+   "key": "ui_nm_pickpocket_reward_boots",
+   "en": "Slippers",
+   "ro": "Papuci"
+  },
+  {
+   "key": "ui_nm_pickpocket_scarf",
+   "en": "Farm girl's shawl",
+   "ro": "Șalul fetei de la fermă"
+  },
+  {
+   "key": "ui_nm_pickpocket_tinder",
+   "en": "Draper's tinderbox",
+   "ro": "Amnarul postăvarului"
+  },
+  {
+   "key": "ui_nm_pickpocket_vagabund_ring",
+   "en": "Family ring",
+   "ro": "Inel de familie"
+  },
+  {
+   "key": "ui_nm_pickpocket_vagabund_seal",
+   "en": "Guild signet",
+   "ro": "Sigiliul breslei"
+  },
+  {
+   "key": "ui_nm_pig_liver",
+   "en": "Pork liver",
+   "ro": "Ficat de porc"
+  },
+  {
+   "key": "ui_nm_pig_liver_cooked",
+   "en": "Cooked pork liver",
+   "ro": "Ficat de porc fiert"
+  },
+  {
+   "key": "ui_nm_pig_meat",
+   "en": "Pork",
+   "ro": "Carne de porc"
+  },
+  {
+   "key": "ui_nm_pig_meat_cooked",
+   "en": "Cooked pork",
+   "ro": "Carne de porc gătită"
+  },
+  {
+   "key": "ui_nm_pig_meat_dried",
+   "en": "Dried pork",
+   "ro": "Carne de porc uscată"
+  },
+  {
+   "key": "ui_nm_pig_meat_smoked",
+   "en": "Smoked bacon",
+   "ro": "Slănină afumată"
+  },
+  {
+   "key": "ui_nm_pilgrim_coat",
+   "en": "Penitent's robe",
+   "ro": "Roba penitentului"
+  },
+  {
+   "key": "ui_nm_pitcher_01_mead",
+   "en": "Mead",
+   "ro": "Hidromel"
+  },
+  {
+   "key": "ui_nm_pitcher_07_milk",
+   "en": "Milk",
+   "ro": "Lapte"
+  },
+  {
+   "key": "ui_nm_pla_kab_col",
+   "en": "Plate jack dyed",
+   "ro": "Jachetă cu plăci, vopsită"
+  },
+  {
+   "key": "ui_nm_pla_kab_dark",
+   "en": "Dark plate-armour jacket",
+   "ro": "Jachetă de armură cu plăci, întunecată"
+  },
+  {
+   "key": "ui_nm_podbi_natep",
+   "en": "Riveted vambraces",
+   "ro": "Antebrațe nituite"
+  },
+  {
+   "key": "ui_nm_podbi_ramena",
+   "en": "Riveted pauldrons",
+   "ro": "Epoleți nituiți"
+  },
+  {
+   "key": "ui_nm_podbij_noh",
+   "en": "Riveted chausses",
+   "ro": "Cuisme nituite"
+  },
+  {
+   "key": "ui_nm_podbij_svet_noh",
+   "en": "Riveted bright chausses",
+   "ro": "Cuisme nituite, strălucitoare"
+  },
+  {
+   "key": "ui_nm_podbij_zdob_noh",
+   "en": "Riveted decorated chausses",
+   "ro": "Cuisme nituite, decorate"
+  },
+  {
+   "key": "ui_nm_podbij_zlat_noh",
+   "en": "Riveted gilded chausses",
+   "ro": "Cuisme nituite, aurite"
+  },
+  {
+   "key": "ui_nm_podbijene_ruka",
+   "en": "Riveted gloves",
+   "ro": "Mănuși nituite"
+  },
+  {
+   "key": "ui_nm_podkoni_a_zak",
+   "en": "The Groom and the Apprentice",
+   "ro": "Mirele și ucenicul"
+  },
+  {
+   "key": "ui_nm_pol_plat",
+   "en": "Polish plate pauldrons",
+   "ro": "Epoleți de plăci, de factură poloneză"
+  },
+  {
+   "key": "ui_nm_polearm_wooden",
+   "en": "Wooden training halberd",
+   "ro": "Halebardă de lemn pentru antrenament"
+  },
+  {
+   "key": "ui_nm_polske_sklad_noh",
+   "en": "Polish composite chausses",
+   "ro": "Cuisme compozite, de factură poloneză"
+  },
+  {
+   "key": "ui_nm_polsky_kyrys",
+   "en": "Polish cuirass",
+   "ro": "Cuirasă poloneză"
+  },
+  {
+   "key": "ui_nm_pomlazka",
+   "en": "Pomlázka",
+   "ro": "Pomlázka"
+  },
+  {
+   "key": "ui_nm_porridge",
+   "en": "Porridge",
+   "ro": "Fiertură de cereale"
+  },
+  {
+   "key": "ui_nm_potion_absintium",
+   "en": "Artemisia potion",
+   "ro": "Poțiune de pelin"
+  },
+  {
+   "key": "ui_nm_potion_antidote",
+   "en": "Antidote ",
+   "ro": "Antidot "
+  },
+  {
+   "key": "ui_nm_potion_archer",
+   "en": "Bowman's Brew",
+   "ro": "Berea arcașului"
+  },
+  {
+   "key": "ui_nm_potion_bane",
+   "en": "Bane potion",
+   "ro": "Poțiune mortală"
+  },
+  {
+   "key": "ui_nm_potion_bard",
+   "en": "Bard potion",
+   "ro": "Poțiune de bard"
+  },
+  {
+   "key": "ui_nm_potion_berserk",
+   "en": "Bivoj's Rage potion",
+   "ro": "Poțiunea Furiei lui Bivoj"
+  },
+  {
+   "key": "ui_nm_potion_deadly_poison",
+   "en": "Strong poison",
+   "ro": "Otravă puternică"
+  },
+  {
+   "key": "ui_nm_potion_dementia",
+   "en": "Mind enfeeblement potion",
+   "ro": "Poțiune de slăbire a minții"
+  },
+  {
+   "key": "ui_nm_potion_diarrhoea",
+   "en": "Diarrhoea potion",
+   "ro": "Poțiune pentru diaree"
+  },
+  {
+   "key": "ui_nm_potion_digestion",
+   "en": "Digestive potion",
+   "ro": "Poțiune digestivă"
+  },
+  {
+   "key": "ui_nm_potion_drinker",
+   "en": "Hair o' the Dog potion",
+   "ro": "Leac de beție"
+  },
+  {
+   "key": "ui_nm_potion_energy",
+   "en": "Cockerel potion",
+   "ro": "Poțiune de Cocoșel"
+  },
+  {
+   "key": "ui_nm_potion_fake_blood",
+   "en": "Fake blood",
+   "ro": "Sânge fals"
+  },
+  {
+   "key": "ui_nm_potion_generic",
+   "en": "Unknown potion",
+   "ro": "Poțiune necunoscută"
+  },
+  {
+   "key": "ui_nm_potion_health_basic",
+   "en": "Marigold decoction",
+   "ro": "Decoct de gălbenele"
+  },
+  {
+   "key": "ui_nm_potion_health_strong",
+   "en": "Lazarus potion",
+   "ro": "Poțiunea lui Lazăr"
+  },
+  {
+   "key": "ui_nm_potion_hooch",
+   "en": "Moonshine",
+   "ro": "Rachiu de casă"
+  },
+  {
+   "key": "ui_nm_potion_horseman",
+   "en": "Aesop potion",
+   "ro": "Poțiunea lui Esop"
+  },
+  {
+   "key": "ui_nm_potion_hunter",
+   "en": "Embrocation",
+   "ro": "Embrocație"
+  },
+  {
+   "key": "ui_nm_potion_irresistibility",
+   "en": "Musk of Infinite Allure",
+   "ro": "Mosc al seducției infinite"
+  },
+  {
+   "key": "ui_nm_potion_long_heal",
+   "en": "Chamomile brew recipe",
+   "ro": "Rețeta decocției de mușețel"
+  },
+  {
+   "key": "ui_nm_potion_long_heal_a",
+   "en": "Chamomile brew",
+   "ro": "Infuzie de mușețel"
+  },
+  {
+   "key": "ui_nm_potion_lover",
+   "en": "Amor potion",
+   "ro": "Poțiune de amor"
+  },
+  {
+   "key": "ui_nm_potion_mrchojedy",
+   "en": "Remedy for Merhojed",
+   "ro": "Leac pentru Merhojed"
+  },
+  {
+   "key": "ui_nm_potion_oblivion",
+   "en": "Oblivion potion",
+   "ro": "Poțiune a uitării"
+  },
+  {
+   "key": "ui_nm_potion_owl",
+   "en": "Nighthawk potion",
+   "ro": "Poțiune Ochi de noapte"
+  },
+  {
+   "key": "ui_nm_potion_paralysis",
+   "en": "Dollmaker potion",
+   "ro": "Poțiunea păpușarului"
+  },
+  {
+   "key": "ui_nm_potion_poison",
+   "en": "Poison",
+   "ro": "Otrăvuri"
+  },
+  {
+   "key": "ui_nm_potion_preserver",
+   "en": "Preserver",
+   "ro": "Conservant"
+  },
+  {
+   "key": "ui_nm_potion_pribyslavitz_beer",
+   "en": "Pribyslavitz Boar",
+   "ro": "Mistrețul de Pribyslavitz"
+  },
+  {
+   "key": "ui_nm_potion_rataje_beer",
+   "en": "Rattay Pale",
+   "ro": "Rattay Pale"
+  },
+  {
+   "key": "ui_nm_potion_sleep",
+   "en": "Lullaby potion",
+   "ro": "Poțiune Cântec de leagăn"
+  },
+  {
+   "key": "ui_nm_potion_sneak",
+   "en": "Padfoot potion",
+   "ro": "Poțiune Padfoot"
+  },
+  {
+   "key": "ui_nm_potion_stamina",
+   "en": "Buck's Blood potion",
+   "ro": "Sânge de cerb"
+  },
+  {
+   "key": "ui_nm_potion_syrup",
+   "en": "Dandelion syrup",
+   "ro": "Sirop de păpădie"
+  },
+  {
+   "key": "ui_nm_potion_test_invincible",
+   "en": "Test Potion: Invincible",
+   "ro": "Poțiune de test: Invincibilitate"
+  },
+  {
+   "key": "ui_nm_potion_test_stamina_fr",
+   "en": "Test Potion: Stamina Frenzy",
+   "ro": "Poțiune de test: Vlagă năvalnică"
+  },
+  {
+   "key": "ui_nm_potion_tideness",
+   "en": "Tiredness potion",
+   "ro": "Poțiune de oboseală"
+  },
+  {
+   "key": "ui_nm_potion_vitality",
+   "en": "Aqua Vitalis",
+   "ro": "Apă de viață"
+  },
+  {
+   "key": "ui_nm_potion_witch",
+   "en": "Witch potion",
+   "ro": "Poțiune de vrăjitoare"
+  },
+  {
+   "key": "ui_nm_prcek_club",
+   "en": "Runt's club",
+   "ro": "Măciuca lui Runt"
+  },
+  {
+   "key": "ui_nm_pretzel",
+   "en": "Pretzel",
+   "ro": "Covrig"
+  },
+  {
+   "key": "ui_nm_pros_coif",
+   "en": "Padded coif",
+   "ro": "Căciulă căptușită"
+  },
+  {
+   "key": "ui_nm_pros_kukla",
+   "en": "Padded coif",
+   "ro": "Căciulă căptușită"
+  },
+  {
+   "key": "ui_nm_pros_kukla_bar",
+   "en": "Dyed quilted coif",
+   "ro": "Glugă căptușită vopsită"
+  },
+  {
+   "key": "ui_nm_pros_kukla_cer",
+   "en": "Padded black coif",
+   "ro": "Glugă neagră căptușită"
+  },
+  {
+   "key": "ui_nm_pros_nohy",
+   "en": "Padded chausses",
+   "ro": "Pantaloni căptușiți"
+  },
+  {
+   "key": "ui_nm_proti_blecham",
+   "en": "Flea and wart remedy",
+   "ro": "Leac pentru purici și negi"
+  },
+  {
+   "key": "ui_nm_prsten_1",
+   "en": "Copper ring",
+   "ro": "Inel de cupru"
+  },
+  {
+   "key": "ui_nm_prsten_2",
+   "en": "Silver ring",
+   "ro": "Inel de argint"
+  },
+  {
+   "key": "ui_nm_prsten_3",
+   "en": "Gold ring",
+   "ro": "Inel de aur"
+  },
+  {
+   "key": "ui_nm_prsten_4",
+   "en": "Signet ring",
+   "ro": "Inel cu sigiliu"
+  },
+  {
+   "key": "ui_nm_prsten_5",
+   "en": "Family ring",
+   "ro": "Inel de familie"
+  },
+  {
+   "key": "ui_nm_prsten_tereza",
+   "en": "Magpie's ring",
+   "ro": "Inelul coțofanei"
+  },
+  {
+   "key": "ui_nm_prusplech",
+   "en": "Cuirass",
+   "ro": "Cuirasă"
+  },
+  {
+   "key": "ui_nm_psi_cumak",
+   "en": "Hounskull",
+   "ro": "Hounskull"
+  },
+  {
+   "key": "ui_nm_ptaceks_necklace",
+   "en": "Capon’s family necklace",
+   "ro": "Colierul familiei Capon"
+  },
+  {
+   "key": "ui_nm_pvl_boots_leather",
+   "en": "High boots",
+   "ro": "Cizme înalte"
+  },
+  {
+   "key": "ui_nm_q_smithBattle_otasArmor",
+   "en": "Blacksmith Ota's armour",
+   "ro": "Armura fierarului Ota"
+  },
+  {
+   "key": "ui_nm_q_smithBattle_viteksArmor",
+   "en": "Apprentice Vitus' armour",
+   "ro": "Armura ucenicului Vitus"
+  },
+  {
+   "key": "ui_nm_qa_jacket_001",
+   "en": "Gambeson",
+   "ro": "Gambezon"
+  },
+  {
+   "key": "ui_nm_qa_jacket_001_talmberk",
+   "en": "Gambeson",
+   "ro": "Gambezon"
+  },
+  {
+   "key": "ui_nm_qa_legs_001_bonus",
+   "en": "Warhorse gambeson chausses",
+   "ro": "Jambiere de gambezon pentru cal de război"
+  },
+  {
+   "key": "ui_nm_qaw_ester_prison_key",
+   "en": "Key to shed",
+   "ro": "Cheia magaziei"
+  },
+  {
+   "key": "ui_nm_radish",
+   "en": "Radish",
+   "ro": "Ridiche"
+  },
+  {
+   "key": "ui_nm_radish_cooked",
+   "en": "Boiled radish",
+   "ro": "Ridiche fiartă"
+  },
+  {
+   "key": "ui_nm_ratayOutskirt_execKey",
+   "en": "Key to Heinz's chest",
+   "ro": "Cheia lădiței lui Heinz"
+  },
+  {
+   "key": "ui_nm_ratayPrisonCell_key",
+   "en": "Key",
+   "ro": "Cheie"
+  },
+  {
+   "key": "ui_nm_raubritter_livrej",
+   "en": "Garment",
+   "ro": "Veșmânt"
+  },
+  {
+   "key": "ui_nm_raven_feather",
+   "en": "Raven feathers",
+   "ro": "Pene de corb"
+  },
+  {
+   "key": "ui_nm_ravens_beak",
+   "en": "Raven's beak",
+   "ro": "Cioc de corb"
+  },
+  {
+   "key": "ui_nm_recipe_absintiumPotion",
+   "en": "Recipe for Artemisia potion",
+   "ro": "Rețetă pentru poțiune de pelin"
+  },
+  {
+   "key": "ui_nm_recipe_agilityPotion",
+   "en": "Recipe for Embrocation",
+   "ro": "Rețetă pentru unguent de frecție"
+  },
+  {
+   "key": "ui_nm_recipe_antidotePotion",
+   "en": "Recipe for Antidote",
+   "ro": "Rețeta pentru antidot"
+  },
+  {
+   "key": "ui_nm_recipe_archerPotion",
+   "en": "Recipe for Bowman's Brew",
+   "ro": "Rețeta pentru Bowman's Brew"
+  },
+  {
+   "key": "ui_nm_recipe_banePotion",
+   "en": "Recipe for Bane potion",
+   "ro": "Rețeta pentru poțiunea Bane"
+  },
+  {
+   "key": "ui_nm_recipe_bardPotion",
+   "en": "Recipe for Bard potion",
+   "ro": "Rețeta pentru poțiunea Bard"
+  },
+  {
+   "key": "ui_nm_recipe_berserkPotion",
+   "en": "Recipe for Bivoj's Rage potion",
+   "ro": "Rețeta pentru Furia lui Bivoj"
+  },
+  {
+   "key": "ui_nm_recipe_digestionPotion",
+   "en": "Recipe for Digestive potion",
+   "ro": "Rețeta pentru poțiunea digestivă"
+  },
+  {
+   "key": "ui_nm_recipe_drinkerPotion",
+   "en": "Recipe for Hair o' the Dog potion ",
+   "ro": "Rețeta pentru Leac de beție "
+  },
+  {
+   "key": "ui_nm_recipe_energyPotion",
+   "en": "Recipe for Cockerel potion",
+   "ro": "Rețeta pentru Cocoșel"
+  },
+  {
+   "key": "ui_nm_recipe_healthSmallPotion",
+   "en": "Recipe for Marigold decoction",
+   "ro": "Rețeta pentru Zeamă de gălbenele"
+  },
+  {
+   "key": "ui_nm_recipe_healthStrongPotion",
+   "en": "Recipe for Lazarus potion",
+   "ro": "Rețeta pentru poțiunea Lazarus"
+  },
+  {
+   "key": "ui_nm_recipe_hooch",
+   "en": "Recipe for Moonshine",
+   "ro": "Rețetă pentru rachiu de casă"
+  },
+  {
+   "key": "ui_nm_recipe_horseman",
+   "en": "Recipe for Aesop potion",
+   "ro": "Rețeta pentru poțiunea Aesop"
+  },
+  {
+   "key": "ui_nm_recipe_irresistibilityPotion",
+   "en": "Musk of Infinite Allure recipe",
+   "ro": "Rețeta pentru Mosc al Atracției Infinite"
+  },
+  {
+   "key": "ui_nm_recipe_loverPotion",
+   "en": "Recipe for Amor potion",
+   "ro": "Rețeta pentru poțiunea Amor"
+  },
+  {
+   "key": "ui_nm_recipe_owlPotion",
+   "en": "Recipe for Nighthawk potion",
+   "ro": "Rețeta pentru Ochi de noapte"
+  },
+  {
+   "key": "ui_nm_recipe_paralysisPotion",
+   "en": "Recipe for Dollmaker potion ",
+   "ro": "Rețeta pentru poțiunea Dollmaker "
+  },
+  {
+   "key": "ui_nm_recipe_poisonPotion",
+   "en": "Recipe for Poison",
+   "ro": "Rețeta pentru otravă"
+  },
+  {
+   "key": "ui_nm_recipe_preserverPotion",
+   "en": "Recipe for Preserver potion ",
+   "ro": "Rețeta pentru poțiunea Preserver "
+  },
+  {
+   "key": "ui_nm_recipe_respecPotion",
+   "en": "Recipe for Lethean Water",
+   "ro": "Rețeta pentru Apa Letei"
+  },
+  {
+   "key": "ui_nm_recipe_savePotion",
+   "en": "Recipe for Saviour Schnapps",
+   "ro": "Rețetă pentru Rachiu de Mântuire"
+  },
+  {
+   "key": "ui_nm_recipe_sleepPotion",
+   "en": "Recipe for Lullaby potion ",
+   "ro": "Rețeta poțiunii Cântec de leagăn "
+  },
+  {
+   "key": "ui_nm_recipe_sneakPotion",
+   "en": "Recipe for Padfoot potion ",
+   "ro": "Rețeta poțiunii Padfoot "
+  },
+  {
+   "key": "ui_nm_recipe_staminaPotion",
+   "en": "Recipe for Buck's Blood potion",
+   "ro": "Rețeta poțiunii Sânge de cerb"
+  },
+  {
+   "key": "ui_nm_recipe_vitalityPotion",
+   "en": "Recipe for Aqua Vitalis",
+   "ro": "Rețeta pentru Apă de viață"
+  },
+  {
+   "key": "ui_nm_recipe_witchPotion",
+   "en": "Recipe for Witch potion",
+   "ro": "Rețeta poțiunii Vrăjitoarea"
+  },
+  {
+   "key": "ui_nm_red_feather",
+   "en": "Red feather",
+   "ro": "Pană roșie"
+  },
+  {
+   "key": "ui_nm_reforged_scythe",
+   "en": "Reforged scythe",
+   "ro": "Coasă reforjată"
+  },
+  {
+   "key": "ui_nm_repairkit_armour",
+   "en": "Armourer's kit",
+   "ro": "Trusă de armurier"
+  },
+  {
+   "key": "ui_nm_repairkit_clothes",
+   "en": "Tailor's kit",
+   "ro": "Trusă de croitor"
+  },
+  {
+   "key": "ui_nm_repairkit_shoes",
+   "en": "Cobbler's kit",
+   "ro": "Trusă de cizmar"
+  },
+  {
+   "key": "ui_nm_repairkit_weapon",
+   "en": "Blacksmith's kit",
+   "ro": "Trusă de fierar"
+  },
+  {
+   "key": "ui_nm_resin_for_talmberk",
+   "en": "Keg of pitch",
+   "ro": "Butoi de smoală"
+  },
+  {
+   "key": "ui_nm_rich_brocade",
+   "en": "Rich brocade",
+   "ro": "Brocart bogat"
+  },
+  {
+   "key": "ui_nm_ring_test",
+   "en": "Ring",
+   "ro": "Inel"
+  },
+  {
+   "key": "ui_nm_roe_kidney",
+   "en": "Roe-deer kidneys",
+   "ro": "Rinichi de căprioară"
+  },
+  {
+   "key": "ui_nm_roe_kidney_cooked",
+   "en": "Cooked roe-deer kidneys",
+   "ro": "Rinichi de căprioară gătiți"
+  },
+  {
+   "key": "ui_nm_roe_meat",
+   "en": "Roe deer meat",
+   "ro": "Carne de căprior"
+  },
+  {
+   "key": "ui_nm_roe_meat_cooked",
+   "en": "Cooked roe-deer meat",
+   "ro": "Carne de căprioară gătită"
+  },
+  {
+   "key": "ui_nm_roe_meat_dried",
+   "en": "Dried roe venison",
+   "ro": "Carne uscată de căprior"
+  },
+  {
+   "key": "ui_nm_roe_meat_smoked",
+   "en": "Smoked roe venison",
+   "ro": "Carne afumată de căprior"
+  },
+  {
+   "key": "ui_nm_rooster_feather",
+   "en": "Rooster feather",
+   "ro": "Pană de cocoș"
+  },
+  {
+   "key": "ui_nm_rosary",
+   "en": "Rosary",
+   "ro": "Rozariu"
+  },
+  {
+   "key": "ui_nm_rubas",
+   "en": "Burial shroud",
+   "ro": "Giulgiu de înmormântare"
+  },
+  {
+   "key": "ui_nm_rump",
+   "en": "Rump",
+   "ro": "Crupă"
+  },
+  {
+   "key": "ui_nm_rump_cooked",
+   "en": "Cooked beef rump",
+   "ro": "Crupă de vită gătită"
+  },
+  {
+   "key": "ui_nm_rump_dried",
+   "en": "Dried beef rump",
+   "ro": "Crupă de vită uscată"
+  },
+  {
+   "key": "ui_nm_rump_smoked",
+   "en": "Smoked rump",
+   "ro": "Crupă afumată"
+  },
+  {
+   "key": "ui_nm_runts_club",
+   "en": "Runt's club",
+   "ro": "Măciuca lui Runt"
+  },
+  {
+   "key": "ui_nm_saber_1",
+   "en": "Common sabre",
+   "ro": "Sabie obișnuită"
+  },
+  {
+   "key": "ui_nm_saber_2",
+   "en": "Nicopolis sabre",
+   "ro": "Sabie de Nicopole"
+  },
+  {
+   "key": "ui_nm_saber_3",
+   "en": "Hungarian sabre",
+   "ro": "Sabie ungurească"
+  },
+  {
+   "key": "ui_nm_saber_4",
+   "en": "Rider's sabre",
+   "ro": "Sabia călărețului"
+  },
+  {
+   "key": "ui_nm_saber_5",
+   "en": "Decorated sabre",
+   "ro": "Sabie împodobită"
+  },
+  {
+   "key": "ui_nm_saber_6",
+   "en": "Oriental blade",
+   "ro": "Lamă orientală"
+  },
+  {
+   "key": "ui_nm_sack",
+   "en": "Sack",
+   "ro": "Sac"
+  },
+  {
+   "key": "ui_nm_saints_hints",
+   "en": "Jotted notes",
+   "ro": "Notițe scrise în grabă"
+  },
+  {
+   "key": "ui_nm_saints_moneybag",
+   "en": "Concealed sack of coin",
+   "ro": "Sac ascuns cu monede"
+  },
+  {
+   "key": "ui_nm_salami",
+   "en": "Salami",
+   "ro": "Salam"
+  },
+  {
+   "key": "ui_nm_salami_dried",
+   "en": "Dried salami",
+   "ro": "Salam uscat"
+  },
+  {
+   "key": "ui_nm_salami_smoked",
+   "en": "Smoked salami",
+   "ro": "Salam afumat"
+  },
+  {
+   "key": "ui_nm_salmo_trutta",
+   "en": "Trout",
+   "ro": "Păstrăv"
+  },
+  {
+   "key": "ui_nm_salmo_trutta_cooked",
+   "en": "Cooked trout",
+   "ro": "Păstrăv fiert"
+  },
+  {
+   "key": "ui_nm_salmo_trutta_dried",
+   "en": "Dried trout",
+   "ro": "Păstrăv uscat"
+  },
+  {
+   "key": "ui_nm_salmo_trutta_smoked",
+   "en": "Smoked trout",
+   "ro": "Păstrăv afumat"
+  },
+  {
+   "key": "ui_nm_sas_cave_bowl",
+   "en": "Bowl from the cave",
+   "ro": "Strachină din peșteră"
+  },
+  {
+   "key": "ui_nm_sas_plat",
+   "en": "Saxon plate pauldrons",
+   "ro": "Epoleți de plăci saxoni"
+  },
+  {
+   "key": "ui_nm_sas_sklad_noh",
+   "en": "Saxon composite chausses",
+   "ro": "Cioareci compozite saxone"
+  },
+  {
+   "key": "ui_nm_satin",
+   "en": "Satin",
+   "ro": "Satin"
+  },
+  {
+   "key": "ui_nm_savepotion",
+   "en": "Saviour Schnapps",
+   "ro": "Rachiul Mântuitorului"
+  },
+  {
+   "key": "ui_nm_saxon_ruka",
+   "en": "Saxon gauntlets",
+   "ro": "Mănuși saxone"
+  },
+  {
+   "key": "ui_nm_sazava_Church_Key",
+   "en": "Key to Sasau Church",
+   "ro": "Cheia bisericii din Sasau"
+  },
+  {
+   "key": "ui_nm_scarf_beige",
+   "en": "Beige scarf",
+   "ro": "Fular bej"
+  },
+  {
+   "key": "ui_nm_scarf_black",
+   "en": "Black scarf",
+   "ro": "Fular negru"
+  },
+  {
+   "key": "ui_nm_scarf_blue",
+   "en": "Blue scarf",
+   "ro": "Fular albastru"
+  },
+  {
+   "key": "ui_nm_scarf_gray",
+   "en": "Grey scarf",
+   "ro": "Fular gri"
+  },
+  {
+   "key": "ui_nm_scarf_over_eyes",
+   "en": "Piece of cloth",
+   "ro": "Bucată de pânză"
+  },
+  {
+   "key": "ui_nm_scarf_red",
+   "en": "Red scarf",
+   "ro": "Fular roșu"
+  },
+  {
+   "key": "ui_nm_scarf_yellow",
+   "en": "Yellow scarf",
+   "ro": "Fular galben"
+  },
+  {
+   "key": "ui_nm_scroll",
+   "en": "Seal",
+   "ro": "Sigiliu"
+  },
+  {
+   "key": "ui_nm_sheep_kidney",
+   "en": "Sheep kidneys",
+   "ro": "Rinichi de oaie"
+  },
+  {
+   "key": "ui_nm_sheep_kidney_cooked",
+   "en": "Cooked sheep kidneys",
+   "ro": "Rinichi de oaie fierți"
+  },
+  {
+   "key": "ui_nm_shield_01_rychvald",
+   "en": "House of Rychwald shield",
+   "ro": "Scut al Casei de Rychwald"
+  },
+  {
+   "key": "ui_nm_shield_01_rychvald01",
+   "en": "House of Rychwald shield",
+   "ro": "Scut al Casei de Rychwald"
+  },
+  {
+   "key": "ui_nm_shield_01_zoul",
+   "en": "House of Zoul shield",
+   "ro": "Scut al Casei de Zoul"
+  },
+  {
+   "key": "ui_nm_shield_black",
+   "en": "Black shield",
+   "ro": "Scut negru"
+  },
+  {
+   "key": "ui_nm_shield_decorated",
+   "en": "Shield decorated",
+   "ro": "Scut decorat"
+  },
+  {
+   "key": "ui_nm_shield_devil",
+   "en": "Devil's Scowl",
+   "ro": "Încruntătura Diavolului"
+  },
+  {
+   "key": "ui_nm_shield_EXAMPLE",
+   "en": "Test shield",
+   "ro": "Scut de probă"
+  },
+  {
+   "key": "ui_nm_shield_gothic_01",
+   "en": "Shield with crest",
+   "ro": "Scut cu blazon"
+  },
+  {
+   "key": "ui_nm_shield_hagen",
+   "en": "House of Zoul shield",
+   "ro": "Scut al Casei de Zoul"
+  },
+  {
+   "key": "ui_nm_shield_heavy",
+   "en": "Heavy shield",
+   "ro": "Scut greu"
+  },
+  {
+   "key": "ui_nm_shield_new_homes",
+   "en": "Boarback shield",
+   "ro": "Scut Boarback"
+  },
+  {
+   "key": "ui_nm_shield_ordinary",
+   "en": "Common shield",
+   "ro": "Scut obișnuit"
+  },
+  {
+   "key": "ui_nm_shield_rataje",
+   "en": "Lords of Leipa shield",
+   "ro": "Scutul domnilor din Leipa"
+  },
+  {
+   "key": "ui_nm_shield_round_metal",
+   "en": "Cuman metal shield",
+   "ro": "Scut cuman de metal"
+  },
+  {
+   "key": "ui_nm_shield_round_wooden",
+   "en": "Wooden Cuman shield",
+   "ro": "Scut cuman de lemn"
+  },
+  {
+   "key": "ui_nm_shield_sazava",
+   "en": "Shield of Sasau garrison",
+   "ro": "Scut al garnizoanei din Sasau"
+  },
+  {
+   "key": "ui_nm_shield_skalice",
+   "en": "Skalitz shield",
+   "ro": "Scut din Skalitz"
+  },
+  {
+   "key": "ui_nm_shield_talmberk",
+   "en": "Shield with Talmberg crest",
+   "ro": "Scut cu blazonul Talmberg"
+  },
+  {
+   "key": "ui_nm_shield_theresa_reward",
+   "en": "Skalitz shield",
+   "ro": "Scut din Skalitz"
+  },
+  {
+   "key": "ui_nm_shield_tournament",
+   "en": "Bouche shield",
+   "ro": "Scut Bouche"
+  },
+  {
+   "key": "ui_nm_shirt",
+   "en": "Linen shirt",
+   "ro": "Cămașă de in"
+  },
+  {
+   "key": "ui_nm_shirt_001",
+   "en": "Long linen shirt",
+   "ro": "Cămașă lungă de in"
+  },
+  {
+   "key": "ui_nm_shirt_001_blue",
+   "en": "Blue tunic",
+   "ro": "Tunică albastră"
+  },
+  {
+   "key": "ui_nm_shirt_001_brown",
+   "en": "Brown tunic",
+   "ro": "Tunică maro"
+  },
+  {
+   "key": "ui_nm_shirt_001_dark",
+   "en": "Grey tunic",
+   "ro": "Tunică cenușie"
+  },
+  {
+   "key": "ui_nm_shirt_001_green",
+   "en": "Green tunic",
+   "ro": "Tunică verde"
+  },
+  {
+   "key": "ui_nm_shirt_001_red",
+   "en": "Orange tunic",
+   "ro": "Tunică portocalie"
+  },
+  {
+   "key": "ui_nm_shirt_002",
+   "en": "Linen shirt",
+   "ro": "Cămașă de in"
+  },
+  {
+   "key": "ui_nm_shirt_002_brown",
+   "en": "Old shirt",
+   "ro": "Cămașă veche"
+  },
+  {
+   "key": "ui_nm_shirt_002_green",
+   "en": "Green shirt",
+   "ro": "Cămașă verde"
+  },
+  {
+   "key": "ui_nm_shirt_002_red",
+   "en": "Grey shirt",
+   "ro": "Cămașă cenușie"
+  },
+  {
+   "key": "ui_nm_shirt_002_yellow",
+   "en": "Yellow shirt",
+   "ro": "Cămașă galbenă"
+  },
+  {
+   "key": "ui_nm_shirt_003",
+   "en": "Work shirt",
+   "ro": "Cămașă de lucru"
+  },
+  {
+   "key": "ui_nm_shirt_003_colorVar_A",
+   "en": "Dirty work shirt",
+   "ro": "Cămașă de lucru murdară"
+  },
+  {
+   "key": "ui_nm_shirt_003_colorVar_B",
+   "en": "Old working shirt",
+   "ro": "Cămașă de lucru veche"
+  },
+  {
+   "key": "ui_nm_shirt_004_colorVar_A",
+   "en": "Decorated shirt",
+   "ro": "Cămașă brodată"
+  },
+  {
+   "key": "ui_nm_shirt_005_color_var_C",
+   "en": "Orange shirt",
+   "ro": "Cămașă portocalie"
+  },
+  {
+   "key": "ui_nm_shirt_005_color_var_D",
+   "en": "Brown shirt",
+   "ro": "Cămașă maro"
+  },
+  {
+   "key": "ui_nm_shirt_006",
+   "en": "Fancy shirt",
+   "ro": "Cămașă de gală"
+  },
+  {
+   "key": "ui_nm_shirt_006_colorVar_D",
+   "en": "Fancy black shirt",
+   "ro": "Cămașă neagră de gală"
+  },
+  {
+   "key": "ui_nm_shirt_1",
+   "en": "Long linen shirt",
+   "ro": "Cămașă lungă de in"
+  },
+  {
+   "key": "ui_nm_shirt_from_stepanka",
+   "en": "Shirt from Stephanie",
+   "ro": "Cămașă de la Stephanie"
+  },
+  {
+   "key": "ui_nm_shoes",
+   "en": "Shoes",
+   "ro": "Cizme"
+  },
+  {
+   "key": "ui_nm_short_pollaxe",
+   "en": "Heavy war hammer",
+   "ro": "Ciocan de război greu"
+  },
+  {
+   "key": "ui_nm_shovel",
+   "en": "Spade",
+   "ro": "Cazma"
+  },
+  {
+   "key": "ui_nm_schaefersAccounting",
+   "en": "Overseer's ledger",
+   "ro": "Registrul supraveghetorului"
+  },
+  {
+   "key": "ui_nm_signetLany",
+   "en": "Seal of the Lany Lords",
+   "ro": "Sigiliul Domnilor de Lany"
+  },
+  {
+   "key": "ui_nm_silver_chalice",
+   "en": "Silver goblet",
+   "ro": "Cupă de argint"
+  },
+  {
+   "key": "ui_nm_silver_ring",
+   "en": "Silver ring",
+   "ro": "Inel de argint"
+  },
+  {
+   "key": "ui_nm_simon_spurs",
+   "en": "Noble spurs",
+   "ro": "Pinteni nobiliari"
+  },
+  {
+   "key": "ui_nm_skin_cow",
+   "en": "Cow hide",
+   "ro": "Piele de vacă"
+  },
+  {
+   "key": "ui_nm_skin_dear",
+   "en": "Red deer hide",
+   "ro": "Piele de cerb roșcat"
+  },
+  {
+   "key": "ui_nm_skin_dog",
+   "en": "Dog skin",
+   "ro": "Piele de câine"
+  },
+  {
+   "key": "ui_nm_skin_hare",
+   "en": "Hare pelt",
+   "ro": "Blană de iepure"
+  },
+  {
+   "key": "ui_nm_skin_horse",
+   "en": "Horse hide",
+   "ro": "Piele de cal"
+  },
+  {
+   "key": "ui_nm_skin_roe",
+   "en": "Roe-deer hide",
+   "ro": "Piele de căprior"
+  },
+  {
+   "key": "ui_nm_skin_sheep",
+   "en": "Sheepskin",
+   "ro": "Piele de oaie"
+  },
+  {
+   "key": "ui_nm_skinboar",
+   "en": "Boar hide",
+   "ro": "Piele de mistreț"
+  },
+  {
+   "key": "ui_nm_skirt_001",
+   "en": "Yellow cotehardie",
+   "ro": "Cotehardie galben"
+  },
+  {
+   "key": "ui_nm_skirt_002",
+   "en": "Red cotehardie",
+   "ro": "Cotehardie roșu"
+  },
+  {
+   "key": "ui_nm_skirt_002_b",
+   "en": "Green cotehardie",
+   "ro": "Cotehardie verde"
+  },
+  {
+   "key": "ui_nm_skirt_002_c",
+   "en": "Brown cotehardie",
+   "ro": "Cotehardie maro"
+  },
+  {
+   "key": "ui_nm_skirt_003",
+   "en": "Red cotehardie",
+   "ro": "Cotehardie roșu"
+  },
+  {
+   "key": "ui_nm_skladane_ruka",
+   "en": "Composite gauntlets",
+   "ro": "Mănuși compozite"
+  },
+  {
+   "key": "ui_nm_skull_of_the_devil",
+   "en": "Devil's skull",
+   "ro": "Craniul diavolului"
+  },
+  {
+   "key": "ui_nm_slap_klap",
+   "en": "Bascinet with klappvisor",
+   "ro": "Bascinet cu vizieră klappvisor"
+  },
+  {
+   "key": "ui_nm_slap_kryty",
+   "en": "Covered bascinet",
+   "ro": "Bascinet acoperit"
+  },
+  {
+   "key": "ui_nm_slap_nanos",
+   "en": "Bascinet with bretache",
+   "ro": "Bascinet cu bretache"
+  },
+  {
+   "key": "ui_nm_slap_obyc",
+   "en": "Common bascinet",
+   "ro": "Bascinet obișnuit"
+  },
+  {
+   "key": "ui_nm_slap_otevreny",
+   "en": "Open bascinet",
+   "ro": "Bascinet deschis"
+  },
+  {
+   "key": "ui_nm_small_gold_chalice",
+   "en": "Small golden goblet",
+   "ro": "Cupă mică de aur"
+  },
+  {
+   "key": "ui_nm_small_silver_chalice",
+   "en": "Decorated silver goblet",
+   "ro": "Cupă de argint decorată"
+  },
+  {
+   "key": "ui_nm_smrepairkit_armour",
+   "en": "Small armourer's kit",
+   "ro": "Trusă mică de armurier"
+  },
+  {
+   "key": "ui_nm_smrepairkit_clothes",
+   "en": "Small tailor's kit",
+   "ro": "Trusă mică de croitor"
+  },
+  {
+   "key": "ui_nm_smrepairkit_shoes",
+   "en": "Small cobbler's kit",
+   "ro": "Trusă mică de cizmar"
+  },
+  {
+   "key": "ui_nm_smrepairkit_weapon",
+   "en": "Small blacksmith's kit",
+   "ro": "Trusă mică de fierar"
+  },
+  {
+   "key": "ui_nm_some_cloth",
+   "en": "Some garment",
+   "ro": "O haină"
+  },
+  {
+   "key": "ui_nm_soup_test",
+   "en": "test soup",
+   "ro": "Supă de test"
+  },
+  {
+   "key": "ui_nm_spear",
+   "en": "Spear",
+   "ro": "Lance"
+  },
+  {
+   "key": "ui_nm_special_amanita",
+   "en": "Fly agaric",
+   "ro": "Buretele muștelor"
+  },
+  {
+   "key": "ui_nm_special_attire",
+   "en": "Antlers",
+   "ro": "Cozieri de cerb"
+  },
+  {
+   "key": "ui_nm_special_bilin",
+   "en": "Gall",
+   "ro": "Fiere"
+  },
+  {
+   "key": "ui_nm_special_boar_tooth",
+   "en": "Wild boar's tusk",
+   "ro": "Colț de mistreț"
+  },
+  {
+   "key": "ui_nm_special_cave_mushroom",
+   "en": "Cave mushroom",
+   "ro": "Ciupercă de peșteră"
+  },
+  {
+   "key": "ui_nm_special_cobweb",
+   "en": "Cobweb",
+   "ro": "Pânză de păianjen"
+  },
+  {
+   "key": "ui_nm_special_honey",
+   "en": "Honey",
+   "ro": "Miere"
+  },
+  {
+   "key": "ui_nm_special_charcoal",
+   "en": "Charcoal",
+   "ro": "Cărbune"
+  },
+  {
+   "key": "ui_nm_special_olibanum",
+   "en": "Frankincense",
+   "ro": "Tămâie"
+  },
+  {
+   "key": "ui_nm_special_salt",
+   "en": "Salt",
+   "ro": "Sare"
+  },
+  {
+   "key": "ui_nm_spiked_club",
+   "en": "Spiked club",
+   "ro": "Ciomag cu țepi"
+  },
+  {
+   "key": "ui_nm_spiked_warhammer",
+   "en": "Spiked warhammer",
+   "ro": "Ciocan de luptă cu țepi"
+  },
+  {
+   "key": "ui_nm_spur_001",
+   "en": "Plain riding spurs",
+   "ro": "Pinteni simpli de călărie"
+  },
+  {
+   "key": "ui_nm_spur_002",
+   "en": "Cuman spurs",
+   "ro": "Pinteni cumani"
+  },
+  {
+   "key": "ui_nm_spur_003",
+   "en": "Knight's spurs",
+   "ro": "Pinteni de cavaler"
+  },
+  {
+   "key": "ui_nm_spur_004",
+   "en": "Silver spurs",
+   "ro": "Pinteni de argint"
+  },
+  {
+   "key": "ui_nm_spur_005",
+   "en": "Golden spurs",
+   "ro": "Pinteni de aur"
+  },
+  {
+   "key": "ui_nm_stara_platova",
+   "en": "Old plate pauldrons",
+   "ro": "Epoleți vechi de plăci"
+  },
+  {
+   "key": "ui_nm_stare_plat_noh",
+   "en": "Old plate chausses",
+   "ro": "Jambiere vechi de plăci"
+  },
+  {
+   "key": "ui_nm_starosta",
+   "en": "Saint Wilgefortis",
+   "ro": "Sfânta Wilgefortis"
+  },
+  {
+   "key": "ui_nm_stepanka_jewelery",
+   "en": "Lady of Talmberg's jewel",
+   "ro": "Bijuteria doamnei din Talmberg"
+  },
+  {
+   "key": "ui_nm_stolen_item_mikes",
+   "en": "Mikesh's package",
+   "ro": "Pachetul lui Mikesh"
+  },
+  {
+   "key": "ui_nm_stolen_item_vojmir",
+   "en": "Vojmir's package",
+   "ro": "Pachetul lui Vojmir"
+  },
+  {
+   "key": "ui_nm_stolen_silver",
+   "en": "Stolen silver",
+   "ro": "Argint furat"
+  },
+  {
+   "key": "ui_nm_stone_letter",
+   "en": "Mysterious poem",
+   "ro": "Poem misterios"
+  },
+  {
+   "key": "ui_nm_stone_shard",
+   "en": "Fallen block",
+   "ro": "Bloc căzut"
+  },
+  {
+   "key": "ui_nm_sufficientia",
+   "en": "Avicenna - Sufficientia",
+   "ro": "Avicenna - Sufficientia"
+  },
+  {
+   "key": "ui_nm_surcoat_001",
+   "en": "Long plain waffenrock",
+   "ro": "Waffenrock lung, simplu"
+  },
+  {
+   "key": "ui_nm_surcoat_001_sasau",
+   "en": "Long Sasau waffenrock",
+   "ro": "Waffenrock lung de Sasau"
+  },
+  {
+   "key": "ui_nm_surcoat_001_talmberg",
+   "en": "Long Talmberg waffenrock",
+   "ro": "Waffenrock lung de Talmberg"
+  },
+  {
+   "key": "ui_nm_surcoat_cuman_001",
+   "en": "Cuman cotte",
+   "ro": "Cotte cuman"
+  },
+  {
+   "key": "ui_nm_surcoat_kobyla",
+   "en": "Long Skalitz waffenrock ",
+   "ro": "Waffenrock lung de Skalitz "
+  },
+  {
+   "key": "ui_nm_surcoat_Rataje",
+   "en": "Long waffenrock Rattay",
+   "ro": "Waffenrock lung din Rattay"
+  },
+  {
+   "key": "ui_nm_surcotte_001",
+   "en": "Working garment",
+   "ro": "Haină de lucru"
+  },
+  {
+   "key": "ui_nm_surcotte_002",
+   "en": "Outer cotte",
+   "ro": "Cotă exterioară"
+  },
+  {
+   "key": "ui_nm_surcotte_003",
+   "en": "Simple surcotte",
+   "ro": "Surcot simplu"
+  },
+  {
+   "key": "ui_nm_surcotte_004",
+   "en": "Decorated surcotte",
+   "ro": "Surcot împodobit"
+  },
+  {
+   "key": "ui_nm_surcotte_005",
+   "en": "Fashionable dress",
+   "ro": "Haină la modă"
+  },
+  {
+   "key": "ui_nm_sword__queen_sheba",
+   "en": "Queen of Sheba sword piece",
+   "ro": "Piesă de sabie a reginei din Saba"
+  },
+  {
+   "key": "ui_nm_sword_long_wooden",
+   "en": "Wooden training sword",
+   "ro": "Sabie de lemn pentru antrenament"
+  },
+  {
+   "key": "ui_nm_sword_short_a",
+   "en": "Burgher's sword",
+   "ro": "Sabia orășeanului"
+  },
+  {
+   "key": "ui_nm_sword_short_b",
+   "en": "Coxcomb",
+   "ro": "Fudul"
+  },
+  {
+   "key": "ui_nm_sword_short_c",
+   "en": "Needle",
+   "ro": "Ac"
+  },
+  {
+   "key": "ui_nm_sword_short_d",
+   "en": "Stalwart",
+   "ro": "Neclintitul"
+  },
+  {
+   "key": "ui_nm_sword_short_e",
+   "en": "Page's sword",
+   "ro": "Sabia paginului"
+  },
+  {
+   "key": "ui_nm_sword_short_EXAMPLE",
+   "en": "Test short sword",
+   "ro": "Sabie scurtă de probă"
+  },
+  {
+   "key": "ui_nm_sword_short_expensive_01",
+   "en": "Robber baron's sword",
+   "ro": "Sabia baronului tâlhar"
+  },
+  {
+   "key": "ui_nm_sword_short_expensive_02",
+   "en": "Razor",
+   "ro": "Brici"
+  },
+  {
+   "key": "ui_nm_sword_short_expensive_03",
+   "en": "Stinger",
+   "ro": "Înțepătorul"
+  },
+  {
+   "key": "ui_nm_sword_short_expensive_04",
+   "en": "Old family heirloom",
+   "ro": "Veche moștenire de familie"
+  },
+  {
+   "key": "ui_nm_sword_short_expensive_05",
+   "en": "Noble sword",
+   "ro": "Sabie de nobil"
+  },
+  {
+   "key": "ui_nm_sword_short_expensive_06",
+   "en": "Envoy's aide-de-camp",
+   "ro": "Aghiotantul trimisului"
+  },
+  {
+   "key": "ui_nm_sword_short_f",
+   "en": "Reliable blade",
+   "ro": "Lama de încredere"
+  },
+  {
+   "key": "ui_nm_sword_short_cheap_01",
+   "en": "Grandad's old sword",
+   "ro": "Sabia veche a bunicului"
+  },
+  {
+   "key": "ui_nm_sword_short_cheap_02",
+   "en": "Trusty companion",
+   "ro": "Tovarășul de încredere"
+  },
+  {
+   "key": "ui_nm_sword_short_cheap_03",
+   "en": "Prodder",
+   "ro": "Împungătorul"
+  },
+  {
+   "key": "ui_nm_sword_short_cheap_04",
+   "en": "Mercenary's bedfellow",
+   "ro": "Tovarășa de noapte a mercenarului"
+  },
+  {
+   "key": "ui_nm_sword_short_cheap_05",
+   "en": "Shard",
+   "ro": "Așchie"
+  },
+  {
+   "key": "ui_nm_sword_short_cheap_06",
+   "en": "Rusty blade",
+   "ro": "Lamă ruginită"
+  },
+  {
+   "key": "ui_nm_sword_short_revelation_reward",
+   "en": "Vom Berg sword",
+   "ro": "Sabia lui Vom Berg"
+  },
+  {
+   "key": "ui_nm_sword_short_wooden",
+   "en": "Wooden training sword",
+   "ro": "Sabie de lemn pentru antrenament"
+  },
+  {
+   "key": "ui_nm_sword1",
+   "en": "Bastard sword",
+   "ro": "Spadă bastardă"
+  },
+  {
+   "key": "ui_nm_sword1_quest",
+   "en": "Old Bastard Sword",
+   "ro": "Spadă bastardă veche"
+  },
+  {
+   "key": "ui_nm_swordofsheba",
+   "en": "Queen of Sheba's sword",
+   "ro": "Sabia reginei din Saba"
+  },
+  {
+   "key": "ui_nm_talmberk_armory_door_key",
+   "en": "Pirkstein armoury key",
+   "ro": "Cheia armurăriei din Pirkstein"
+  },
+  {
+   "key": "ui_nm_talmberk_armory_chest_key",
+   "en": "Equipment trunk key",
+   "ro": "Cheia lăzii de echipament"
+  },
+  {
+   "key": "ui_nm_talmberk_tabard",
+   "en": "Waffenrocks for Woyzeck",
+   "ro": "Waffenrocuri pentru Woyzeck"
+  },
+  {
+   "key": "ui_nm_tereza_lektvar",
+   "en": "Healing potion",
+   "ro": "Poțiune de vindecare"
+  },
+  {
+   "key": "ui_nm_tereza_platno",
+   "en": "Linen for bandages",
+   "ro": "Pânză de in pentru bandaje"
+  },
+  {
+   "key": "ui_nm_tereza_voda",
+   "en": "Water",
+   "ro": "Apă"
+  },
+  {
+   "key": "ui_nm_test",
+   "en": "Test sabre",
+   "ro": "Sabie de probă"
+  },
+  {
+   "key": "ui_nm_test_antiStealthBoots",
+   "en": "Test AntiStealth Boots",
+   "ro": "Cizme de probă anti-furișare"
+  },
+  {
+   "key": "ui_nm_test_antiStealthPants",
+   "en": "Test AntiStealth Pants",
+   "ro": "Pantaloni de probă anti-furișare"
+  },
+  {
+   "key": "ui_nm_test_antiStealthShirt",
+   "en": "Test AntiStealth Shirt",
+   "ro": "Cămașă de probă anti-furișare"
+  },
+  {
+   "key": "ui_nm_test_boots",
+   "en": "Servant's boots",
+   "ro": "Cizmele slujitorului"
+  },
+  {
+   "key": "ui_nm_test_buff_bandage",
+   "en": "Buffed Bandage Test",
+   "ro": "Test de bandaj îmbunătățit"
+  },
+  {
+   "key": "ui_nm_test_cap",
+   "en": "Servant Cap",
+   "ro": "Căciula slujitorului"
+  },
+  {
+   "key": "ui_nm_test_pants",
+   "en": "Servant's hose",
+   "ro": "Ciorapii slujitorului"
+  },
+  {
+   "key": "ui_nm_test_recept",
+   "en": "Recipe",
+   "ro": "Rețetă"
+  },
+  {
+   "key": "ui_nm_test_shirt",
+   "en": "Servant's shirt",
+   "ro": "Cămașa servitorului"
+  },
+  {
+   "key": "ui_nm_test_viceslotovy_12",
+   "en": "Multi slot test",
+   "ro": "Test multi-slot"
+  },
+  {
+   "key": "ui_nm_test_viceslotovy_renamed",
+   "en": "Multi slot test renamed",
+   "ro": "Test multi-slot redenumit"
+  },
+  {
+   "key": "ui_nm_test_viceslotovy2",
+   "en": "Multi slot test 2",
+   "ro": "Test multi-slot 2"
+  },
+  {
+   "key": "ui_nm_tezk_lamel",
+   "en": "Heavy lamellar armour",
+   "ro": "Armură lamelară grea"
+  },
+  {
+   "key": "ui_nm_tezky_hauberk",
+   "en": "Heavy hauberk",
+   "ro": "Gambeson greu"
+  },
+  {
+   "key": "ui_nm_the_alfons_die",
+   "en": "Alfonse's die",
+   "ro": "Zarul lui Alfonse"
+  },
+  {
+   "key": "ui_nm_the_ambroz_die",
+   "en": "Ambrose's dice",
+   "ro": "Zarurile lui Ambrose"
+  },
+  {
+   "key": "ui_nm_the_another_die",
+   "en": "Another die",
+   "ro": "Alt zar"
+  },
+  {
+   "key": "ui_nm_the_commonest_die",
+   "en": "The commonest die",
+   "ro": "Cel mai comun zar"
+  },
+  {
+   "key": "ui_nm_the_devil_die",
+   "en": "Devil's Head",
+   "ro": "Capul Diavolului"
+  },
+  {
+   "key": "ui_nm_the_devil_die_gold",
+   "en": "Alfonse's devil die",
+   "ro": "Zarul diavolesc al lui Alfonse"
+  },
+  {
+   "key": "ui_nm_the_die_a",
+   "en": "Unpopular die",
+   "ro": "Zar nepopular"
+  },
+  {
+   "key": "ui_nm_the_die_b",
+   "en": "Lucky die",
+   "ro": "Zar norocos"
+  },
+  {
+   "key": "ui_nm_the_die_c",
+   "en": "Lu die",
+   "ro": "Zar lu"
+  },
+  {
+   "key": "ui_nm_the_die_d",
+   "en": "Ci die",
+   "ro": "Zar ci"
+  },
+  {
+   "key": "ui_nm_the_die_e",
+   "en": "Fer die",
+   "ro": "Zar de fier"
+  },
+  {
+   "key": "ui_nm_the_die_f",
+   "en": "Biased die",
+   "ro": "Zar măsluit"
+  },
+  {
+   "key": "ui_nm_the_die_g",
+   "en": "Lucky playing die",
+   "ro": "Zar norocos de joc"
+  },
+  {
+   "key": "ui_nm_the_die_h",
+   "en": "Holy Trinity die",
+   "ro": "Zarul Sfintei Treimi"
+  },
+  {
+   "key": "ui_nm_the_die_i",
+   "en": "Even number die",
+   "ro": "Zar cu număr par"
+  },
+  {
+   "key": "ui_nm_the_die_k",
+   "en": "Odd die",
+   "ro": "Zar impar"
+  },
+  {
+   "key": "ui_nm_the_die_kcd",
+   "en": "Heavenly Kingdom die",
+   "ro": "Zar al Împărăției Cerești"
+  },
+  {
+   "key": "ui_nm_the_die_l",
+   "en": "Henry's beta die",
+   "ro": "Zarul beta al lui Henry"
+  },
+  {
+   "key": "ui_nm_the_die_m",
+   "en": "Die of misfortune",
+   "ro": "Zarul ghinionului"
+  },
+  {
+   "key": "ui_nm_the_die_o",
+   "en": "Strip die",
+   "ro": "Zar dungat"
+  },
+  {
+   "key": "ui_nm_the_die_p",
+   "en": "Shrinking playing die",
+   "ro": "Zar care se micșorează"
+  },
+  {
+   "key": "ui_nm_the_least_common_die",
+   "en": "The least common die",
+   "ro": "Cel mai rar zar"
+  },
+  {
+   "key": "ui_nm_the_not_common_die",
+   "en": "Uncommon die",
+   "ro": "Zar neobișnuit"
+  },
+  {
+   "key": "ui_nm_tiara",
+   "en": "Tiara",
+   "ro": "Tiară"
+  },
+  {
+   "key": "ui_nm_tiara_vltavin",
+   "en": "Crown with moldavite",
+   "ro": "Coroană cu moldavit"
+  },
+  {
+   "key": "ui_nm_tiara_vltavin_fake",
+   "en": "Ornamental crown",
+   "ro": "Coroană ornamentală"
+  },
+  {
+   "key": "ui_nm_tonceks_purse",
+   "en": "Bulging purse",
+   "ro": "Pungă umflată"
+  },
+  {
+   "key": "ui_nm_torch",
+   "en": "Torch",
+   "ro": "Torță"
+  },
+  {
+   "key": "ui_nm_torn_book_page",
+   "en": "Page torn from book",
+   "ro": "Pagină smulsă dintr-o carte"
+  },
+  {
+   "key": "ui_nm_tournament_arrow_broken",
+   "en": "Broken tournament arrow",
+   "ro": "Săgeată de turnir ruptă"
+  },
+  {
+   "key": "ui_nm_turnaj_helma",
+   "en": "Lords of Leipa hounskull",
+   "ro": "Cască-câine a jupânilor de Leipa"
+  },
+  {
+   "key": "ui_nm_turnaj_kyrys",
+   "en": "Lords of Leipa cuirass",
+   "ro": "Cuirasă a jupânilor de Leipa"
+  },
+  {
+   "key": "ui_nm_turnaj_noh",
+   "en": "Lords of Leipa chausses",
+   "ro": "Șosete de zale ale jupânilor de Leipa"
+  },
+  {
+   "key": "ui_nm_turnaj_ramena",
+   "en": "Lords of Leipa pauldrons",
+   "ro": "Epoleți ai jupânilor de Leipa"
+  },
+  {
+   "key": "ui_nm_turnaj_ruka",
+   "en": "Lords of Leipa gauntlets",
+   "ro": "Mănuși ale jupânilor de Leipa"
+  },
+  {
+   "key": "ui_nm_turnaje",
+   "en": "On Tournaments",
+   "ro": "Despre turniruri"
+  },
+  {
+   "key": "ui_nm_uher_hauberk",
+   "en": "Hungarian hauberk",
+   "ro": "Gambeson unguresc"
+  },
+  {
+   "key": "ui_nm_ulrichDokument",
+   "en": "Ulrich's documents",
+   "ro": "Documentele lui Ulrich"
+  },
+  {
+   "key": "ui_nm_underskirt_001",
+   "en": "Undershirt",
+   "ro": "Cămașă de corp"
+  },
+  {
+   "key": "ui_nm_vaclav_IV",
+   "en": "Wenceslas IV",
+   "ro": "Venceslau al IV-lea"
+  },
+  {
+   "key": "ui_nm_velky_slap",
+   "en": "Grand bascinet",
+   "ro": "Bascinet mare"
+  },
+  {
+   "key": "ui_nm_venetian_glass",
+   "en": "Venetian glass chalice",
+   "ro": "Cupă venețiană de sticlă"
+  },
+  {
+   "key": "ui_nm_venisonMeat",
+   "en": "Red-deer venison",
+   "ro": "Carne de cerb"
+  },
+  {
+   "key": "ui_nm_venisonMeat_cooked",
+   "en": "Cooked red-deer venison",
+   "ro": "Carne de cerb gătită"
+  },
+  {
+   "key": "ui_nm_venisonMeat_smoked",
+   "en": "Smoked venison",
+   "ro": "Carne de cerb afumată"
+  },
+  {
+   "key": "ui_nm_vit_kyrys",
+   "en": "Vitus' cuirass",
+   "ro": "Cuirasa lui Vitus"
+  },
+  {
+   "key": "ui_nm_vl_cloth",
+   "en": "Flemish cloth",
+   "ro": "Postav flamand"
+  },
+  {
+   "key": "ui_nm_vltavin",
+   "en": "Moldavite",
+   "ro": "Moldavit"
+  },
+  {
+   "key": "ui_nm_vojtech",
+   "en": "St. Adalbert",
+   "ro": "Sfântul Adalbert"
+  },
+  {
+   "key": "ui_nm_vojtechs_necklace",
+   "en": "Woyzeck's family pendant",
+   "ro": "Pandantivul familiei Woyzeck"
+  },
+  {
+   "key": "ui_nm_wafer",
+   "en": "Wafer",
+   "ro": "Oblată"
+  },
+  {
+   "key": "ui_nm_waffenrock_001",
+   "en": "Red waffenrock",
+   "ro": "Waffenrock roșu"
+  },
+  {
+   "key": "ui_nm_waffenrock_002",
+   "en": "Long dark waffenrock",
+   "ro": "Waffenrock lung, închis"
+  },
+  {
+   "key": "ui_nm_waffenrock_002_bandits_03",
+   "en": "Long black waffenrock",
+   "ro": "Waffenrock lung, negru"
+  },
+  {
+   "key": "ui_nm_waffenrock_002_rattay",
+   "en": "Long Rattay waffenrock",
+   "ro": "Waffenrock lung de Rattay"
+  },
+  {
+   "key": "ui_nm_waffenrock_002_sasau",
+   "en": "Long Sasau waffenrock",
+   "ro": "Waffenrock lung de Sasau"
+  },
+  {
+   "key": "ui_nm_waffenrock_002_skalitz",
+   "en": "Long Skalitz waffenrock",
+   "ro": "Waffenrock lung de Skalitz"
+  },
+  {
+   "key": "ui_nm_waffenrock_002_talmberg",
+   "en": "Long Talmberg waffenrock",
+   "ro": "Waffenrock lung de Talmberg"
+  },
+  {
+   "key": "ui_nm_waffenrock_003",
+   "en": "Oleshnitz waffenrock",
+   "ro": "Waffenrock de Oleshnitz"
+  },
+  {
+   "key": "ui_nm_waffenrock_004",
+   "en": "Short red waffenrock",
+   "ro": "Waffenrock scurt, roșu"
+  },
+  {
+   "key": "ui_nm_waffenrock_004_k",
+   "en": "Short waffenrock",
+   "ro": "Waffenrock scurt"
+  },
+  {
+   "key": "ui_nm_waffenrock_005_k",
+   "en": "Short Skalitz waffenrock",
+   "ro": "Waffenrock scurt de Skalitz"
+  },
+  {
+   "key": "ui_nm_waffenrock_005_pista",
+   "en": "Short dark waffenrock",
+   "ro": "Waffenrock scurt, închis"
+  },
+  {
+   "key": "ui_nm_waffenrock_005_rattay",
+   "en": "Short Rattay waffenrock",
+   "ro": "Waffenrock scurt de Rattay"
+  },
+  {
+   "key": "ui_nm_waffenrock_005_sasau",
+   "en": "Short Sasau waffenrock",
+   "ro": "Waffenrock scurt de Sasau"
+  },
+  {
+   "key": "ui_nm_waffenrock_005_skalitz",
+   "en": "Short Skalitz waffenrock",
+   "ro": "Waffenrock scurt de Skalitz"
+  },
+  {
+   "key": "ui_nm_waffenrock_005_talmberg",
+   "en": "Short Talmberg waffenrock",
+   "ro": "Waffenrock scurt de Talmberg"
+  },
+  {
+   "key": "ui_nm_waffenrock_006",
+   "en": "Waffenrock",
+   "ro": "Waffenrock"
+  },
+  {
+   "key": "ui_nm_waffenrock_007",
+   "en": "Decorated red waffenrock",
+   "ro": "Waffenrock roșu, ornamentat"
+  },
+  {
+   "key": "ui_nm_waffenrock_007_rattay",
+   "en": "Decorated Rattay waffenrock",
+   "ro": "Waffenrock ornamentat de Rattay"
+  },
+  {
+   "key": "ui_nm_waffenrock_007_sasau",
+   "en": "Decorated Sasau waffenrock",
+   "ro": "Waffenrock ornamentat de Sasau"
+  },
+  {
+   "key": "ui_nm_waffenrock_007_skalitz",
+   "en": "Decorated Skalitz waffenrock",
+   "ro": "Waffenrock ornamentat de Skalitz"
+  },
+  {
+   "key": "ui_nm_waffenrock_008",
+   "en": "Nobleman's waffenrock",
+   "ro": "Waffenrock al nobilului"
+  },
+  {
+   "key": "ui_nm_waffenrock_008_rattay",
+   "en": "Rattay noble's waffenrock",
+   "ro": "Waffenrock al nobilului din Rattay"
+  },
+  {
+   "key": "ui_nm_waffenrock_008_sasau",
+   "en": "Sasau noble's waffenrock",
+   "ro": "Waffenrock al nobilului din Sasau"
+  },
+  {
+   "key": "ui_nm_waffenrock_008_talmberg",
+   "en": "Talmberg waffenrock",
+   "ro": "Waffenrock de Talmberg"
+  },
+  {
+   "key": "ui_nm_waffenrock_011",
+   "en": "Heraldic waffenrock",
+   "ro": "Waffenrock heraldic"
+  },
+  {
+   "key": "ui_nm_waffenrock_012",
+   "en": "Red hemmed waffenrock",
+   "ro": "Waffenrock roșu, tivit"
+  },
+  {
+   "key": "ui_nm_waffenrock_012_k",
+   "en": "Red hemmed waffenrock",
+   "ro": "Waffenrock roșu, tivit"
+  },
+  {
+   "key": "ui_nm_waffenrock_013",
+   "en": "Knight's waffenrock",
+   "ro": "Waffenrock de cavaler"
+  },
+  {
+   "key": "ui_nm_waffenrock_014",
+   "en": "Hemmed waffenrock",
+   "ro": "Waffenrock tivit"
+  },
+  {
+   "key": "ui_nm_waffenrock_014_rattay",
+   "en": "Hemmed Rattay waffenrock",
+   "ro": "Waffenrock tivit de Rattay"
+  },
+  {
+   "key": "ui_nm_waffenrock_014_sasau",
+   "en": "Hemmed Sasau waffenrock",
+   "ro": "Waffenrock tivit de Sasau"
+  },
+  {
+   "key": "ui_nm_waffenrock_014_talmberg",
+   "en": "Talmberg hemmed waffenrock",
+   "ro": "Waffenrock tivit de Talmberg"
+  },
+  {
+   "key": "ui_nm_waffenrock_015",
+   "en": "Lords of Leipa waffenrock",
+   "ro": "Waffenrock al jupanilor de Leipa"
+  },
+  {
+   "key": "ui_nm_waffenrock_bonus",
+   "en": "Warhorse waffenrock",
+   "ro": "Waffenrock Warhorse"
+  },
+  {
+   "key": "ui_nm_warhammer",
+   "en": "Warhammer",
+   "ro": "Ciocan de luptă"
+  },
+  {
+   "key": "ui_nm_water",
+   "en": "Drinking water",
+   "ro": "Apă de băut"
+  },
+  {
+   "key": "ui_nm_watermelon",
+   "en": "Watermelon",
+   "ro": "Pepene verde"
+  },
+  {
+   "key": "ui_nm_weapon_test2",
+   "en": "Test Weapon 2",
+   "ro": "Armă de test 2"
+  },
+  {
+   "key": "ui_nm_weapontest2",
+   "en": "Test Weapon 3",
+   "ro": "Armă de test 3"
+  },
+  {
+   "key": "ui_nm_white_feather",
+   "en": "White feathers",
+   "ro": "Pene albe"
+  },
+  {
+   "key": "ui_nm_wine",
+   "en": "Wine",
+   "ro": "Vin"
+  },
+  {
+   "key": "ui_nm_wine_keg",
+   "en": "Cask of wine for Circators",
+   "ro": "Butoi de vin pentru circatori"
+  },
+  {
+   "key": "ui_nm_wine_keg_stepanka",
+   "en": "Wine for Stephanie",
+   "ro": "Vin pentru Stephanie"
+  },
+  {
+   "key": "ui_nm_wineskin_02_cheap",
+   "en": "Cheap wine",
+   "ro": "Vin ieftin"
+  },
+  {
+   "key": "ui_nm_wineskin_03_fancy",
+   "en": "Fine wine",
+   "ro": "Vin fin"
+  },
+  {
+   "key": "ui_nm_wolf_teeth",
+   "en": "Wolf's fangs",
+   "ro": "Colții lupului"
+  },
+  {
+   "key": "ui_nm_wooden_axe",
+   "en": "Wooden training axe",
+   "ro": "Topor de lemn pentru antrenament"
+  },
+  {
+   "key": "ui_nm_woolcloth",
+   "en": "Wool fabric",
+   "ro": "Stofă de lână"
+  },
+  {
+   "key": "ui_nm_wound_arrow",
+   "en": "Wounding arrow",
+   "ro": "Săgeată rănitoare"
+  },
+  {
+   "key": "ui_nm_wound_enh_arrow",
+   "en": "Better wounding arrow",
+   "ro": "Săgeată rănitoare îmbunătățită"
+  },
+  {
+   "key": "ui_nm_wrongDice",
+   "en": "Playing die",
+   "ro": "Zar de joc"
+  },
+  {
+   "key": "ui_nm_zapis_vyslech",
+   "en": "Heretic's testimony",
+   "ro": "Mărturia ereticului"
+  },
+  {
+   "key": "ui_nm_zdenas_scarf",
+   "en": "Zdena's scarf",
+   "ro": "Eșarfa Zdenei"
+  },
+  {
+   "key": "ui_nm_zdobeny_pruspl",
+   "en": "Decorated cuirass",
+   "ro": "Cuirasă decorată"
+  },
+  {
+   "key": "ui_nm_zes_kuman_haub",
+   "en": "Reinforced Cuman hauberk",
+   "ro": "Hauberc cuman întărit"
+  },
+  {
+   "key": "ui_nm_zikmund",
+   "en": "Sigismund of Luxembourg",
+   "ro": "Sigismund de Luxemburg"
+  },
+  {
+   "key": "ui_nm_zvon_klo",
+   "en": "Bell-shaped kettle hat",
+   "ro": "Coif-cazan în formă de clopot"
+  },
+  {
+   "key": "zapis_vyslechu_1",
+   "en": "&amp;lt;p align='center'&amp;gt;&amp;lt;font size='40'&amp;gt;Record of the Interrogation&amp;lt;/font&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#990000'&amp;gt;of the Heretic Peter of Hradek&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;$new_page;",
+   "ro": "&amp;lt;p align='center'&amp;gt;&amp;lt;font size='40'&amp;gt;Proces-verbal al interogatoriului&amp;lt;/font&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#990000'&amp;gt;al ereticului Peter din Hradek&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;$new_page;"
+  },
+  {
+   "key": "zapis_vyslechu_2",
+   "en": "&amp;lt;p&amp;gt;This account was written down by Master Borislav, Scribe to the Archbishop, recording the Testimony given by the questioned heretic, wherby the interrogation was conducted by the Very Reverend Jan of Osek, Monsignor and Vicar to the Archbishop, and the Lawful Rite of Torture was carried out by the Town Executioner, Francis, called Shanks, in the town jail, according to the resolution of the Town Council.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;At first the captive heretic, one Peter of Hradek, did refuse to give Testimony, whereupon the Executioner was instructed to encourage him to so do by the performance of Arts. Let it be stated that the interrogated Peter of Hradek did long resist the Executioner's persuasions. However, he did finally respond to a Query as to the place of assembly of the other heretics known to him, that they did meet in the township of Uzhitz. When the Vicar then asked the Prisoner to elaborate - that is, who they were and in what house they assembled, Peter of Hradek again fell into silence.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;",
+   "ro": "&amp;lt;p&amp;gt;Acest izvod a fost scris de meșterul Borislav, scrib al arhiepiscopului, consemnând mărturisirea ereticului supus interogatoriului, care a fost condus de preacuviosul Jan din Osek, monsenior și vicar al arhiepiscopului, iar legiuita rânduială a torturii a fost dusă la capăt de călăul orașului, Francisc, numit Șchiopul, în temnița orașului, potrivit hotărârii sfatului orașului.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;La început, ereticul prins, un oarecare Peter din Hradek, a refuzat să mărturisească, ceea ce l-a făcut pe călău să fie îndemnat să-l convingă prin arta sa. Să se consemneze că interogatul Peter din Hradek s-a împotrivit mult persuasiunilor călăului. Totuși, a răspuns în cele din urmă unei întrebări privind locul de adunare al celorlalți eretici cunoscuți lui, și anume că s-au întâlnit în târgul Uzhitz. Când vicarul i-a cerut apoi prizonierului să dea mai multe lămuriri, adică cine erau și în ce casă se adunau, Peter din Hradek a căzut din nou în tăcere.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;"
+  },
+  {
+   "key": "zapis_vyslechu_3",
+   "en": "&amp;lt;p&amp;gt;The Executioner was again obliged to exercise his persuasive art, which in due course the Vicar ordered him to desist, for the prisoner was greatly fatigued, whereupon he did suddenly find his voice and began to respond at length to the repeated query as to where he met with the other heretics. The Vicar thereupon decreed that the testimony of the prisoner be written down verbatim. May the Lord forgive me for hearing these heretical speeches, which by my duty to Holy Mother Church I am bound to set down in writing this day. Thus spoke the heretic:&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;I began my pilgrimage in Uzhitz, a den of iniquity where the people were drinking and fornicating, so I left that corrupt place at once! And at once I saw another abomination! The temple of the Bride of the Antichrist, with the proud Babylonian tower. I went past it quickly, towards the rising sun.&amp;lt;/p&amp;gt;$new_page;",
+   "ro": "&amp;lt;p&amp;gt;Călăul a fost din nou nevoit să-și exercite arta persuasiunii, până când vicarul i-a poruncit să înceteze, căci prizonierul era foarte slăbit. Atunci acesta și-a găsit deodată glasul și a început să răspundă pe larg la întrebarea repetată despre locul unde se întâlnea cu ceilalți eretici. Vicarul a hotărât apoi ca mărturisirea prizonierului să fie consemnată cuvânt cu cuvânt. Doamne, iartă-mă că am ascultat aceste cuvinte eretice, pe care datoria mea față de Sfânta Maică Biserică mă obligă să le scriu astăzi. Așa a vorbit ereticul:&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;Am început pelerinajul în Uzhitz, un culcuș al nelegiuirii, unde oamenii beau și se desfrânau, așa că am părăsit îndată acel loc corupt! Și îndată am văzut altă urâciune! Templul Miresei Antihristului, cu turnul babilonian mândru. Am trecut repede pe lângă el, spre răsăritul soarelui.&amp;lt;/p&amp;gt;$new_page;"
+  },
+  {
+   "key": "zapis_vyslechu_4",
+   "en": "&amp;lt;p&amp;gt;When I left the village, I came upon a crossroads and didn't know which way to go. So I fell on my knees and prayed. And my prayer was heard, for the finger of Christ rose from the ground to show the right path. On I went, through this sinful land, and suddenly I heard the sound of a thousand-headed crowd at work, and I saw their queen and their towers.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;I journeyed further on and all at once there rose from the ground the jaws of the Behemoth, and his broken teeth jutted up to the heavens like the tombstones of the Moabites. So I went through the mouth of the beast. And by the road I saw the abode of the Apostles Peter and Andrew. I was hungry, so I took the fruits of their labours and filled my belly. &amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;Then I left their house and saw two widows weeping and keening. I wept with them and they let me sleep in their shadow. &amp;lt;/p&amp;gt;$new_page;",
+   "ro": "&amp;lt;p&amp;gt;Când am părăsit satul, am ajuns la o răscruce și nu știam încotro să merg. Așa că am căzut în genunchi și m-am rugat. Și rugăciunea mea a fost ascultată, căci degetul lui Cristos s-a ridicat din pământ ca să arate calea cea dreaptă. Am mers mai departe, prin acest pământ păcătos, și deodată am auzit zgomotul unei mulțimi de mii de capete la muncă și i-am văzut regina și turnurile.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;Am mers mai departe și deodată din pământ s-au ridicat fălcile Behemotului, iar dinții lui sfărâmați se înălțau spre ceruri ca pietrele de mormânt ale moabiților. Așa am trecut prin gura fiarei. Și pe drum am văzut locuința apostolilor Peter și Andrei. Mi-era foame, așa că am luat roadele muncii lor și mi-am umplut pântecele. &amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;Apoi am părăsit casa lor și am văzut două văduve plângând și bocind. Am plâns și eu cu ele, iar ele m-au lăsat să dorm în umbra lor. &amp;lt;/p&amp;gt;$new_page;"
+  },
+  {
+   "key": "zapis_vyslechu_5",
+   "en": "&amp;lt;p&amp;gt;I went further along the edge of the world and saw the ribs of the great Leviathan washed up by the sea! Then I saw two bridges over the River Jordan, and the Devil tempted me and tried to lure me to the one on the right. But I saw through his deception and went against his will.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;And then I finally saw it - the gateway to the Garden of Paradise, abundant with foliage. It was guarded by men of straw, but they saw I was a good Christian and let me enter therein. &amp;lt;/p&amp;gt;$new_page;",
+   "ro": "&amp;lt;p&amp;gt;Am mers mai departe, de-a lungul marginii lumii, și am văzut coastele marelui Leviatan aruncate de mare la țărm! Apoi am văzut două poduri peste râul Iordan, și Diavolul m-a ispitit și a încercat să mă atragă spre cel din dreapta. Dar i-am văzut înșelăciunea și am mers împotriva voinței lui.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;Și apoi, în sfârșit, am văzut-o - poarta către Grădina Raiului, plină de frunziș. Era păzită de oameni de paie, dar au văzut că sunt un bun creștin și m-au lăsat să intru înăuntru. &amp;lt;/p&amp;gt;$new_page;"
+  },
+  {
+   "key": "zapis_vyslechu_6",
+   "en": "&amp;lt;p&amp;gt;These were the last words uttered by the heretic Peter of Hradek, for he did then breathe his last. The Vicar did then state that his death was surely the work of Lucifer, to silence his tongue before the ears of the servants of God. The Executioner thereupon took umbrage and made conceited objections, for which his wage was cut by three Groschen and he was admonished not to repeat such remarks, especially in the presence of a Servant of Holy Mother Church.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;The body of the heretic was buried outside the cemetery wall as befits, so that it should not corrupt hallowed ground. Thereby the Case of the Heretic Peter of Hradek was brought to a close in accordance with Ecclesiastical Law.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;",
+   "ro": "&amp;lt;p&amp;gt;Acestea au fost ultimele cuvinte rostite de ereticul Peter din Hradek, căci atunci și-a dat ultima suflare. Vicarul a declarat atunci că moartea lui era cu siguranță lucrarea lui Lucifer, care a vrut să-i reteze limba înaintea urechilor slujitorilor lui Dumnezeu. Călăul s-a supărat și a adus obiecții îngâmfate, pentru care salariul i-a fost redus cu trei groschen, și a fost mustrat să nu mai repete asemenea vorbe, mai ales în prezența unui slujitor al Sfintei Maici Biserică.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;p&amp;gt;Trupul ereticului a fost înmormântat în afara zidului cimitirului, cum se cuvine, ca să nu strice pământul sfințit. Astfel, Cazul ereticului Peter din Hradek a fost închis potrivit Dreptului bisericesc.&amp;lt;/p&amp;gt;&amp;lt;br/&amp;gt;"
+  }
+ ]
+}

@@ -1,0 +1,750 @@
+{
+ "table": "text_ui_tutorials.xml",
+ "entries": [
+  {
+   "key": "chap_dlc4_sch1_AMrB_e10_MM0d",
+   "en": "Option 2 - neither Pestilince nor Wounded Soul was started - help Radzig and look for survivors from Skalitz; rumours, Johanka is in Sasau, Pestilence completed, but not Wounded Soul - similar to first - just go to Johanka and see if she needs help",
+   "ro": "Varianta 2: nu a fost pornită nici Pestilența, nici Sufletul rănit. Ajută-l pe Radzig și caută supraviețuitori din Skalitz; se zvonește că Johanka este la Sasau. Pestilența e îndeplinită, dar nu și Sufletul rănit, asemănător cu primul caz: mergi la Johanka și vezi dacă are nevoie de ajutor."
+  },
+  {
+   "key": "chap_dlc4_sch1_AMrB_e11_Ebyp",
+   "en": "Option 3 Pestilence underway, Wounded Soul underway - help Merhojed locals and Johanka",
+   "ro": "Varianta 3: Pestilența e în desfășurare, Sufletul rănit e în desfășurare. Ajută localnicii din Merhojed și pe Johanka."
+  },
+  {
+   "key": "chap_dlc4_sch1_AMrB_e9_8Fnr",
+   "en": "Option 1 - Pestilence and Wounded Soul are completed - go to Johanka, she'll be happy to see you",
+   "ro": "Varianta 1: Pestilența și Sufletul rănit sunt îndeplinite. Mergi la Johanka, se va bucura să te vadă."
+  },
+  {
+   "key": "chap_dlc4_sch17_NeWe_e146_Y9bJ",
+   "en": "You've  unlocked the perk First Aid II.&lt;br/&gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_first_aid_perk.dds' width='64' height='64' &amp;gt;&lt;br/&gt;Using bandages is now more effective and you can also take advantage of your healing skills in dialogues.",
+   "ro": "Ai deblocat talentul Primul ajutor II.&lt;br/&gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_first_aid_perk.dds' width='64' height='64' &amp;gt;&lt;br/&gt;Folosirea bandajelor e acum mai eficientă, iar talentele tale de vindecare pot fi folosite și în dialoguri."
+  },
+  {
+   "key": "chap_dlc4_sch18_FJ22_e81_iK55",
+   "en": "You've acquired a dagger and the perk Stealth Kill&lt;br/&gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_stealth_perk.dds' width='64' height='64' &amp;gt;&lt;br/&gt;If you sneak up on a foe from behind unobserved, you can take him down by holding $attack3;.",
+   "ro": "Ai primit un pumnal și talentul Ucidere pe furiș&lt;br/&gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_stealth_perk.dds' width='64' height='64' &amp;gt;&lt;br/&gt;Dacă te furișezi neobservat în spatele unui dușman, îl poți doborî ținând apăsat $attack3;."
+  },
+  {
+   "key": "chap0_sch27_whpB_e768_aPhc",
+   "en": "Press $read_toggle; while reading the herbarium to toggle between the herb list and the recipe list. Press $read_select; while on a recipe to put all the ingredients required for that recipe on the shelves.",
+   "ro": "Apasă $read_toggle; cât citești erbarul ca să comuți între lista de ierburi și lista de rețete. Apasă $read_select; când ești la o rețetă ca să pui pe rafturi toate ingredientele necesare acelei rețete."
+  },
+  {
+   "key": "chap0_sch27_whpB_e781_ZMKy",
+   "en": "Bellows are controlled by the $alch_use_bag; key.",
+   "ro": "Foalele se controlează cu tasta $alch_use_bag;."
+  },
+  {
+   "key": "chap0_sch30_m-Hk_e637_8z_C",
+   "en": "The cursor grows in size to indicate that you approach the sweetspot. You can start to rotate the lock as soon as the cursor changes colour. &amp;lt;img src=\"Textures/lockpicking1\"&amp;gt; Rotate the lock with $lock_dir_fwd; . The sweetspot rotates with the lock, so you will have to move the cursor to stay within the sweetspot. &amp;lt;img src=\"Textures/lockpicking2\"&amp;gt; Your lockpick will break if you fail to keep the cursor within the sweetspot.",
+   "ro": "Cursorul crește ca mărime, arătând că te apropii de punctul dulce. Poți începe să rotești lacătul de îndată ce cursorul își schimbă culoarea. &amp;lt;img src=\"Textures/lockpicking1\"&amp;gt; Rotește lacătul cu $lock_dir_fwd; . Punctul dulce se rotește odată cu lacătul, așa că trebuie să miști cursorul ca să rămână în punctul dulce. &amp;lt;img src=\"Textures/lockpicking2\"&amp;gt; Șperaclul se rupe dacă nu reușești să ții cursorul în punctul dulce."
+  },
+  {
+   "key": "chap0_sch38_cdLq_e151_dpUT",
+   "en": "Move around the battlefield by $ui_left; and $ui_right;, look around by mouse. Cursor  will lock on enemy. You can unlock easily by sprinting or by pressing a mouse wheel.",
+   "ro": "Deplasează-te pe câmpul de luptă cu $ui_left; și $ui_right;, privește în jur cu mouse-ul. Cursorul se va fixa pe dușman. Poți elibera fixarea ușor alergând sau apăsând roata mouse-ului."
+  },
+  {
+   "key": "chap0_sch38_cdLq_e167_4IhZ",
+   "en": "Move around the battlefield with your left stick. Use a right  stick to look around, cursor will lock on enemy. You can unlock the enemy by holding the stick or by sprinting with $sprint;",
+   "ro": "Deplasează-te pe câmpul de luptă cu joystick-ul stâng. Folosește joystick-ul drept ca să privești în jur; cursorul se va fixa pe dușman. Poți elibera dușmanul ținând joystick-ul apăsat sau alergând cu $sprint;"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e169_60Ic",
+   "en": "You can change your attack zone by mouse.&amp;lt;br/&amp;gt;Aim for the head: &amp;lt;img src=\"Textures/ccursor0\"&amp;gt; &amp;lt;br/&amp;gt; Slashing attack: $attack1_mouse;",
+   "ro": "Poți schimba zona atacului cu mouse-ul.&amp;lt;br/&amp;gt;Țintește spre cap: &amp;lt;img src=\"Textures/ccursor0\"&amp;gt; &amp;lt;br/&amp;gt; Atac cu tăietură: $attack1_mouse;"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e170_VzFb",
+   "en": "You can change your attack zone by right stick.&amp;lt;br/&amp;gt;Aim for the head: &amp;lt;img src=\"Textures/ccursor0\"&amp;gt; &amp;lt;br/&amp;gt; Slashing attack: $attack1;",
+   "ro": "Poți schimba zona atacului cu joystick-ul drept.&amp;lt;br/&amp;gt;Țintește spre cap: &amp;lt;img src=\"Textures/ccursor0\"&amp;gt; &amp;lt;br/&amp;gt; Atac cu tăietură: $attack1;"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e172_mUC1",
+   "en": "Change zones by mouse, you will also change your guard automatically. Slash with the left mouse button, stab with the right.",
+   "ro": "Schimbă zonele cu mouse-ul; îți vei schimba și garda automat. Taie cu butonul stâng al mouse-ului, împunge cu cel drept."
+  },
+  {
+   "key": "chap0_sch38_cdLq_e173_yZEn",
+   "en": "Change zones by right stick, you will also change your guard automatically. &amp;lt;br/&amp;gt;&amp;lt;img src=\"Textures/xi_thumbry\"&amp;gt; &amp;lt;br/&amp;gt; $attack1; slash&amp;lt;br/&amp;gt;$attack2; stab",
+   "ro": "Schimbă zonele cu joystick-ul drept; îți vei schimba și garda automat. &amp;lt;br/&amp;gt;&amp;lt;img src=\"Textures/xi_thumbry\"&amp;gt; &amp;lt;br/&amp;gt; $attack1; tăietură&amp;lt;br/&amp;gt;$attack2; împunsătură"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e175_3FoO",
+   "en": "Hold $block; to keep blocking. &amp;lt;br/&amp;gt; Blocking slows  down stamina regeneration!",
+   "ro": "Ține apăsat $block; ca să continui să blochezi. &amp;lt;br/&amp;gt; Blocajul încetinește refacerea vlăgii!"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e177_GipJ",
+   "en": "Try to time your $block; to a moment when enemy starts his attack. That's parry!",
+   "ro": "Încearcă să-ți cronometrezi $block; pe momentul în care dușmanul începe atacul. Aceasta e parada!"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e178_a6aP",
+   "en": "Now!",
+   "ro": "Acum!"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e179_rCcC",
+   "en": "Well done!",
+   "ro": "Bravo!"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e180_mHoO",
+   "en": "Too late…",
+   "ro": "Prea târziu…"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e182_zL0l",
+   "en": "You can counterattack immediatelly after succesfull parry.",
+   "ro": "Poți contraataca imediat după o paradă reușită."
+  },
+  {
+   "key": "chap0_sch38_cdLq_e184_8PCU",
+   "en": "Block with $block; &amp;lt;br/&amp;gt; Parry is disabled for now…",
+   "ro": "Blochează cu $block; &amp;lt;br/&amp;gt; Parada e dezactivată deocamdată…"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e186_4po3",
+   "en": "The key is to change attack zone in the middle of an attack! &amp;lt;br/&amp;gt; Try some combos:&amp;lt;br/&amp;gt; $attack1_mouse; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor2&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt;&amp;lt;br/&amp;gt;or&amp;lt;br/&amp;gt; $attack1_mouse; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt; then stab.&amp;lt;br/&amp;gt;or&amp;lt;br/&amp;gt; $attack1_mouse; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;Textures/ccursor4&amp;quot;&amp;gt; then stab",
+   "ro": "Secretul e să schimbi zona atacului în mijlocul unui atac! &amp;lt;br/&amp;gt; Încearcă câteva înlănțuiri:&amp;lt;br/&amp;gt; $attack1_mouse; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor2&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt;&amp;lt;br/&amp;gt;sau&amp;lt;br/&amp;gt; $attack1_mouse; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt; apoi împunsătură.&amp;lt;br/&amp;gt;sau&amp;lt;br/&amp;gt; $attack1_mouse; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;Textures/ccursor4&amp;quot;&amp;gt; apoi împunsătură"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e187_zU5t",
+   "en": "The key is to change attack zone in the middle of an attack! &amp;lt;br/&amp;gt; Try some combos:&amp;lt;br/&amp;gt; $attack1; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor2&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt;&amp;lt;br/&amp;gt;or&amp;lt;br/&amp;gt; $attack1; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt; then $attack2;&amp;lt;br/&amp;gt;or&amp;lt;br/&amp;gt; $attack1; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;Textures/ccursor4&amp;quot;&amp;gt; then $attack2;",
+   "ro": "Secretul e să schimbi zona atacului în mijlocul unui atac! &amp;lt;br/&amp;gt; Încearcă câteva înlănțuiri:&amp;lt;br/&amp;gt; $attack1; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor2&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt;&amp;lt;br/&amp;gt;sau&amp;lt;br/&amp;gt; $attack1; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor3&amp;quot;&amp;gt; apoi $attack2;&amp;lt;br/&amp;gt;sau&amp;lt;br/&amp;gt; $attack1; &amp;lt;img src=&amp;quot;Textures/ccursor0&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;Textures/ccursor1&amp;quot;&amp;gt;  &amp;lt;img src=&amp;quot;Textures/ccursor4&amp;quot;&amp;gt; apoi $attack2;"
+  },
+  {
+   "key": "chap0_sch38_cdLq_e189_Y6cR",
+   "en": "As soon as your enemy starts his attack, try to move to the side.",
+   "ro": "Imediat ce dușmanul începe atacul, încearcă să te miști într-o parte."
+  },
+  {
+   "key": "chap0_sch38_cdLq_e191_ESJt",
+   "en": "Time for feints! By holding the attack button, you raise your weapon, you strike with release. If you change the attack zone before the actual strike, you can trick your opponent into guarding wrong side. Feel free to try it for a while.",
+   "ro": "Vremea feintelor! Ținând apăsat butonul de atac, îți ridici arma; lovești când eliberezi. Dacă schimbi zona atacului înainte de lovitura propriu-zisă, îl poți păcăli pe adversar să-și apere latura greșită. Încearcă puțin."
+  },
+  {
+   "key": "chap0_sch38_cdLq_e193_VZ8n",
+   "en": "Free fight! Now you can try all you've learned. The combat ends in three minutes. You can finish it earlier by leaving the combat area.",
+   "ro": "Luptă liberă! Acum poți încerca tot ce ai învățat. Lupta se termină în trei minute. O poți încheia mai devreme părăsind zona de luptă."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e1_xERA",
+   "en": "$h;BREWERY$h_end;You've built yourself a brewery and from now on the innkeeper will be able to brew a local beer. Every time a new batch is brewed, you can pick it up from the vat on top of the kiln at the brewery. Drink responsibly!&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/1057.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Pribyslavitz Boar$font_end;",
+   "ro": "$h;BEREARIE$h_end;Ți-ai construit o berărie, iar de acum hangiul va putea fierbe o bere locală. De fiecare dată când se fierbe un lot nou, îl poți lua din cuva de deasupra cuptorului din berărie. Bea cu măsură!&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/1057.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Pribyslavitz Boar$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e101_3j95",
+   "en": "$h;OVEREATING$h_end;You've eaten too much! You won't be hungry for a much longer time now, but you'll be clumsy until you've digested everything.",
+   "ro": "$h;SUPRAALIMENTARE$h_end;Ai mâncat prea mult! Nu vei mai fi flămând mult timp de acum încolo, dar vei fi stângaci până digeri tot."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e11_bw0R",
+   "en": "$h;QUESTS$h_end;Most of the quests can be completed in different ways - some people can be persuaded, some can be robbed. And if you'd rather not beat around the bush, violence can also be a solution.",
+   "ro": "$h;MISIUNI$h_end;Cele mai multe misiuni pot fi îndeplinite în moduri diferite: unii oameni pot fi convinși, alții pot fi jefuiți. Iar dacă preferi să nu ocolești subiectul, violența poate fi și ea o soluție."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e13_YuQX",
+   "en": "$h;QUEST LOG$h_end;You can find all information about the quests in the $font_color;log$font_end;. And for clarity they are also indicated on the $font_color;map$font_end;, as well as on the compass at the top of the screen. $p;{$ui_toggle_quest;|$ui_open_quest^;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Questlog$font_end;$p;{$ui_toggle_map;|$ui_open_map;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Map$font_end;",
+   "ro": "$h;JURNAL DE MISIUNI$h_end;Toate informațiile despre misiuni le găsești în $font_color;jurnal$font_end;. Pentru claritate, sunt marcate și pe $font_color;hartă$font_end;, precum și pe busola din partea de sus a ecranului. $p;{$ui_toggle_quest;|$ui_open_quest^;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Jurnal de misiuni$font_end;$p;{$ui_toggle_map;|$ui_open_map;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Hartă$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e15_8M2H",
+   "en": "$h;SHOPPING$h_end;In shops, you first have to put your purchases $use; into your $font_color;basket$font_end; and then either confirm the purchase $ui_reset; or try to haggle.$p;The amount you have to pay is always shown at the top of the screen.",
+   "ro": "$h;CUMPĂRĂTURI$h_end;În prăvălii, mai întâi trebuie să pui cumpărăturile $use; în $font_color;coșul$font_end; tău, apoi fie confirmi cumpărarea $ui_reset;, fie încerci să târguiești.$p;Suma de plată apare mereu în partea de sus a ecranului."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e17_keCW",
+   "en": "When haggling, you try to reach the best possible price without trying the trader's patience to the limits.$p;The slider shows the current price that's acceptable to the trader and the icon below it his level of annoyance.",
+   "ro": "Când târguiești, încerci să obții cel mai bun preț posibil, fără să-i pui răbdarea negustorului la încercare până la limită.$p;Glisorul arată prețul actual pe care negustorul îl acceptă, iar pictograma de sub el arată nivelul lui de iritare."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e174_dsC8",
+   "en": "$h;HORSE$h_end;You can whistle to call your horse by pressing $call_horse;$p;You can move some items from your inventory to your horse's saddlebags - (in $font_color;Inventory$font_end; press $ui_reset;).$p;You can increase the capacity of your horse's inventory by getting a better saddle or a stronger horse. ",
+   "ro": "$h;CAL$h_end;Îți poți chema calul fluierând, apăsând $call_horse;$p;Poți muta unele obiecte din inventarul tău în sacii de la șaua calului - (în $font_color;Inventar$font_end; apasă $ui_reset;).$p;Poți mări capacitatea inventarului calului obținând o șa mai bună sau un cal mai puternic. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e19_zic4",
+   "en": "The player's character and abilities are determined by the stats, skills and perks you will find in the Player tab{ $ui_toggle_player;|}.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Henry basically develops his abilities constantly simply by using them. Once every few level ups the player can choose a specific perk that will allow him to further specialise in a given skill.",
+   "ro": "Caracterul și abilitățile jucătorului sunt determinate de atribute, îndemânări și talente pe care le găsești în fila Jucător{ $ui_toggle_player;|}.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Henry își dezvoltă abilitățile constant, simplu prin folosirea lor. Din când în când, la câteva nivele, jucătorul poate alege un talent anume, care îi permite să se specializeze mai departe într-o îndemânare dată."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e20_duQ2",
+   "en": "$h;SAVING THE GAME$h_end;The game saves automatically at important moments during quests and when you sleep in your own bed. To save it immediately, drink Saviour Schnapps.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/savegamium.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Saviour Schnapps$font_end;",
+   "ro": "$h;SALVAREA JOCULUI$h_end;Jocul se salvează automat în momente importante ale misiunilor și când dormi în patul tău. Ca să salvezi imediat, bea Rachiu Mântuitor.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/savegamium.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Rachiu Mântuitor$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e202_Mi8E",
+   "en": "$h;FOOD-POSIONING$h_end;You've been poisoned! Be careful what you eat and drink - spoiled food can posion you.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_food_poison_buff.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Food-poisoning$font_end;",
+   "ro": "$h;OTRĂVIRE ALIMENTARĂ$h_end;Ai fost otrăvit! Ai grijă ce mănânci și ce bei - mâncarea stricată te poate otrăvi.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_food_poison_buff.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Otrăvire alimentară$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e21_6oDO",
+   "en": "$h;INVENTORY$h_end;In the Inventory tab you will see all your equipment with detailed descriptions. Here you can also change your character's outfit.$p;{$ui_toggle_inventory;|$ui_open_inventory;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Inventory$font_end;",
+   "ro": "$h;INVENTAR$h_end;În fila Inventar vezi tot echipamentul tău, cu descrieri detaliate. Aici îți poți schimba și vestimentația personajului.$p;{$ui_toggle_inventory;|$ui_open_inventory;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Inventar$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e21_q48i",
+   "en": "You can choose perks that improve or change the gameplay and the use of specific skills. You can select the perks in the Player tab{ $ui_toggle_player;| $ui_open_player^;}.",
+   "ro": "Poți alege talente care îmbunătățesc sau schimbă modul de joc și folosirea unor îndemânări anume. Talentele le alegi din fila Jucător{ $ui_toggle_player;| $ui_open_player^;}."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e211_eTep",
+   "en": "$h;TROPHY$h_end;Hunted game is a great source of meat. But if the hunter wants to get a trophy or offal, he has to learn the appropriate perk. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/antlers.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/butcher.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/tanner.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/tusks.dds' width='64' height='64' &amp;gt;&amp;lt;br/&amp;gt;",
+   "ro": "$h;TROFEU$h_end;Vânatul este o sursă bună de carne. Dar dacă vânătorul vrea să obțină un trofeu sau măruntaie, trebuie să învețe talentul potrivit. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/antlers.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/butcher.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/tanner.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/tusks.dds' width='64' height='64' &amp;gt;&amp;lt;br/&amp;gt;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e220_OYNU",
+   "en": "Different weapon types are suited to different situations. Swords are universal - they are good for both piercing and slashing attacks.&lt;br/&gt;Axes are heavier, best for slashing attacks, but slower than swords.&lt;br/&gt;Maces and hammers deliver devastating crushing attacks - especially against plate armour, but are unwieldy.&lt;br/&gt;Polearms are superb weapons - their long reach and heavy attack power make them extremely effective. However, they're to unwieldy to carry in your inventory.",
+   "ro": "Tipurile de arme se potrivesc unor situații diferite. Săbiile sunt universale - sunt bune atât pentru împunsături, cât și pentru tăieturi.&lt;br/&gt;Topoarele sunt mai grele, cele mai bune pentru tăieturi, dar mai lente decât săbiile.&lt;br/&gt;Măciucile și ciocanele dau lovituri zdrobitoare, devastatoare - mai ales împotriva armurilor de plăci, dar sunt greoaie.&lt;br/&gt;Armele cu mâner lung sunt excelente - raza lor mare și puterea mare de atac le fac extrem de eficiente. Totuși, sunt prea greoaie ca să le porți în inventar."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e224_Yril",
+   "en": "$h;DRAWN WEAPON$h_end;Drawn weapon causes fear amongst villagers. In cities they may even call a guard on you!",
+   "ro": "$h;ARMĂ SCOASĂ$h_end;Arma scoasă stârnește frică printre săteni. În orașe, pot chiar să cheme un gardian împotriva ta!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e229_7Yjz",
+   "en": "$h;WALKING$h_end;If you must follow somebody, slow down to a walk{ $toggle_run;.|.}$p;That way, you'll keep pace with them.",
+   "ro": "$h;MERSUL$h_end;Dacă trebuie să urmezi pe cineva, încetinește până la mers{ $toggle_run;.|.}$p;Astfel vei ține pasul cu el."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e23_HnbD",
+   "en": "$h;REPUTATION$h_end;The world notices and reacts to your behaviour.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/location_reputation.dds' width='128' height='36' &amp;gt;&amp;lt;br/&amp;gt;Steal someone's bread and they will not only take a dislike to you, but will also spread the dirt on you in the neighbourhood; help someone and they might be more helpful or give you a better price next time you see them.",
+   "ro": "$h;REPUTAȚIE$h_end;Lumea observă și reacționează la purtarea ta.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/location_reputation.dds' width='128' height='36' &amp;gt;&amp;lt;br/&amp;gt;Furi pâinea cuiva și nu doar că te va privi cu ciudă, ci va răspândi și bârfa despre tine prin vecinătate; ajuți pe cineva și poate fi mai binevoitor sau îți va da un preț mai bun data viitoare când te vede."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e232_0vgh",
+   "en": "Life in the monastery is governed by a strict daily routine. As a novice, you will be under close observation.&lt;br/&gt;If you are to work in the garden or in the library, you shouldn't wander off anywhere else.&lt;br/&gt;You'll you're somewhere you shouldn't be by the icon at the top of the screen. In such a case, you risk being punished by a Circator!",
+   "ro": "Viața în mănăstire este guvernată de o rânduială zilnică strictă. Ca novice, vei fi sub observație atentă.&lt;br/&gt;Dacă lucrezi în grădină sau în bibliotecă, nu trebuie să te duci nicăieri altundeva.&lt;br/&gt;Îți dai seama că ești undeva unde nu trebuie prin pictograma din partea de sus a ecranului. În acest caz, riști să fii pedepsit de un Circator!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e232_bHzv",
+   "en": "$h;TRAINERS$h_end;Some people can teach you. For some lessons you will have to know something already though. &lt;br/&gt; There might be more than one trainer for each skill, but there are always four lessons.",
+   "ro": "$h;ANTRENORI$h_end;Unii oameni te pot învăța. Pentru unele lecții însă trebuie să știi deja ceva. &lt;br/&gt; Poate fi mai mult de un antrenor pentru fiecare îndemânare, dar sunt mereu patru lecții."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e235_2CZV",
+   "en": "$h;YOUR HOME$h_end;Rattay Mill is now your new home.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='64' height='64' align='baseline' vspace='-22'&amp;gt; $font_color;Your bed$font_end; $p;You can sleep here and save the game. You have your own common trunk here, which is available to you in all your homes and rented lodgings.",
+   "ro": "$h;CASA TA$h_end;Moara din Rattay este acum noua ta casă.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='64' height='64' align='baseline' vspace='-22'&amp;gt; $font_color;Patul tău$font_end; $p;Poți dormi aici și salva jocul. Aici ai lada ta comună, la care ai acces în toate casele tale și în toate locuințele închiriate."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e238_lmPY",
+   "en": "$h;COMBAT TRAINING$h_end;The better you get at handling a weapon, the less experience you'll get out of practicing with training weapons. Training with real weapons will be more beneficial.",
+   "ro": "$h;ANTRENAMENT DE LUPTĂ$h_end;Cu cât te pricepi mai bine la mânuirea unei arme, cu atât câștigi mai puțină experiență exersând cu arme de antrenament. Antrenamentul cu arme adevărate va fi mai folositor."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e238_m8jr",
+   "en": "$h;REPUTATION$h_end;People notice your behaviour and if you really anger someone, they won't want to talk to you.$p;To put things right, try doing good deeds for others, for example.",
+   "ro": "$h;REPUTAȚIE$h_end;Oamenii observă purtarea ta și, dacă chiar înfurii pe cineva, nu vor mai să vorbească cu tine.$p;Ca să îndrepți lucrurile, încearcă să faci fapte bune pentru alții, de exemplu."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e238_olV0",
+   "en": "$h;HOME$h_end;You got yourself another home&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='64' height='64' align='baseline' vspace='-22'&amp;gt;$font_color;Your bed$font_end; $p;You can sleep here and save the game. You also have your common chest here, the contents of which are available to you in all your homes and rented rooms.",
+   "ro": "$h;ACASĂ$h_end;Ți-ai găsit încă o locuință&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='64' height='64' align='baseline' vspace='-22'&amp;gt;$font_color;Patul tău$font_end; $p;Aici poți dormi și salva jocul. Ai aici și lada comună, al cărei conținut îți stă la dispoziție în toate locuințele și camerele tale închiriate."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e241_WQjG",
+   "en": "$h;REPUTATION$h_end;People will notice your bad behaviour and start to hate you, which means they will either attack you or run away from you.$p;A person you anger will be appeased by your imprisonment, but you can also restore your reputation, for example, by doing good deeds for others.",
+   "ro": "$h;REPUTAȚIE$h_end;Oamenii îți vor observa purtarea rea și vor începe să te urască, ceea ce înseamnă că te vor ataca sau vor fugi de tine.$p;Cel pe care l-ai înfuriat se va potoli după ce ai fost închis, dar îți poți restabili reputația, de pildă, făcând fapte bune pentru alții."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e244_8YXQ",
+   "en": "$h;DRAWING A WEAPON$h_end;Draw a melee weapon using $weapon_set1; and a range weapon using $weapon_set2;.$p;$weapon_set1; $font_color;MELEE WEAPON$font_end;$p;$weapon_set2; $font_color;RANGE WEAPON$font_end;",
+   "ro": "$h;SCOATEREA ARMEI$h_end;Scoate o armă de corp cu $weapon_set1; și una de distanță cu $weapon_set2;.$p;$weapon_set1; $font_color;ARMĂ DE CORP$font_end;$p;$weapon_set2; $font_color;ARMĂ DE DISTANȚĂ$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e247_naZy",
+   "en": "$h;LOW STATS$h_end;You're trying to use equipment that demands better abilities than you have now, so its effectiveness is greatly lowered.$p;You can find out exactly what the item demands in the $font_color;Inventory$font_end; {$ui_toggle_inventory;|$ui_open_inventory;} in $font_color;Item info$font_end; $ui_confirm;",
+   "ro": "$h;ATRIBUTE INSUFICIENTE$h_end;Încerci să folosești un echipament care cere îndemânări mai bune decât ale tale acum, așa că eficiența lui scade mult.$p;Vezi exact ce cere obiectul în $font_color;Inventar$font_end; {$ui_toggle_inventory;|$ui_open_inventory;} la $font_color;Detalii obiect$font_end; $ui_confirm;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e25_ous7",
+   "en": "$h;HEALTH$h_end;You can see your health in the red bar on the lower edge of the screen.$p;The level of health also determines the maximum level of stamina.",
+   "ro": "$h;SĂNĂTATE$h_end;Sănătatea ta se vede în bara roșie de la marginea de jos a ecranului.$p;Nivelul sănătății determină și nivelul maxim al vlagăi."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e25_WP9S",
+   "en": "The Codex{ $ui_toggle_codex;|} contains all information and points of interest about the world, including detailed tutorials.",
+   "ro": "Codexul{ $ui_toggle_codex;|} cuprinde toate informațiile și punctele de interes despre lume, inclusiv tutoriale detaliate."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e251_gB1z",
+   "en": "$h;TACKLE$h_end;If your opponent flees from combat, you can chase him down, grab and turn him around $attack3; giving you a chance to finish him off.",
+   "ro": "$h;PLACAJ$h_end;Dacă adversarul fuge din luptă, îl poți urmări, prinde și întoarce cu spatele $attack3; ceea ce îți dă șansa să-l termini."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e257_Ogkp",
+   "en": "WARNING! Entering Vranik Hillfort can abort some quests in progress.",
+   "ro": "ATENȚIE! Intrarea în cetatea Vranik poate întrerupe unele misiuni aflate în desfășurare."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e258_fqou",
+   "en": "$h;LOW STATS$h_end;You're trying to use a bow that demands better skills than you have now, so its effectiveness is greatly lowered.$p;You can find out exactly what the weapon demands in the $font_color;Inventory$font_end; {$ui_toggle_inventory;|$ui_open_inventory;} in $font_color;Item info$font_end; $ui_confirm;.",
+   "ro": "$h;ATRIBUTE INSUFICIENTE$h_end;Încerci să folosești un arc care cere îndemânări mai bune decât ale tale acum, așa că eficiența lui scade mult.$p;Vezi exact ce cere arma în $font_color;Inventar$font_end; {$ui_toggle_inventory;|$ui_open_inventory;} la $font_color;Detalii obiect$font_end; $ui_confirm;."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e259_REZr",
+   "en": "$h;YOU HAVE NO ARROWS$h_end;For archery you need arrows!$p;If you've got some, equip them in your $font_color;Inventory$font_end; {$ui_toggle_inventory;|$ui_open_inventory;}.",
+   "ro": "$h;NU AI SĂGEȚI$h_end;Pentru tir ai nevoie de săgeți!$p;Dacă ai câteva, echipeaz-le din $font_color;Inventar$font_end; {$ui_toggle_inventory;|$ui_open_inventory;}."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e260_4a2Q",
+   "en": "$h;ROOM$h_end;Sir Hanush has rewarded you for your loyal service with a room of your own at Pirkstein!&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Your bed$font_end;",
+   "ro": "$h;CAMERĂ$h_end;Sir Hanush te-a răsplătit pentru slujba credincioasă cu o cameră a ta la Pirkstein!&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Patul tău$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e263_opx4",
+   "en": "$h;TORCH$h_end;If you need a light at night, use your torch by holding $weapon_set1^;$p;Even better, use Nighthawk potion.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/999.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Nighthawk$font_end; ",
+   "ro": "$h;TORȚĂ$h_end;Dacă ai nevoie de lumină noaptea, folosește-ți torța ținând apăsat $weapon_set1^;$p;Și mai bine, folosește poțiunea Ochi de noapte.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/999.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Ochi de noapte$font_end; "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e266_QIMA",
+   "en": "$h;ALCHEMY$h_end;If you need another flask of Saviour Schnapps, you can buy it from a trader or at a tavern, better again an apothecary.$p;On the other hand, you can just brew it yourself in an alchemy lab.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_map_alchemy.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt;$font_color;Alchemy bench$font_end;",
+   "ro": "$h;ALCHIMIE$h_end;Dacă ai nevoie de o nouă sticlă de Schnapps Mântuitor, o poți cumpăra de la un negustor sau dintr-o tavernă, și mai bine de la un farmacist.$p;Pe de altă parte, o poți prepara chiar tu într-un laborator de alchimie.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_map_alchemy.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt;$font_color;Banc de alchimie$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e269_owBY",
+   "en": "$h;TARGET ARCHERY$h_end;The rules of the game are simple: you shoot seven arrows, the bullseye is worth three points, the middle ring two and the outside ring one.$p;The first to finish shooting gets an extra three points!",
+   "ro": "$h;TIR ȚINTĂ$h_end;Regulile jocului sunt simple: tragi șapte săgeți, centrul valorează trei puncte, inelul din mijloc două, iar cel exterior unul.$p;Primul care termină de tras primește încă trei puncte!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e27_WYdp",
+   "en": "$h;INJURIES$h_end;Serious wounds to parts of the body will significantly affect your capabilities.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_torso_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_head_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_hand_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_leg_buff.dds' width='60' height='64' &amp;gt;&amp;lt;br/&amp;gt;You can't run with injured legs, wielding a sword isn't easy with a broken arm etc.",
+   "ro": "$h;RĂNI$h_end;Rănile grave la părțile corpului îți afectează serios capacitățile.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_torso_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_head_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_hand_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_leg_buff.dds' width='60' height='64' &amp;gt;&amp;lt;br/&amp;gt;Nu poți alerga cu picioarele rănite, iar sabia nu se mânuiește ușor cu brațul rupt etc."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e277_qFQt",
+   "en": "$h;GRAVEDIGGER$h_end;If you left something important in the possession of a corpse, you can find it in a trunk at the Rattay Presbytery, where the gravedigger puts the possessions of the deceased.",
+   "ro": "$h;GROPAR$h_end;Dacă ai lăsat ceva important în posesia unui cadavru, îl poți găsi într-o ladă la Prezbiteriul din Rattay, unde groparul pune bunurile celui decedat."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e282_CPJc",
+   "en": "$h;DRYING AND SMOKING$h_end;Drying and smoking are a very useful means of preserving food for later consumption. It works the same as for cooking - simply place meat, fruit or other food in the drier or smokehouse to preserve it.",
+   "ro": "$h;USCAT ȘI AFUMAT$h_end;Uscarea și afumarea sunt un mijloc foarte util de a conserva hrana pentru mai târziu. Funcționează ca la gătit: pune carne, fructe sau altă hrană în uscător ori în afumătoare ca s-o conservi."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e287_Wkqy",
+   "en": "$h;OVERLOADING$h_end;You're too overloaded to hoist yourself onto the saddle. Try dropping items or moving them to your horse's saddlebags. {$ui_toggle_inventory;|$ui_open_inventory;}",
+   "ro": "$h;SUPRAÎNCĂRCAT$h_end;Ești prea încărcat ca să te urci în șa. Încearcă să lași jos obiecte sau să le muți în traistele calului tău. {$ui_toggle_inventory;|$ui_open_inventory;}"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e289_eota",
+   "en": "$h;SCARING$h_end;In order to frighten one of Fearless Felix's friends, you learned to make terrifying animal calls. Now you just need to get close enough for him to hear you.$p;&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/trespass2.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt;$font_color;Fearless Fellows' Camp$font_end;$p;Then press $call_horse; You'll have to wait a while until your vocal chords are rested before grunting again.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_dog_buff.dds' width='66' height='66' align='baseline' vspace='-50' &amp;gt;$font_color;Sore throat$font_end;",
+   "ro": "$h;SPERIAT$h_end;Ca să-l sperii pe unul dintre prietenii lui Felix Neînfricatul, ai învățat să scoți strigăte de animal înfricoșătoare. Acum trebuie doar să te apropii destul încât să te audă.$p;&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/trespass2.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt;$font_color;Tabăra Neînfricaților$font_end;$p;Apoi apasă $call_horse; Va trebui să aștepți un timp până când corzile vocale ți se odihnesc înainte să mai mormăi.&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_dog_buff.dds' width='66' height='66' align='baseline' vspace='-50' &amp;gt;$font_color;Gât iritat$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e29_6tRz",
+   "en": "$h;BLEEDING$h_end;You are bleeding and the wound must be bandaged quickly or you will bleed to death &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_blood_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Bleeding$font_end;$p;For that you need a bandage, which you can find in your $font_color;inventory$font_end; and use on the selected body part that is bleeding &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/bandage.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Bandage$font_end;",
+   "ro": "$h;SÂNGERARE$h_end;Sângerezi, iar rana trebuie legată repede, altfel vei sângera până la moarte &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_blood_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Sângerare$font_end;$p;Pentru asta ai nevoie de un bandaj, pe care îl găsești în $font_color;inventar$font_end; și îl folosești pe partea corpului care sângerează &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/bandage.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Bandaj$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e291_XTpQ",
+   "en": "$h;DOG RAN OFF$h_end;Your dog's Obedience has fallen to \"$font_color;0$font_end;\" and he's run off. There's nothing you can do but wait until he decides to come back to you.",
+   "ro": "$h;CÂINELE A FUGIT$h_end;Supunerea câinelui tău a scăzut la „$font_color;0$font_end;” și el a fugit. Nu poți face nimic decât să aștepți până hotărăște să se întoarcă la tine."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e295_LOiH",
+   "en": "$h;ALARM$h_end;Your dog is now able to detect foes and their dogs. When he catches scent of them, he'll start growling, and if they're close enough, he'll turn towards them, ready to attack.$p;The higher your dog's Obedience and your Houndmaster skill, the further away he can detect foes. ",
+   "ro": "$h;ALARMĂ$h_end;Câinele tău poate acum să detecteze dușmanii și câinii lor. Când prinde mirosul lor, începe să mârâie și, dacă se află destul de aproape, se întoarce spre ei, gata de atac.$p;Cu cât Supunerea câinelui tău și îndemânarea ta de Stăpân de câini sunt mai mari, cu atât poate detecta dușmanii de mai departe. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e297_vuVL",
+   "en": "$h;SEEK$h_end;Your dog is now able to seek out interesting undiscovered places. Once he catches a scent, he'll go on ahead and lead you to them, then bark to alert you to what he's found.$p;If you can't find him, he'll soon come back anyway.",
+   "ro": "$h;CAUTĂ$h_end;Câinele tău poate acum să caute locuri interesante, încă nedescoperite. Odată ce prinde un miros, o ia înainte și te duce la ele, apoi latră ca să te anunțe ce a găsit.$p;Dacă nu-l poți găsi, se va întoarce curând oricum."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e299_6eqi",
+   "en": "$h;HUNT$h_end;Your dog can hunt nearby game. When he catches a scent of it, he'll chase it and try to take it down. The higher your Houndmaster skill, the faster he'll hunt down the game. Then he will bark to alert you that he's caught his quarry.$p;He's able to bring hares to you by himself. He won't attack domesticated animals, with the exception of enemies' dogs.&amp;lt;br/&amp;gt;After hunting, let your dog rest awhile. If he's too tired to hunt, you'll see the relevant debuff.",
+   "ro": "$h;VÂNEAZĂ$h_end;Câinele tău poate vâna vânatul din apropiere. Când prinde mirosul lui, îl urmărește și încearcă să-l doboare. Cu cât îndemânarea ta de Stăpân de câini este mai mare, cu atât vânează mai repede. Apoi latră ca să te anunțe că a prins prada.$p;Poate aduce singur iepuri la tine. Nu atacă animalele domestice, cu excepția câinilor dușmanilor.&amp;lt;br/&amp;gt;După vânătoare, lasă-l pe câine să se odihnească puțin. Dacă e prea obosit ca să vâneze, vei vedea efectul negativ corespunzător."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e301_mEWh",
+   "en": "$h;AGGRESSIVE DOG$h_end;You've commanded your dog to atack any nearby enemy target. Once your dog catches scent of any foe or his dog, he'll wait for nothing and attack right away.",
+   "ro": "$h;CÂINE AGRESIV$h_end;Ai poruncit câinelui tău să atace orice țintă dușmană din apropiere. Din clipa în care prinde mirosul vreunui dușman sau al câinelui lui, nu mai așteaptă și atacă imediat."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e303_RSMi",
+   "en": "$h;HEEL$h_end;Your dog will always be next to you. He'll follow you, sticking close. He won't react to any stimuli such as an attack on you or him, but you can still give him commands by means of the interactor.",
+   "ro": "$h;LÂNGĂ MINE$h_end;Câinele tău va fi mereu lângă tine. Te urmează și rămâne aproape. Nu reacționează la niciun stimul, precum un atac asupra ta sau asupra lui, dar poți totuși să-i dai porunci prin interactor."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e305_VIJp",
+   "en": "$h;FREE$h_end;The most useful dog command. Now he will help you whenever he can. He will defend himself when attacked and help keep enemies busy. He'll run with you of his own accord, while having some freedom in deciding what to do.",
+   "ro": "$h;LIBER$h_end;Cea mai folositoare poruncă pentru câine. Acum te va ajuta ori de câte ori poate. Se va apăra când e atacat și va ține dușmanii ocupați. Aleargă cu tine din proprie inițiativă, având însă o anumită libertate în a decide ce să facă."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e307_18ZE",
+   "en": "$h;STAY$h_end;Your dog will stay put until you come back for him. You can always call him by holding $request_dog^;. He will then start walking with you, the same as if you'd given him the command $font_color;Free$font_end;.",
+   "ro": "$h;RĂMÂI$h_end;Câinele tău va rămâne pe loc până te întorci după el. Îl poți chema oricând ținând apăsat $request_dog^;. Atunci va începe să meargă cu tine, la fel ca dacă i-ai fi dat porunca „Liber”$font_color;$font_end;."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e307_bOlm",
+   "en": "$h;WARNING!$h_end;You did not succeed in surrendering!",
+   "ro": "$h;AVERTISMENT!$h_end;Nu ai reușit să te predai!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e309_ViqT",
+   "en": "$h;WARNING$h_end;Your horse's stamina is low. By pressing $sprint; you can slow to a canter. Once he's recovered a little at least, he'll be able to gallop again $horse_sprint;$horse_sprint;",
+   "ro": "$h;AVERTISMENT$h_end;Vlaga calului tău este scăzută. Apăsând $sprint; poți încetini la galop scurt. Odată ce s-a odihnit cât de cât, va putea din nou galopa $horse_sprint;$horse_sprint;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e31_tcE9",
+   "en": "$h;BLEEDING$h_end;You're bleeding and you don't yet know how to bandage your wounds! You need to find someone who can help you!&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_blood_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Bleeding$font_end;",
+   "ro": "$h;SÂNGERARE$h_end;Sângerezi și nu știi încă să-ți legi rănile! Trebuie să găsești pe cineva care să te ajute!&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_blood_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Sângerare$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e311_okJT",
+   "en": "$h;COMPASS$h_end;The compass will tell you where to go in the quest you are pursuing. Just head for the active objective waypoint$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_main_quest.dds' width='66' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Go to Father.$font_end;",
+   "ro": "$h;BUSOLĂ$h_end;Busola îți arată încotro să mergi în misiunea pe care o urmezi. Îndreaptă-te pur și simplu spre punctul de reper al obiectivului activ$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_main_quest.dds' width='66' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Mergi la Tată.$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e313_U7oH",
+   "en": "$h;EAT$h_end;To eat any food, pick it up. In the inventory in the tab $font_color;Food$font_end; select what you want to eat and then eat it by holding $use^; $p;{$ui_toggle_inventory;|$ui_open_inventory;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Inventory$font_color;",
+   "ro": "$h;MÂNCARE$h_end;Ca să mănânci orice fel de hrană, ridică-o de jos. În inventar, din fila $font_color;Hrană$font_end; alege ce vrei să mănânci, apoi mănânc-o ținând apăsat $use^; $p;{$ui_toggle_inventory;|$ui_open_inventory;}&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Inventar$font_color;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e317_7cvf",
+   "en": "$h;IN COMBAT$h_end;When in combat, you'll see a pair of crossed golden swords under the compas.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/combat_state_1.dds' width='67' height='61' &amp;gt;$p;As long as it's active, you can't use any items from your inventory, except for changing weapons. ",
+   "ro": "$h;ÎN LUPTĂ$h_end;Când ești în luptă, vei vedea sub busolă o pereche de săbii aurii încrucișate.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/combat_state_1.dds' width='67' height='61' &amp;gt;$p;Atâta timp cât e activă, nu poți folosi niciun obiect din inventar, în afară de schimbarea armelor. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e33_bXmS",
+   "en": "$h;SURRENDER$h_end;Most people don't want to die, so they may surrender to you! It's then up to you what to do with them. ",
+   "ro": "$h;PREDARE$h_end;Cei mai mulți oameni nu vor să moară, așa că se pot preda în fața ta! Atunci depinde de tine ce faci cu ei. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e332_Tho9",
+   "en": "$h;IN COMBAT$h_end;When you're engaged in combat, but the foe is at a certain distance, you'll see a pair of uncrossed silver swords under the compass.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/combat_state_2.dds' width='113' height='61' &amp;gt;$p;While it's active, you can use items from your inventory, except for changing your armour.",
+   "ro": "$h;ÎN LUPTĂ$h_end;Când ești angajat într-o luptă, dar dușmanul se află la o anumită distanță, vei vedea sub busolă o pereche de săbii argintii, neîncrucișate.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/combat_state_2.dds' width='113' height='61' &amp;gt;$p;Cât timp e activă, poți folosi obiecte din inventar, în afară de schimbarea armurii."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e35_9h2b",
+   "en": "$h;STEALTH$h_end;If you want to sneak in somewhere, make sure no one sees you or hears you.$p;Whether you're seen or not depends on the light and your clothing. Whether they hear you depends on the surface you're moving on and your attire, especially footwear.$p;$toggle_crouch;&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Stealth$font_end;",
+   "ro": "$h;FURIȘARE$h_end;Dacă vrei să te strecori undeva, asigură-te că nu te vede și nu te aude nimeni.$p;Dacă ești văzut sau nu depinde de lumină și de haine. Dacă te aud depinde de suprafața pe care te miști și de îmbrăcăminte, mai ales de încălțăminte.$p;$toggle_crouch;&amp;nbsp;&amp;nbsp;&amp;nbsp;$font_color;Furișare$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e37_92Lt",
+   "en": "$h;DISGUISE$h_end;If you can manage to get your hands on attire belonging to a specific faction, you can infiltrate places you normally can't get into. Most important are distinctive items, such as a tabard, as well as helmets that cover the face.",
+   "ro": "$h;DEGHIZARE$h_end;Dacă reușești să pui mâna pe veșmintele unei anumite facțiuni, poți pătrunde în locuri în care altfel nu ai intra. Cel mai important sunt obiectele distinctive, precum un tabard, și coifurile care acoperă fața."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e383_W7OM",
+   "en": "$h;DISOBEDIENCE$h_end;Your dog's obedience has fallen and now he won't heed your commands. A graphic appears showing how long it will take before your dog will run away entirely. $p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_obedience.dds' width='66' height='66' align='baseline' vspace='-50' &amp;gt;$font_color;Disobedience$font_end;$p;When your dog is dicobedient, you can't directly give him any command except $font_color;Heel!$font_end; using $request_dog^;. But you can keep switching the commands in the dialogue.",
+   "ro": "$h;NESUPUNERE$h_end;Supunerea câinelui tău a scăzut și acum nu mai ascultă de porunci. Apare o imagine care arată cât timp mai are până fuge definitiv. $p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_obedience.dds' width='66' height='66' align='baseline' vspace='-50' &amp;gt;$font_color;Nesupunere$font_end;$p;Când câinele tău este neascultător, nu îi poți da direct nicio poruncă în afară de $font_color;Lângă mine!$font_end; folosind $request_dog^;. Dar poți schimba comenzile în dialog."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e39_ubvz",
+   "en": "$h;THEFT$h_end;If you must steal, make sure no one sees you!$p;And you need to be careful when selling stolen goods too. Try going to a trader as far away as possible from the scene of the theft, or find someone who deals in stolen goods as a matter of course - a fence.",
+   "ro": "$h;FURT$h_end;Dacă trebuie să furi, asigură-te că nu te vede nimeni!$p;Și trebuie să fii atent când vinzi bunurile furate. Încearcă să mergi la un negustor cât mai departe de locul furtului sau găsește pe cineva care face comerț cu lucruri furate în mod obișnuit, un tainuitor."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e396_QePo",
+   "en": "$h;TOURNEY$h_end;The Rattay Tournament takes place once a week. You can enrol by talking to the herald in the courtyard of the Upper Castle. ",
+   "ro": "$h;TURNIR$h_end;Turneul de la Rattay are loc o dată pe săptămână. Te poți înscrie vorbind cu heraldul din curtea Castelului de Sus. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e41_CnNI",
+   "en": "$h;CRIME$h_end;If you're seen committing a crime, the local catchpoles will try to catch you. Even if you get away, people will remember your crime - the more serious the crime, the longer they'll remember.$p;You can tell by the icon to the left of the compass whether you're facing a $font_color;Fine$font_end; or $font_color;Jail$font_end;.$p;&amp;lt;.br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/crimes.dds' width='128' height='64' &amp;gt;&amp;lt;br/&amp;gt;",
+   "ro": "$h;CRIMĂ$h_end;Dacă ești văzut comițând o crimă, slujitorii locali vor încerca să te prindă. Chiar dacă scapi, oamenii își vor aminti de crima ta. Cu cât e mai gravă, cu atât își vor aminti mai mult.$p;Din iconița de lângă busolă vezi dacă te așteaptă o $font_color;Amendă$font_end; sau $font_color;Închisoare$font_end;.$p;&amp;lt;.br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/crimes.dds' width='128' height='64' &amp;gt;&amp;lt;br/&amp;gt;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e43_4we3",
+   "en": "$h;TRESSPASSING$h_end;If you go where you’re not supposed to, people will first warn you before calling for a guard &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/trespass2.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Warning$font_end;$p;But in guarded places they will arrest you immediately. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/trespass1.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Arrest$font_end;",
+   "ro": "$h;TRESPASSING$h_end;Dacă mergi unde nu ai voie, oamenii te vor avertiza mai întâi, înainte să strige după un gardian &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/trespass2.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Avertisment$font_end;$p;Dar în locurile păzite te vor aresta imediat. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/trespass1.dds' width='64' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Arestare$font_end;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e43_wjRV",
+   "en": "When lockpicking, you first have to find the sweet spot with the lockpick &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/lockpicking1.dds' width='285' height='64'&amp;gt;&amp;lt;br/&amp;gt; and then turn the lock {$lock_dir_fwd;|$xi_lock_dir_help;}.But that also shifts the position of the sweet spot, so you have to keep adjusting. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/lockpicking2.dds' width='285' height='128'&amp;gt;&amp;lt;br/&amp;gt;If you lose the sweet spot while turning the lock, the lock will stick and you can even snap the lockpick, which emits a suspicious noise.",
+   "ro": "Când descui un lacăt, trebuie mai întâi să găsești punctul potrivit cu șperaclul &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/lockpicking1.dds' width='285' height='64'&amp;gt;&amp;lt;br/&amp;gt; apoi să întorci lacătul {$lock_dir_fwd;|$xi_lock_dir_help;}. Dar și asta schimbă poziția punctului potrivit, așa că trebuie să tot ajustezi. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/lockpicking2.dds' width='285' height='128'&amp;gt;&amp;lt;br/&amp;gt;Dacă pierzi punctul potrivit în timp ce întorci lacătul, acesta se blochează și poți chiar să rupi șperaclul, ceea ce scoate un zgomot suspect."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e45_XI8w",
+   "en": "When pickpocketing, it's best to search as long as possible (Figure - zoom on searching).&lt;br/&gt;Once you decide you've searched long enough, you can choose what to keep from the things you've found. Each person has his own inventory, which you will gradually discover, and the most valuable items are usually at the very bottom. Just don't forget, you have to get your hand out with the loot too!",
+   "ro": "Când buzunărești, cel mai bine e să cauți cât mai mult timp (Figura - zoom pe căutare).&lt;br/&gt;Odată ce decizi că ai căutat destul, poți alege ce să păstrezi din lucrurile găsite. Fiecare om are inventarul lui, pe care îl vei descoperi treptat, iar cele mai valoroase obiecte se află de obicei chiar la fund. Doar nu uita că trebuie să scoți mâna cu prada și tu!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e47_cKvv",
+   "en": "$h;HUNGER$h_end;The longer you go hungry, the weaker you get, and in the end you can even die.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_hunger_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Hunger$font_end;$p;Different foods have different properties - e.g. an apple won't fill you up like a roast duck, but it will stay fresh for longer. Some foods can be more effective for healing. ",
+   "ro": "$h;FOAME$h_end;Cu cât ești mai mult flămând, cu atât slăbești, iar în cele din urmă poți chiar să mori.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_hunger_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Foame$font_end;$p;Mâncărurile diferite au proprietăți diferite - de pildă, un măr nu te satură ca o rață friptă, dar se păstrează proaspăt mai mult. Unele alimente pot fi mai eficiente pentru vindecare. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e49_u4S2",
+   "en": "$h;TIREDNESS$h_end;If you are tired, your stamina and eloquence will also gradually decrease.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_oversleep_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Tiredness$font_end;$p;Sleep is the solution. Find an available bed, which you'll recognise from the icon on the compass.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt;$font_color;Your bed$font_end;$p; Sit on it $use; start $sitting_sleep; and set how long you want to sleep for.",
+   "ro": "$h;OBOSEALĂ$h_end;Dacă ești obosit, vlaga și elocvența ți se vor micșora treptat.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_oversleep_buff.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Oboseală$font_end;$p;Somnul este soluția. Caută un pat liber, pe care îl vei recunoaște după pictograma de pe busolă.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/poi_47.dds' width='60' height='64' align='baseline' vspace='-22' &amp;gt;$font_color;Patul tău$font_end;$p; Așează-te pe el $use; începe $sitting_sleep; și stabilește cât vrei să dormi."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e51_DoMK",
+   "en": "$h;SKIP TIME$h_end;If you have to wait for something, you can skip time. Press $ui_open_skiptime; and set how long you want to wait. Watch out, though - tiredness and hunger grow even during skip time.",
+   "ro": "$h;SĂRIRE PESTE TIMP$h_end;Dacă trebuie să aștepți ceva, poți sări peste timp. Apasă $ui_open_skiptime; și stabilește cât vrei să aștepți. Atenție, totuși - oboseala și foamea cresc și în timpul în care sari peste timp."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e53_Yey8",
+   "en": "$h;WHISTLING$h_end;You can call your horse by whistling $call_horse;.$p;But your whistle will also be heard by people within earshot, which sometimes can be a disadvantage, while on the other hand it can also be a way of distracting attention.$p;You can then mount your horse using $call_horse;",
+   "ro": "$h;FLUIERATUL$h_end;Îți poți chema calul fluierând $call_horse;.$p;Dar fluierul tău va fi auzit și de oamenii din apropiere, ceea ce uneori poate fi un dezavantaj, iar pe de altă parte poate fi și un mod de a abate atenția.$p;Apoi poți încăleca folosind $call_horse;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e55_1cag",
+   "en": "The basic riding controls are the same as when you're on foot. You can trot {$moveforward;$moveleft;$moveback;$moveright;|$xi_move_help;}, canter $horse_sprint; or gallop $horse_sprint;$horse_sprint;, which influences not only the horse's speed, but also reduces stamina.$p; If you try to push your horse when it's stamina is too low, it will throw you.",
+   "ro": "Comenzile de bază pentru călărie sunt aceleași ca atunci când mergi pe jos. Poți merge la trap {$moveforward;$moveleft;$moveback;$moveright;|$xi_move_help;}, la galop scurt $horse_sprint; sau la galop $horse_sprint;$horse_sprint;, ceea ce influențează nu doar viteza calului, ci și reduce vlaga. $p; Dacă îți împingi calul când vlaga lui e prea mică, te va arunca jos."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e57_zuui",
+   "en": "$h;FAST TRAVEL$h_end;On the $font_color;map$font_end; {$ui_toggle_map;|$ui_open_map;} you'll see all the places you can fast travel to. Just select where you want to go and confirm.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/fast_travel.dds' width='61' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Fast travel$font_end; ",
+   "ro": "$h;CĂLĂTORIE RAPIDĂ$h_end;Pe $font_color;harta$font_end; {$ui_toggle_map;|$ui_open_map;} vei vedea toate locurile unde poți călători rapid. Alege doar unde vrei să mergi și confirmă.$p;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/fast_travel.dds' width='61' height='64' align='baseline' vspace='-22' &amp;gt; $font_color;Călătorie rapidă$font_end; "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e59_V5Wz",
+   "en": "$h;DRUNKENNESS$h_end;Alcohol begins to act gradually, giving you bonuses on Speech, Vitality, Charisma and Strength, although if you over-indulge, the after-effects can be less than pleasant. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_drunk_more_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_hangover_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_alcoholism_buff.dds' width='60' height='64' &amp;gt;",
+   "ro": "$h;BEȚIA$h_end;Alcoolul începe să acționeze treptat, dându-ți bonusuri la Vorbire, Vitalitate, Carismă și Forță, deși dacă te dedai prea mult, efectele de după pot fi mai puțin plăcute. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_drunk_more_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_hangover_buff.dds' width='60' height='64' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/ico_alcoholism_buff.dds' width='60' height='64' &amp;gt;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e59_y06p",
+   "en": "In order to brew potions, you need a knowledge of alchemy, a recipe, an alchemist's lab and the required ingredients.&lt;br/&gt;The herbarium in the lab contains all essential information about herbs and all the recipes Henry has collected. It's best to always proceed precisely by the recipe.",
+   "ro": "Pentru a prepara poțiuni, ai nevoie de cunoștințe de alchimie, de o rețetă, de un laborator de alchimist și de ingredientele necesare.&lt;br/&gt;Ierbarul din laborator conține toate informațiile esențiale despre ierburi și toate rețetele pe care Henry le-a adunat. Cel mai bine e să urmezi întotdeauna rețeta cu exactitate."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e61_BpYE",
+   "en": "$h;HORSE$h_end;You've got your first horse. You can see its capabilities and inventory in the $font_color;Horse$font_end;{ $ui_toggle_horse;|} tab.",
+   "ro": "$h;CAL$h_end;Ai primul tău cal. Îi poți vedea capacitățile și inventarul în fila $font_color;Cal$font_end;{ $ui_toggle_horse;|} ."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e61_evss",
+   "en": "The aim of the dice game is to be the first to achieve a target number of points. The players take turns and each player's turn ends when none of the dice has useful points after the throw.&lt;br/&gt;Every one and five thrown scores points, as well as three of a kind. Sometimes it pays off to surrender the points for one of the dice and throw it again with the others, so as to increase your chances of a better score.",
+   "ro": "Scopul jocului cu zaruri este să fii primul care atinge un număr-țintă de puncte. Jucătorii își iau rândul pe rând, iar rândul fiecărui jucător se încheie când niciunul dintre zaruri nu aduce puncte utile după aruncare.&lt;br/&gt;Fiecare unu și cinci aduce puncte, la fel și trei de același fel. Uneori merită să renunți la punctele unui zar și să-l arunci din nou împreună cu celelalte, ca să-ți crești șansele la un scor mai bun."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e62_ICjc",
+   "en": "$h;GUARDS$h_end;When guards challenge you to surrender, you can do so by pressing {$surrender;|$surrender_xi_modifier; $surrender_xi_activate;} if you wish to succumb to the rule of law. But decide quickly!",
+   "ro": "$h;GĂRZILE$h_end;Când gardienii te provoacă să te predai, poți face asta apăsând {$surrender;|$surrender_xi_modifier; $surrender_xi_activate;} dacă vrei să te supui legii. Dar decide repede!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e63_srI0",
+   "en": "Weapons and armour become worn out and damaged with use. &lt;br/&gt;Weapons can be honed on the grinding wheel available at every good blacksmith's. To repair damaged armour, you must buy a specific repair kit&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit1.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit2.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit3.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit4.dds' width='64' height='64'&amp;gt;&amp;lt;br/&amp;gt;and use it in your inventory {$ui_toggle_inventory;|$ui_open_inventory;}. For bigger repairs you'll have to go to a professional.",
+   "ro": "Armele și armurile se uzează și se deteriorează cu folosirea. &lt;br/&gt;Armele pot fi ascuțite pe roata de polizat, aflată la fiecare fierar bun. Pentru a repara o armură deteriorată, trebuie să cumperi un set special de reparație&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit1.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit2.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit3.dds' width='64' height='64' &amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/repairkit4.dds' width='64' height='64'&amp;gt;&amp;lt;br/&amp;gt;și folosește-l în inventar {$ui_toggle_inventory;|$ui_open_inventory;}. Pentru reparații mai mari va trebui să mergi la un meșter specializat."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e65_MZDM",
+   "en": "$h;READING$h_end;Being able to read was a very rare skill in the middle ages and a common blacksmith's son certainly wouldn't have been literate. To understand written text, you will have to find someone who can teach you to read. ",
+   "ro": "$h;CITIT$h_end;Să poți citi era o îndemânare foarte rară în Evul Mediu, iar fiul unui fierar obișnuit cu siguranță nu ar fi știut carte. Ca să înțelegi un text scris, va trebui să găsești pe cineva care să te învețe să citești. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e67_RJnl",
+   "en": "$h;AMBUSH$h_end;You were ambushed! Fight or surrender {$surrender;|$surrender_xi_modifier; $surrender_xi_activate;}!",
+   "ro": "$h;AMBUSCADĂ$h_end;Ai fost atacat din ambuscadă! Luptă sau predă-te {$surrender;|$surrender_xi_modifier; $surrender_xi_activate;}!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e7_eEDZ",
+   "en": "$h;CHARACTER$h_end;By means of the first two choices in this dialogue, you will select your character's default characteristics. $p;If you're not satisfied with them, not to worry: all characteristics can be further developed without limitations. ",
+   "ro": "$h;PERSONAJ$h_end;Prin primele două alegeri din acest dialog vei stabili trăsăturile implicite ale personajului tău. $p;Dacă nu ești mulțumit de ele, nu-ți face griji: toate trăsăturile pot fi dezvoltate mai departe, fără limite. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e79_hs14",
+   "en": "A weapon must be honed along its full cutting edge at the right angle and with the right pressure, which you will recognise from the sparks flying. But be careful - if the weapon starts to smoke, you're exerting too much pressure and you'll damage it!",
+   "ro": "Arma trebuie ascuțită de-a lungul întregii tăișuri, în unghiul potrivit și cu presiunea potrivită, pe care le vei recunoaște după scânteile care zboară. Dar ai grijă: dacă arma începe să fumeze, apeși prea tare și o vei strica!"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e9_Gl12",
+   "en": "$h;TO TALMBERG!$h_end;You're going the wrong way! The compass at the top of the screen always shows you which way to go.",
+   "ro": "$h;SPRE TALMBERG!$h_end;Mergi pe drumul greșit! Busola din partea de sus a ecranului îți arată mereu încotro să mergi."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e9_HlrL",
+   "en": "$h;MOVEMENT$h_end;You move around using {$moveforward;$moveleft;$moveback;$moveright;|$xi_move_help;}, you can also sprint $sprint;, jump $jump;{and walk $toggle_run;|}.$p;You can interact with NPCs, items and the world using $use;",
+   "ro": "$h;MIȘCARE$h_end;Te deplasezi folosind {$moveforward;$moveleft;$moveback;$moveright;|$xi_move_help;}, poți și să alergi $sprint;, să sari $jump;{and walk $toggle_run;|}.$p;Poți interacționa cu personajele, obiectele și lumea folosind $use;"
+  },
+  {
+   "key": "chap14_sch29_yLmT_e9_qHkj",
+   "en": "Sometimes it will take a bit of persuasion to achieve your ends.&lt;br/&gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_prompt_2.dds' width='40' height='40' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_prompt_3.dds' width='40' height='40' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_prompt_1.dds' width='40' height='40' &amp;gt;&lt;br/&gt;You can rely on your eloquence, flaunt your social status, or make an impression with your strength.",
+   "ro": "Uneori va fi nevoie de puțină convingere ca să-ți atingi scopurile.&lt;br/&gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_prompt_2.dds' width='40' height='40' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_prompt_3.dds' width='40' height='40' &amp;gt; &amp;lt;img src='img://Libs/UI/Textures/Dynamic/icon_prompt_1.dds' width='40' height='40' &amp;gt;&lt;br/&gt;Te poți baza pe elocința ta, poți să-ți etalezi statutul social sau poți face impresie prin forța ta."
+  },
+  {
+   "key": "chap14_sch29_yLmT_e92_H8h7",
+   "en": "$h;SURRENDER$h_end;If it looks like you are about to die in combat, you can always yield!{$surrender;|$surrender_xi_modifier; $surrender_xi_activate;}$p;However, there's no guarantee your opponent will accept your surrender. ",
+   "ro": "$h;PREDARE$h_end;Dacă pare că ești pe punctul de a muri în luptă, te poți preda oricând!{$surrender;|$surrender_xi_modifier; $surrender_xi_activate;}$p;Totuși, nu există nicio garanție că adversarul tău va accepta predarea. "
+  },
+  {
+   "key": "chap14_sch29_yLmT_e98_JtR3",
+   "en": "You're overloaded, so you move more slowly and can't fast travel, run or jump. Try dropping some inventory items or putting them in your horse's saddlebags.{$ui_toggle_inventory;|$ui_open_inventory;} ",
+   "ro": "Ești supraîncărcat, așa că te miști mai încet și nu poți călători rapid, alerga sau sări. Încearcă să lași jos unele obiecte din inventar sau să le pui în traista de la șaua calului.{$ui_toggle_inventory;|$ui_open_inventory;} "
+  },
+  {
+   "key": "chap16_sch14_aKwr_e196_RNHd",
+   "en": "From now on you can come to the arena anytime and challenge the master to a training duel.",
+   "ro": "De acum poți veni oricând la arenă și îl poți provoca pe maestru la un duel de antrenament."
+  },
+  {
+   "key": "chap16_sch14_aKwr_e334_Z6Pt",
+   "en": "Slash {$attack1_mouse;|$attack1;} three times in a pattern:&amp;lt;br/&amp;gt;&amp;lt;img src=\"img://Libs/UI/Textures/Dynamic/ccursor0.dds\" width=\"80\" height=\"70\"&amp;gt; &amp;lt;img src=\"img://Libs/UI/Textures/Dynamic/ccursor2.dds\" width=\"80\" height=\"70\" &amp;gt;&amp;lt;img src=\"img://Libs/UI/Textures/Dynamic/ccursor3.dds\" width=\"80\" height=\"70\"&amp;gt;",
+   "ro": "Taie {$attack1_mouse;|$attack1;} de trei ori, după un tipar:&amp;lt;br/&amp;gt;&amp;lt;img src=\"img://Libs/UI/Textures/Dynamic/ccursor0.dds\" width=\"80\" height=\"70\"&amp;gt; &amp;lt;img src=\"img://Libs/UI/Textures/Dynamic/ccursor2.dds\" width=\"80\" height=\"70\" &amp;gt;&amp;lt;img src=\"img://Libs/UI/Textures/Dynamic/ccursor3.dds\" width=\"80\" height=\"70\"&amp;gt;"
+  },
+  {
+   "key": "chap16_sch14_aKwr_e337_X4mm",
+   "en": "If you time your block right at the start of the window of opportunity for a perfect block:&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursorPerfectblock.dds' width='79' height='74'&amp;gt;&amp;lt;br/&amp;gt;you'll execute a master strike with an automatic riposte! As you increase your proficiency in combat, your chances of executing a master strike will significantly increase.",
+   "ro": "Dacă ești la timp cu parada la începutul ferestrei de oportunitate pentru o parare perfectă:&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursorPerfectblock.dds' width='79' height='74'&amp;gt;&amp;lt;br/&amp;gt;vei executa o lovitură de maestru cu o ripostă automată! Pe măsură ce crești în măiestria de luptă, șansele tale de a executa o lovitură de maestru vor crește considerabil."
+  },
+  {
+   "key": "chap16_sch14_aKwr_e445_OGoT",
+   "en": "If you time your block right at the very start of your opponent's swing, instead of a perfect block, you'll execute a master strike with an automatic riposte! As you increase your proficiency in combat, your chances of executing a master strike will significantly increase.",
+   "ro": "Dacă ești la timp chiar în clipa în care începe lovitura adversarului, în loc de o parare perfectă, vei executa o lovitură de maestru cu o ripostă automată! Pe măsură ce crești în măiestria de luptă, șansele tale de a executa o lovitură de maestru vor crește considerabil."
+  },
+  {
+   "key": "chap16_sch14_aKwr_e447_7JRL",
+   "en": "If you want Bernard to teach you new techniques, you'll have to beat him in combat first.",
+   "ro": "Dacă vrei ca Bernard să te învețe tehnici noi, va trebui mai întâi să-l învingi în luptă."
+  },
+  {
+   "key": "chap21_sch9_DLO7_e490_54B4",
+   "en": "Time to shoot!&lt;br&gt;&lt;br&gt;Pick up the bow by pressing '1'&lt;br&gt; Wait for the order, then draw the bow using the left mouse key and release at the right moment.&lt;br&gt; Aim at the centre!",
+   "ro": "E timpul să tragi!&lt;br&gt;&lt;br&gt;Ridică arcul apăsând „1”&lt;br&gt; Așteaptă ordinul, apoi trage arcul cu butonul din stânga al mouse-ului și eliberează-l în momentul potrivit.&lt;br&gt; Ține-l spre centru!"
+  },
+  {
+   "key": "chap21_sch9_DLO7_e491_dHal",
+   "en": "Time to shoot!&lt;br&gt;&lt;br&gt;Pick up the bow by pressing '1'&lt;br&gt; Wait for the order, then draw the bow using the left mouse key and release at the right moment.&lt;br&gt; Smaller logs carry higher points!",
+   "ro": "E timpul să tragi!&lt;br&gt;&lt;br&gt;Ridică arcul apăsând „1”&lt;br&gt; Așteaptă ordinul, apoi trage arcul cu butonul din stânga al mouse-ului și eliberează-l în momentul potrivit.&lt;br&gt; Buștenii mai mici aduc mai multe puncte!"
+  },
+  {
+   "key": "chap35_sch2_HvqS_e39_csE7",
+   "en": "Treasures of the Past DLC activated.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;You were surprised to find out that among other things in your chest there are several curious drawings. They are adorned by an archaic seal attesting to the noble and ancient origin of its issuer. It appears that the drawings describe places where some exquisite armour is hidden.",
+   "ro": "DLC-ul Comorile trecutului a fost activat.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Ai fost surprins să descoperi că, printre altele, în lada ta se află mai multe desene curioase. Sunt împodobite cu un sigiliu arhaic care atestă originea nobilă și veche a emitentului. Se pare că desenele descriu locuri unde este ascunsă o armură excepțională."
+  },
+  {
+   "key": "chap5_sch44_mS8C_e503_nXVC",
+   "en": "If you accuse him now and the accused is innocent, it will negatively affect your reputation in the region. However if you let a murderer go free, the unsolved murder will make the locals angry.",
+   "ro": "Dacă îl acuzi acum și acuzatul este nevinovat, va afecta negativ reputația ta în regiune. Dar dacă lași un ucigaș liber, crima nerezolvată îi va înfuria pe localnici."
+  },
+  {
+   "key": "chap5_sch50_NV1D_e15_vKGI",
+   "en": "Surrender ($surrender;), to pay your way out of a fight",
+   "ro": "Predă-te ($surrender;), ca să plătești și să ieși dintr-o luptă"
+  },
+  {
+   "key": "chapter1a_sch2_iRf2_e1571_ibfX",
+   "en": "The game is saved automatically at the important moments of the quests; every time you get some sleep and when you leave the game. To be able to save the game at any time, you´ll need Schnapps. Once you drink it, Quicksave option is created. At the same time you get a bit drunk though; at the beginning drinking Schnapps will have a rather positive effect but higher amounts will be negative for you; you can even become a drunk, so be careful with it. There are three slots for Quicksave and Schanpps will always rewrite the oldest one.",
+   "ro": "Jocul se salvează automat în momentele importante ale misiunilor, de fiecare dată când dormi și când ieși din joc. Ca să poți salva jocul oricând, vei avea nevoie de Schnapps. Odată ce-l bei, apare opțiunea de salvare rapidă. În același timp, te îmbeți puțin; la început, Schnapps-ul are un efect destul de pozitiv, dar cantități mai mari îți fac rău; poți chiar să devii un beat, așa că ai grijă. Există trei sloturi pentru salvare rapidă, iar Schnapps-ul va suprascrie mereu cel mai vechi."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e183_Lnit",
+   "en": "In combat you are locked onto your opponent.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;You can move around him using {$moveleft; and $moveright;|$xi_move_help;}.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;You can unlock from your opponent at any time by holding $sprint;",
+   "ro": "În luptă ești blocat asupra adversarului tău.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Te poți mișca în jurul lui folosind {$moveleft; and $moveright;|$xi_move_help;}.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Te poți desprinde de adversar oricând, ținând apăsat $sprint;"
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e184_Y9Xq",
+   "en": "Blocking&amp;lt;br/&amp;gt;Hold $block; to block.&amp;lt;br/&amp;gt;You will automatically parry your opponent's strikes at the cost of stamina. When you don't have enough stamina to deflect a foe's strike, you'll be hit. While blocking, your stamina regenerates more slowly.",
+   "ro": "Parare&amp;lt;br/&amp;gt;Ține $block; apăsat pentru a para.&amp;lt;br/&amp;gt;Vei para automat loviturile adversarului, cu prețul vlagei. Când nu ai destulă vlagă ca să respingi o lovitură a dușmanului, vei fi lovit. În timpul parării, vlaga se regenerează mai lent."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e186_gnRz",
+   "en": "{$attack1_mouse;|$attack1;}  - Slash (strong attack)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Choose the direction of your strike using {mouse|$xi_zone_help;}&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursor0.dds' width='80' height='70'&amp;gt;",
+   "ro": "{$attack1_mouse;|$attack1;}  - Tăietură (lovitură puternică)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Alege direcția loviturii folosind {mouse|$xi_zone_help;}&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursor0.dds' width='80' height='70'&amp;gt;"
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e187_RB2A",
+   "en": "$attack2;  - Stab (weak attack)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Weak attacks tend to be faster and more precise at the cost of force.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Stabs can be aimed at the face (upper zone) or at the body (any other zone).",
+   "ro": "$attack2;  - Împunsătură (lovitură slabă)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Loviturile slabe tind să fie mai rapide și mai precise, cu prețul forței.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Împunsăturile pot viza fața (zona de sus) sau corpul (oricare altă zonă)."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e188_89pz",
+   "en": "You can chain strikes together into a combo.&amp;lt;br/&amp;gt;Start a new strike as soon as the previous one ends. You can change the attack zone or strike repeatedly. Try to press {$attack1_mouse;|$attack1;} or $attack2; at the very moment the previous strike lands.&lt;br/&gt;&amp;nbsp;&lt;br/&gt; The window of opportunity is between striking at the opponent and the end of the swing.",
+   "ro": "Poți înlănțui loviturile într-o combinație.&amp;lt;br/&amp;gt;Începe o nouă lovitură imediat ce se termină cea precedentă. Poți schimba zona atacată sau poți lovi repetat. Încearcă să apeși {$attack1_mouse;|$attack1;} sau $attack2; chiar în momentul în care lovitura precedentă ajunge la țintă.&lt;br/&gt;&amp;nbsp;&lt;br/&gt; Fereastra de oportunitate este între lovirea adversarului și sfârșitul mișcării de lovire."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e189_XxQv",
+   "en": "Stamina&amp;lt;br/&amp;gt;Stamina powers your attacks and shields you. You need stamina to attack and deplete it by blocking your foe's strikes. When you don't have enough stamina for blocking, you will be wounded.",
+   "ro": "Vlaga&amp;lt;br/&amp;gt;Vlaga îți alimentează loviturile și te apără. Ai nevoie de vlagă ca să atacezi, iar parările loviturilor adversarului o consumă. Când nu ai destulă vlagă ca să parezi, vei fi rănit."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e191_o4uJ",
+   "en": "When your armour fully deflects a hit, you only lose stamina. But if your stamina is low or your armour is weak at the point of impact, you will also lose health.",
+   "ro": "Când armura ta respinge complet o lovitură, pierzi doar vlagă. Dar dacă vlaga ta este scăzută sau armura e slabă în punctul de impact, vei pierde și sănătate."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e192_DH1Y",
+   "en": "Perfect Block&amp;lt;br/&amp;gt;To fully deflect an adversary's strike, you need to time your block into it. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursorPerfectblock.dds' width='79' height='74'&amp;gt;&amp;lt;br/&amp;gt;Press $block; as soon as the strike starts to perform a Perfect Block that doesn't cost any stamina and gives you a chance to follow up with a quick counter-strike - riposte.",
+   "ro": "Parare perfectă&amp;lt;br/&amp;gt;Ca să respingi complet lovitura unui adversar, trebuie să-ți cronometrezi parada. &amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursorPerfectblock.dds' width='79' height='74'&amp;gt;&amp;lt;br/&amp;gt;Apasă $block; imediat ce începe lovitura pentru a executa o parare perfectă, care nu costă vlagă și îți oferă șansa unei contralovituri rapide – ripostă."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e192_EF2T",
+   "en": "It's important to direct your attack where it hurts most.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Use {your mouse|$xi_zone_help;} to change zone:&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursor0.dds' width='80' height='70'&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursor3.dds' width='80' height='70'&amp;gt;&amp;lt;br/&amp;gt;Your opponent's chance of blocking is less when you strike at unguarded zones.",
+   "ro": "Este important să îndrepți atacul acolo unde doare cel mai tare.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Folosește {your mouse|$xi_zone_help;} ca să schimbi zona:&amp;lt;br/&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursor0.dds' width='80' height='70'&amp;gt;&amp;lt;img src='img://Libs/UI/Textures/Dynamic/ccursor3.dds' width='80' height='70'&amp;gt;&amp;lt;br/&amp;gt;Adversarul are mai puține șanse să pareze când lovești zonele neapărate."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e193_2Mvw",
+   "en": "Block now!",
+   "ro": "Parează acum!"
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e197_LfDZ",
+   "en": "Simply blocking strikes isn't the best defence. Later you'll learn some useful tricks.",
+   "ro": "Simpla parare a loviturilor nu este cea mai bună apărare. Mai târziu vei învăța câteva trucuri utile."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e199_69l7",
+   "en": "Final Showcase&amp;lt;br/&amp;gt;Now just fight for a while to practice what you've learned. You can come back to the training ground later to improve your skills.",
+   "ro": "Demonstrație finală&amp;lt;br/&amp;gt;Acum luptă puțin, ca să exersezi ce ai învățat. Poți reveni mai târziu la terenul de antrenament pentru a-ți îmbunătăți îndemânările."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e234_DeVH",
+   "en": "Prepare to strike by holding {$attack1_mouse;|$attack1;}. Then change zone and release the strike.",
+   "ro": "Pregătește lovitura ținând apăsat {$attack1_mouse;|$attack1;}. Apoi schimbă zona și eliberează lovitura."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e235_exIz",
+   "en": "Dodging: move to the side or back at the very moment your foe attacks.",
+   "ro": "Ferire: fă un pas în lateral sau înapoi în momentul exact în care adversarul atacă."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e236_rrcN",
+   "en": "Try to attack from the side the opponent will find harder to block in time.",
+   "ro": "Încearcă să atacezi din partea de unde adversarul va avea mai greu să pareze la timp."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e237_91vz",
+   "en": "Move now!",
+   "ro": "Mișcă-te acum!"
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e238_QnFk",
+   "en": "Archery&amp;lt;br/&amp;gt;Draw your bow using $weapon_set2;.&amp;lt;br/&amp;gt;Hold {$attack1_mouse;|$attack1;} to load an arrow, release it to shoot.&amp;lt;br/&amp;gt;Watch your stamina!&lt;br/&gt;&amp;nbsp;&lt;br/&gt;You can abort shooting and save your arrow using {$attack_abort_mouse;|$attack_abort;}",
+   "ro": "Arcul&amp;lt;br/&amp;gt;Trage arcul apăsând $weapon_set2;.&amp;lt;br/&amp;gt;Ține {$attack1_mouse;|$attack1;} apăsat ca să încarci o săgeată, eliberează-l ca să tragi.&amp;lt;br/&amp;gt;Ai grijă la vlagă!&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Poți renunța la tragere și îți poți păstra săgeata apăsând {$attack_abort_mouse;|$attack_abort;}"
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e242_SCXh",
+   "en": "Attack your trainer to see the technique.",
+   "ro": "Atacă-ți antrenorul ca să vezi tehnica."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e243_UCH8",
+   "en": "Free fight! Show what you've learned so far.",
+   "ro": "Luptă liberă! Arată ce ai învățat până acum."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e367_Olfw",
+   "en": "You succeeded in your first chain strike.",
+   "ro": "Ai reușit prima ta lovitură înlănțuită."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e386_wCfs",
+   "en": "{$attack1_mouse;|$attack1;}  - Slash (strong attack)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Choose the direction of your strike using {mouse|$xi_zone_help;}",
+   "ro": "{$attack1_mouse;|$attack1;}  - Tăietură (lovitură puternică)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Alege direcția loviturii folosind {mouse|$xi_zone_help;}"
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e387_qFdv",
+   "en": "$attack2;  - Stab (weak attack)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Weak attacks tend to be faster and more precise at the cost of power.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Stabs can be aimed at the face (when you're holding your sword in a high guard) or to the body (any other guard).",
+   "ro": "$attack2;  - Împunsătură (lovitură slabă)&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Loviturile slabe tind să fie mai rapide și mai precise, cu prețul puterii.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Împunsăturile pot viza fața (când ții sabia în gardă înaltă) sau corpul (orice altă gardă)."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e388_bxNL",
+   "en": "It is important to direct your attack where it hurts most.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Use {your mouse|$xi_zone_help;} to change your stance and attack different zones.&amp;lt;br/&amp;gt;Your opponent has less chance of blocking when you aim your strikes at zones unguarded by his weapon or shield.",
+   "ro": "Este important să îndrepți atacul acolo unde doare cel mai tare.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Folosește {your mouse|$xi_zone_help;} ca să-ți schimbi poziția și să lovești zone diferite.&amp;lt;br/&amp;gt;Adversarul are mai puține șanse să pareze când lovești zonele neapărate de arma sau scutul lui."
+  },
+  {
+   "key": "chapter1a_sch39_RQYJ_e389_gz41",
+   "en": "Perfect Blocks&amp;lt;br/&amp;gt;To fully deflect an adversary's strike, you need to time your block into it. Press $block; as soon as the strike starts to perform a Perfect Block that doesn't cost any stamina! You can also follow up a Perfect Block with an immediate strike to perform a Riposte.",
+   "ro": "Parări perfecte&amp;lt;br/&amp;gt;Ca să respingi complet lovitura unui adversar, trebuie să-ți cronometrezi parada. Apasă $block; imediat ce începe lovitura, pentru a executa o parare perfectă care nu costă vlagă! Poți urma o parare perfectă cu o lovitură imediată, ca să execuți o ripostă."
+  }
+ ]
+}

@@ -1,0 +1,3910 @@
+{
+ "table": "text_ui_ingame.xml",
+ "entries": [
+  {
+   "key": "cfnm_ac3mansr",
+   "en": "Scotland A. Rodriguez",
+   "ro": "Scotland A. Rodriguez"
+  },
+  {
+   "key": "cfnm_aelsberg1970",
+   "en": "Alexander carl elsberg",
+   "ro": "Alexander carl elsberg"
+  },
+  {
+   "key": "cfnm_alex_d83",
+   "en": "Alexander Diesch",
+   "ro": "Alexander Diesch"
+  },
+  {
+   "key": "cfnm_altariss",
+   "en": "Martin Košťál",
+   "ro": "Martin Košťál"
+  },
+  {
+   "key": "cfnm_amano",
+   "en": "Ahnen Christian - Brother of Nod - Scourge of the BAALI",
+   "ro": "Ahnen Christian - Frate al lui Nod - Flagelul BAALI-lor"
+  },
+  {
+   "key": "cfnm_amaunator",
+   "en": "Ernst Schori",
+   "ro": "Ernst Schori"
+  },
+  {
+   "key": "cfnm_andaj",
+   "en": "Alexander Justus",
+   "ro": "Alexander Justus"
+  },
+  {
+   "key": "cfnm_aoua",
+   "en": "Falco Aulitzky",
+   "ro": "Falco Aulitzky"
+  },
+  {
+   "key": "cfnm_apocalypse_koa",
+   "en": "\"Magic\" Mike S. Khamphoukeo",
+   "ro": "„Magic” Mike S. Khamphoukeo"
+  },
+  {
+   "key": "cfnm_aramanthius",
+   "en": "Aramanthius",
+   "ro": "Aramanthius"
+  },
+  {
+   "key": "cfnm_ardagast",
+   "en": "Petr",
+   "ro": "Petr"
+  },
+  {
+   "key": "cfnm_aretheus",
+   "en": "Carsten Pape",
+   "ro": "Carsten Pape"
+  },
+  {
+   "key": "cfnm_argaladir",
+   "en": "Argaladir Elthalion",
+   "ro": "Argaladir Elthalion"
+  },
+  {
+   "key": "cfnm_arkenus",
+   "en": "Alexis Huang",
+   "ro": "Alexis Huang"
+  },
+  {
+   "key": "cfnm_arleeya",
+   "en": "Arleeya",
+   "ro": "Arleeya"
+  },
+  {
+   "key": "cfnm_armorial",
+   "en": "Harri Holmström",
+   "ro": "Harri Holmström"
+  },
+  {
+   "key": "cfnm_artalencar",
+   "en": "Arthur Alencar",
+   "ro": "Arthur Alencar"
+  },
+  {
+   "key": "cfnm_asbo",
+   "en": "Asbo",
+   "ro": "Asbo"
+  },
+  {
+   "key": "cfnm_aslyn",
+   "en": "Audrey S. L. Quay",
+   "ro": "Audrey S. L. Quay"
+  },
+  {
+   "key": "cfnm_azalus",
+   "en": "Azalus",
+   "ro": "Azalus"
+  },
+  {
+   "key": "cfnm_b0ink",
+   "en": "William Hovik",
+   "ro": "William Hovik"
+  },
+  {
+   "key": "cfnm_balex",
+   "en": "Alexander Löw",
+   "ro": "Alexander Löw"
+  },
+  {
+   "key": "cfnm_balianofibelin",
+   "en": "Ian Williams",
+   "ro": "Ian Williams"
+  },
+  {
+   "key": "cfnm_balin",
+   "en": "R.C. Godejord",
+   "ro": "R.C. Godejord"
+  },
+  {
+   "key": "cfnm_baranduin75",
+   "en": "Stefan H.",
+   "ro": "Stefan H."
+  },
+  {
+   "key": "cfnm_barbante",
+   "en": "Stiven conte",
+   "ro": "Stiven conte"
+  },
+  {
+   "key": "cfnm_baumhauer",
+   "en": "Albert Baumhauer",
+   "ro": "Albert Baumhauer"
+  },
+  {
+   "key": "cfnm_bdsxjack",
+   "en": "JACK KROSS",
+   "ro": "JACK KROSS"
+  },
+  {
+   "key": "cfnm_beastington",
+   "en": "Aaron Charles Hussey",
+   "ro": "Aaron Charles Hussey"
+  },
+  {
+   "key": "cfnm_bendubai",
+   "en": "Bendubai",
+   "ro": "Bendubai"
+  },
+  {
+   "key": "cfnm_biefstuk",
+   "en": "Biefstuk",
+   "ro": "Biefstuk"
+  },
+  {
+   "key": "cfnm_bigiissxrx",
+   "en": "Bjoern Horn",
+   "ro": "Bjoern Horn"
+  },
+  {
+   "key": "cfnm_bionicfemme",
+   "en": "Esther Zinn",
+   "ro": "Esther Zinn"
+  },
+  {
+   "key": "cfnm_blahn",
+   "en": "Benjamin von Lahn",
+   "ro": "Benjamin von Lahn"
+  },
+  {
+   "key": "cfnm_blakstar",
+   "en": "jan steinar stuvik",
+   "ro": "jan steinar stuvik"
+  },
+  {
+   "key": "cfnm_blomman",
+   "en": "Alexander Blomquist",
+   "ro": "Alexander Blomquist"
+  },
+  {
+   "key": "cfnm_borbi01",
+   "en": "Borbi01",
+   "ro": "Borbi01"
+  },
+  {
+   "key": "cfnm_boston",
+   "en": "Brian Tartell",
+   "ro": "Brian Tartell"
+  },
+  {
+   "key": "cfnm_bretzer",
+   "en": "Joseph Bretzer",
+   "ro": "Joseph Bretzer"
+  },
+  {
+   "key": "cfnm_buddy53189",
+   "en": "Buddy53189",
+   "ro": "Buddy53189"
+  },
+  {
+   "key": "cfnm_bunnyhunt80",
+   "en": "Bunnyhunt80",
+   "ro": "Bunnyhunt80"
+  },
+  {
+   "key": "cfnm_bydevoi",
+   "en": "Peter Khristenko",
+   "ro": "Peter Khristenko"
+  },
+  {
+   "key": "cfnm_caesar5285",
+   "en": "Laurence Stratton",
+   "ro": "Laurence Stratton"
+  },
+  {
+   "key": "cfnm_caleb100",
+   "en": "ToMáš prokop",
+   "ro": "ToMáš prokop"
+  },
+  {
+   "key": "cfnm_capra",
+   "en": "Pascal Fritschi",
+   "ro": "Pascal Fritschi"
+  },
+  {
+   "key": "cfnm_cavetree",
+   "en": "Marek Staroň",
+   "ro": "Marek Staroň"
+  },
+  {
+   "key": "cfnm_cavjo",
+   "en": "Cavjo",
+   "ro": "Cavjo"
+  },
+  {
+   "key": "cfnm_cbello57",
+   "en": "Christopher James Bellot",
+   "ro": "Christopher James Bellot"
+  },
+  {
+   "key": "cfnm_cerberus",
+   "en": "Jörg Schulze",
+   "ro": "Jörg Schulze"
+  },
+  {
+   "key": "cfnm_cian",
+   "en": "Cian",
+   "ro": "Cian"
+  },
+  {
+   "key": "cfnm_citizendog",
+   "en": "Citizen Dog",
+   "ro": "Citizen Dog"
+  },
+  {
+   "key": "cfnm_cmd865",
+   "en": "Connor Dare",
+   "ro": "Connor Dare"
+  },
+  {
+   "key": "cfnm_cocik",
+   "en": "Lukáš Codr",
+   "ro": "Lukáš Codr"
+  },
+  {
+   "key": "cfnm_codepanda",
+   "en": "André Lønvik",
+   "ro": "André Lønvik"
+  },
+  {
+   "key": "cfnm_coigreach",
+   "en": "Tuomas Joukonpoika",
+   "ro": "Tuomas Joukonpoika"
+  },
+  {
+   "key": "cfnm_cool_paulchen",
+   "en": "Sebastian Lange",
+   "ro": "Sebastian Lange"
+  },
+  {
+   "key": "cfnm_cooltoon22",
+   "en": "Yannick Perotti",
+   "ro": "Yannick Perotti"
+  },
+  {
+   "key": "cfnm_corlif",
+   "en": "Corlif",
+   "ro": "Corlif"
+  },
+  {
+   "key": "cfnm_croberts68",
+   "en": "Chris Roberts",
+   "ro": "Chris Roberts"
+  },
+  {
+   "key": "cfnm_crozan",
+   "en": "Thomas Cronin",
+   "ro": "Thomas Cronin"
+  },
+  {
+   "key": "cfnm_d_elgin",
+   "en": "William",
+   "ro": "William"
+  },
+  {
+   "key": "cfnm_daaubrey",
+   "en": "Aubrey D. Atkinson",
+   "ro": "Aubrey D. Atkinson"
+  },
+  {
+   "key": "cfnm_dafritz",
+   "en": "Stefan Seifried",
+   "ro": "Stefan Seifried"
+  },
+  {
+   "key": "cfnm_danners",
+   "en": "Danervator",
+   "ro": "Danervator"
+  },
+  {
+   "key": "cfnm_darkling",
+   "en": "Anthony",
+   "ro": "Anthony"
+  },
+  {
+   "key": "cfnm_darkstar",
+   "en": "Kevin Mitchell",
+   "ro": "Kevin Mitchell"
+  },
+  {
+   "key": "cfnm_darkwc",
+   "en": "Dark",
+   "ro": "Dark"
+  },
+  {
+   "key": "cfnm_darlandra",
+   "en": "Christopher Thomas Parker",
+   "ro": "Christopher Thomas Parker"
+  },
+  {
+   "key": "cfnm_darthanhaj",
+   "en": "Frank j. Flury",
+   "ro": "Frank j. Flury"
+  },
+  {
+   "key": "cfnm_dartknight",
+   "en": "Alexandra Partipilo",
+   "ro": "Alexandra Partipilo"
+  },
+  {
+   "key": "cfnm_darwin",
+   "en": "Antonin Hildebrand",
+   "ro": "Antonin Hildebrand"
+  },
+  {
+   "key": "cfnm_dasmonoid",
+   "en": "DasMonoid",
+   "ro": "DasMonoid"
+  },
+  {
+   "key": "cfnm_davaduff",
+   "en": "David",
+   "ro": "David"
+  },
+  {
+   "key": "cfnm_derfranke",
+   "en": "Justus Präg",
+   "ro": "Justus Präg"
+  },
+  {
+   "key": "cfnm_desax",
+   "en": "Thomas Hofmann",
+   "ro": "Thomas Hofmann"
+  },
+  {
+   "key": "cfnm_desol",
+   "en": "Jeffrey LeVeque",
+   "ro": "Jeffrey LeVeque"
+  },
+  {
+   "key": "cfnm_devfern93",
+   "en": "Devin Fernandez",
+   "ro": "Devin Fernandez"
+  },
+  {
+   "key": "cfnm_diodotus",
+   "en": "Thomas Henry Joseph Douglas Ayers",
+   "ro": "Thomas Henry Joseph Douglas Ayers"
+  },
+  {
+   "key": "cfnm_doctorbecker",
+   "en": "Wilhelm von Beck",
+   "ro": "Wilhelm von Beck"
+  },
+  {
+   "key": "cfnm_doddosk",
+   "en": "Jozef",
+   "ro": "Jozef"
+  },
+  {
+   "key": "cfnm_dogfoodjoe",
+   "en": "Dogfoodjoe",
+   "ro": "Dogfoodjoe"
+  },
+  {
+   "key": "cfnm_donesteban",
+   "en": "Don Esteban",
+   "ro": "Don Esteban"
+  },
+  {
+   "key": "cfnm_duxdanny",
+   "en": "Daniel Mazur",
+   "ro": "Daniel Mazur"
+  },
+  {
+   "key": "cfnm_eastbayrae",
+   "en": "Eastbayrae",
+   "ro": "Eastbayrae"
+  },
+  {
+   "key": "cfnm_eastbishop",
+   "en": "Leonard \"Bishop\" Bleasdale",
+   "ro": "Leonard \"Bishop\" Bleasdale"
+  },
+  {
+   "key": "cfnm_edara",
+   "en": "Joshua Bare",
+   "ro": "Joshua Bare"
+  },
+  {
+   "key": "cfnm_eirik",
+   "en": "Erik Kupferer",
+   "ro": "Erik Kupferer"
+  },
+  {
+   "key": "cfnm_englands_own",
+   "en": "Paul Kinder",
+   "ro": "Paul Kinder"
+  },
+  {
+   "key": "cfnm_eopblogs",
+   "en": "Edward Oliver Killigrew Penrose Esq",
+   "ro": "Edward Oliver Killigrew Penrose Esq"
+  },
+  {
+   "key": "cfnm_escwald",
+   "en": "Erik Karlsson",
+   "ro": "Erik Karlsson"
+  },
+  {
+   "key": "cfnm_etegaem",
+   "en": "Etegaem",
+   "ro": "Etegaem"
+  },
+  {
+   "key": "cfnm_eyn",
+   "en": "benjamin ward",
+   "ro": "benjamin ward"
+  },
+  {
+   "key": "cfnm_faldi",
+   "en": "Pascal Grob",
+   "ro": "Pascal Grob"
+  },
+  {
+   "key": "cfnm_farleyman",
+   "en": "Steven Rash",
+   "ro": "Steven Rash"
+  },
+  {
+   "key": "cfnm_favorlock",
+   "en": "Evan Dane Lindsay",
+   "ro": "Evan Dane Lindsay"
+  },
+  {
+   "key": "cfnm_felixg",
+   "en": "Felix Grünewald",
+   "ro": "Felix Grünewald"
+  },
+  {
+   "key": "cfnm_filcat",
+   "en": "Felices Veterator a parvulo",
+   "ro": "Felices Veterator a parvulo"
+  },
+  {
+   "key": "cfnm_flanker27",
+   "en": "Flanker",
+   "ro": "Flanker"
+  },
+  {
+   "key": "cfnm_flashfire",
+   "en": "James Venes",
+   "ro": "James Venes"
+  },
+  {
+   "key": "cfnm_flo0220",
+   "en": "Florian",
+   "ro": "Florian"
+  },
+  {
+   "key": "cfnm_forsix",
+   "en": "Forsix",
+   "ro": "Forsix"
+  },
+  {
+   "key": "cfnm_forthe",
+   "en": "Long",
+   "ro": "Long"
+  },
+  {
+   "key": "cfnm_francmg",
+   "en": "Franz von Neudek",
+   "ro": "Franz von Neudek"
+  },
+  {
+   "key": "cfnm_freek81294",
+   "en": "Freek81294",
+   "ro": "Freek81294"
+  },
+  {
+   "key": "cfnm_garbaldie",
+   "en": "garett gaudet",
+   "ro": "garett gaudet"
+  },
+  {
+   "key": "cfnm_gatlish",
+   "en": "Daichi Shinohara",
+   "ro": "Daichi Shinohara"
+  },
+  {
+   "key": "cfnm_gauloises30",
+   "en": "Rose Benjamin",
+   "ro": "Rose Benjamin"
+  },
+  {
+   "key": "cfnm_genshed62",
+   "en": "Marvin A Crews",
+   "ro": "Marvin A Crews"
+  },
+  {
+   "key": "cfnm_george",
+   "en": "Georg Suppan",
+   "ro": "Georg Suppan"
+  },
+  {
+   "key": "cfnm_ghostleviathan",
+   "en": "Troy M Rubert",
+   "ro": "Troy M Rubert"
+  },
+  {
+   "key": "cfnm_gidister",
+   "en": "Lisa Engel",
+   "ro": "Lisa Engel"
+  },
+  {
+   "key": "cfnm_gilic",
+   "en": "Sebastian \"gilic\" Wienhold",
+   "ro": "Sebastian „gilic” Wienhold"
+  },
+  {
+   "key": "cfnm_gizmotin",
+   "en": "Simo",
+   "ro": "Simo"
+  },
+  {
+   "key": "cfnm_godofwar889",
+   "en": "Giuseppe DeGaetano ",
+   "ro": "Giuseppe DeGaetano "
+  },
+  {
+   "key": "cfnm_goober",
+   "en": "Peterka I",
+   "ro": "Peterka I"
+  },
+  {
+   "key": "cfnm_gorkafatchi",
+   "en": "fatchi",
+   "ro": "fatchi"
+  },
+  {
+   "key": "cfnm_gorrrrrr",
+   "en": "Gorrrrrr",
+   "ro": "Gorrrrrr"
+  },
+  {
+   "key": "cfnm_gosuwall",
+   "en": "GoSuWaLL",
+   "ro": "GoSuWaLL"
+  },
+  {
+   "key": "cfnm_greiger",
+   "en": "Ryan McAuley",
+   "ro": "Ryan McAuley"
+  },
+  {
+   "key": "cfnm_grievous544",
+   "en": "Grievous544",
+   "ro": "Grievous544"
+  },
+  {
+   "key": "cfnm_grip",
+   "en": "Stefan Botond",
+   "ro": "Stefan Botond"
+  },
+  {
+   "key": "cfnm_gripman",
+   "en": "Marek Macháček",
+   "ro": "Marek Macháček"
+  },
+  {
+   "key": "cfnm_grndmstr1337",
+   "en": "Robert ",
+   "ro": "Robert "
+  },
+  {
+   "key": "cfnm_gronkh",
+   "en": "Gronkh",
+   "ro": "Gronkh"
+  },
+  {
+   "key": "cfnm_guemsterk",
+   "en": "Guemsterk",
+   "ro": "Guemsterk"
+  },
+  {
+   "key": "cfnm_gummiente",
+   "en": "Andreas Aistleitner",
+   "ro": "Andreas Aistleitner"
+  },
+  {
+   "key": "cfnm_gumonleg",
+   "en": "James",
+   "ro": "James"
+  },
+  {
+   "key": "cfnm_gunibaer",
+   "en": "Marc Elxnat",
+   "ro": "Marc Elxnat"
+  },
+  {
+   "key": "cfnm_gurupl",
+   "en": "Sir Adam Baron of Poland",
+   "ro": "Sir Adam, baron de Polonia"
+  },
+  {
+   "key": "cfnm_hakase",
+   "en": "Crest Lwin",
+   "ro": "Crest Lwin"
+  },
+  {
+   "key": "cfnm_haraldth",
+   "en": "Peter Mattsson",
+   "ro": "Peter Mattsson"
+  },
+  {
+   "key": "cfnm_hasgaroth",
+   "en": "David Nieß",
+   "ro": "David Nieß"
+  },
+  {
+   "key": "cfnm_haskald",
+   "en": "Craig Jensen",
+   "ro": "Craig Jensen"
+  },
+  {
+   "key": "cfnm_heathen",
+   "en": "Christopher Fournier",
+   "ro": "Christopher Fournier"
+  },
+  {
+   "key": "cfnm_helmersen",
+   "en": "Andreas Bjørnbekk",
+   "ro": "Andreas Bjørnbekk"
+  },
+  {
+   "key": "cfnm_henkins",
+   "en": "Kristoffer Bjånesø",
+   "ro": "Kristoffer Bjånesø"
+  },
+  {
+   "key": "cfnm_herko_ter_horst",
+   "en": "Herko ter Horst",
+   "ro": "Herko ter Horst"
+  },
+  {
+   "key": "cfnm_heroicbbq",
+   "en": "James",
+   "ro": "James"
+  },
+  {
+   "key": "cfnm_highlake",
+   "en": "Henrik Jarman Topsoe",
+   "ro": "Henrik Jarman Topsoe"
+  },
+  {
+   "key": "cfnm_holymittens",
+   "en": "John Paul Kastronis III",
+   "ro": "John Paul Kastronis III"
+  },
+  {
+   "key": "cfnm_honzimus",
+   "en": "Jan Krejčí",
+   "ro": "Jan Krejčí"
+  },
+  {
+   "key": "cfnm_horton",
+   "en": "Thomas Marsh",
+   "ro": "Thomas Marsh"
+  },
+  {
+   "key": "cfnm_howard",
+   "en": "Antoine SOL",
+   "ro": "Antoine SOL"
+  },
+  {
+   "key": "cfnm_hugebull",
+   "en": "Hugebull",
+   "ro": "Hugebull"
+  },
+  {
+   "key": "cfnm_hunter",
+   "en": "Joseph Rolfe",
+   "ro": "Joseph Rolfe"
+  },
+  {
+   "key": "cfnm_hyperious",
+   "en": "Gordon Huang",
+   "ro": "Gordon Huang"
+  },
+  {
+   "key": "cfnm_cheezey_bites",
+   "en": "James Thompson",
+   "ro": "James Thompson"
+  },
+  {
+   "key": "cfnm_i3lade",
+   "en": "Phuc Tran",
+   "ro": "Phuc Tran"
+  },
+  {
+   "key": "cfnm_iakhovas",
+   "en": "Iakhovas",
+   "ro": "Iakhovas"
+  },
+  {
+   "key": "cfnm_iamhowie",
+   "en": "Peanutmojo",
+   "ro": "Peanutmojo"
+  },
+  {
+   "key": "cfnm_idcrusher",
+   "en": "ID Crusher",
+   "ro": "ID Crusher"
+  },
+  {
+   "key": "cfnm_ikantspeell",
+   "en": "Ikantspeell",
+   "ro": "Ikantspeell"
+  },
+  {
+   "key": "cfnm_ilevus",
+   "en": "Veli Donmez",
+   "ro": "Veli Donmez"
+  },
+  {
+   "key": "cfnm_illathid",
+   "en": "Erik Olmstead",
+   "ro": "Erik Olmstead"
+  },
+  {
+   "key": "cfnm_immik",
+   "en": "Roman Ryabov",
+   "ro": "Roman Ryabov"
+  },
+  {
+   "key": "cfnm_indoc",
+   "en": "Filip Sandström",
+   "ro": "Filip Sandström"
+  },
+  {
+   "key": "cfnm_insaneberg",
+   "en": "From Stefan for  Loliya Harry",
+   "ro": "De la Stefan pentru Loliya Harry"
+  },
+  {
+   "key": "cfnm_inter0",
+   "en": "Inter",
+   "ro": "Inter"
+  },
+  {
+   "key": "cfnm_invisibleshadow",
+   "en": "Timothy",
+   "ro": "Timothy"
+  },
+  {
+   "key": "cfnm_iolalog",
+   "en": "Olav Lognvik",
+   "ro": "Olav Lognvik"
+  },
+  {
+   "key": "cfnm_isi",
+   "en": "ISI",
+   "ro": "ISI"
+  },
+  {
+   "key": "cfnm_ithrud",
+   "en": "Mark Berry",
+   "ro": "Mark Berry"
+  },
+  {
+   "key": "cfnm_j4ck",
+   "en": "Jakub Mirola",
+   "ro": "Jakub Mirola"
+  },
+  {
+   "key": "cfnm_jackdaniels",
+   "en": "Jason Herbert",
+   "ro": "Jason Herbert"
+  },
+  {
+   "key": "cfnm_james4life",
+   "en": "James4life",
+   "ro": "James4life"
+  },
+  {
+   "key": "cfnm_jasonbroadley",
+   "en": "Jaeger Zedwimer",
+   "ro": "Jaeger Zedwimer"
+  },
+  {
+   "key": "cfnm_jb3275",
+   "en": "Jb3275",
+   "ro": "Jb3275"
+  },
+  {
+   "key": "cfnm_jeebuscripes",
+   "en": "Ser Hugo James edberg",
+   "ro": "Ser Hugo James edberg"
+  },
+  {
+   "key": "cfnm_jenks",
+   "en": "Simon Jenkins",
+   "ro": "Simon Jenkins"
+  },
+  {
+   "key": "cfnm_jezza",
+   "en": "Edward of Caernarfon",
+   "ro": "Edward of Caernarfon"
+  },
+  {
+   "key": "cfnm_jiri_zeman",
+   "en": "Jiří Zeman",
+   "ro": "Jiří Zeman"
+  },
+  {
+   "key": "cfnm_jjwashington77",
+   "en": "James Washington",
+   "ro": "James Washington"
+  },
+  {
+   "key": "cfnm_joebold",
+   "en": "Gile Ethaine",
+   "ro": "Gile Ethaine"
+  },
+  {
+   "key": "cfnm_joedycz",
+   "en": "Jiří Joe Dykast",
+   "ro": "Jiří Joe Dykast"
+  },
+  {
+   "key": "cfnm_johnnydement",
+   "en": "Josep M Giribet",
+   "ro": "Josep M Giribet"
+  },
+  {
+   "key": "cfnm_jokermidnight",
+   "en": "Geoffrey Hise",
+   "ro": "Geoffrey Hise"
+  },
+  {
+   "key": "cfnm_jomr3",
+   "en": "Johan Martens",
+   "ro": "Johan Martens"
+  },
+  {
+   "key": "cfnm_joquh",
+   "en": "Christian Friedrich",
+   "ro": "Christian Friedrich"
+  },
+  {
+   "key": "cfnm_jpiedmont",
+   "en": "Jonathan Piedmont",
+   "ro": "Jonathan Piedmont"
+  },
+  {
+   "key": "cfnm_jro107027gmailcom",
+   "en": "JONN O'LENA",
+   "ro": "JONN O'LENA"
+  },
+  {
+   "key": "cfnm_jtrtik",
+   "en": "Lenka Trtíková",
+   "ro": "Lenka Trtíková"
+  },
+  {
+   "key": "cfnm_julenlete",
+   "en": "Julen Lete",
+   "ro": "Julen Lete"
+  },
+  {
+   "key": "cfnm_kachelschmierer",
+   "en": "Michael Kerscher",
+   "ro": "Michael Kerscher"
+  },
+  {
+   "key": "cfnm_kajapa",
+   "en": "Kajapa",
+   "ro": "Kajapa"
+  },
+  {
+   "key": "cfnm_kan",
+   "en": "Kan",
+   "ro": "Kan"
+  },
+  {
+   "key": "cfnm_kasiny",
+   "en": "Lukáš Glončák",
+   "ro": "Lukáš Glončák"
+  },
+  {
+   "key": "cfnm_kawala",
+   "en": "Eric Scholten",
+   "ro": "Eric Scholten"
+  },
+  {
+   "key": "cfnm_kdeary",
+   "en": "Kenneth Deary",
+   "ro": "Kenneth Deary"
+  },
+  {
+   "key": "cfnm_keemosabi",
+   "en": "Chris Knapp",
+   "ro": "Chris Knapp"
+  },
+  {
+   "key": "cfnm_kenji_iwasaki",
+   "en": "Kenji Iwasaki",
+   "ro": "Kenji Iwasaki"
+  },
+  {
+   "key": "cfnm_kevyin",
+   "en": "K Ying",
+   "ro": "K Ying"
+  },
+  {
+   "key": "cfnm_khaziemer",
+   "en": "Khaziemer",
+   "ro": "Khaziemer"
+  },
+  {
+   "key": "cfnm_killashard",
+   "en": "Gregory Pavelka",
+   "ro": "Gregory Pavelka"
+  },
+  {
+   "key": "cfnm_king_domenico",
+   "en": "Dominic Opipari",
+   "ro": "Dominic Opipari"
+  },
+  {
+   "key": "cfnm_kinglukas",
+   "en": "King Lukas",
+   "ro": "Regele Lukas"
+  },
+  {
+   "key": "cfnm_kjeldor",
+   "en": "David Hubený",
+   "ro": "David Hubený"
+  },
+  {
+   "key": "cfnm_kjurer",
+   "en": "Michael Kriz",
+   "ro": "Michael Kriz"
+  },
+  {
+   "key": "cfnm_klingelnberg",
+   "en": "Cristian Martin Lopez",
+   "ro": "Cristian Martin Lopez"
+  },
+  {
+   "key": "cfnm_knighterrant",
+   "en": "Miloš D.",
+   "ro": "Miloš D."
+  },
+  {
+   "key": "cfnm_kuma",
+   "en": "Václav Míšek",
+   "ro": "Václav Míšek"
+  },
+  {
+   "key": "cfnm_leaf16nut",
+   "en": "justin byers",
+   "ro": "justin byers"
+  },
+  {
+   "key": "cfnm_leonidasrjm",
+   "en": "Rodrigo",
+   "ro": "Rodrigo"
+  },
+  {
+   "key": "cfnm_leonpumpoi",
+   "en": "Leonid Samoylovskiy",
+   "ro": "Leonid Samoylovskiy"
+  },
+  {
+   "key": "cfnm_lipsch90",
+   "en": "Michael Betschart",
+   "ro": "Michael Betschart"
+  },
+  {
+   "key": "cfnm_lithon",
+   "en": "Hazza Alkaabi",
+   "ro": "Hazza Alkaabi"
+  },
+  {
+   "key": "cfnm_liyet",
+   "en": "Y. K. Lee",
+   "ro": "Y. K. Lee"
+  },
+  {
+   "key": "cfnm_lord_rundle",
+   "en": "Right Honorable Lord Mayor Timothy C. Rundle",
+   "ro": "Prea Onorabilul Lord Mayor Timothy C. Rundle"
+  },
+  {
+   "key": "cfnm_lordcama",
+   "en": "Florian",
+   "ro": "Florian"
+  },
+  {
+   "key": "cfnm_lordpoision502",
+   "en": "Christopher M. Campbell",
+   "ro": "Christopher M. Campbell"
+  },
+  {
+   "key": "cfnm_lordy",
+   "en": "Luca \"Lordy\" D'Addezio",
+   "ro": "Luca „Lordy” D'Addezio"
+  },
+  {
+   "key": "cfnm_lucar85",
+   "en": "Luca Rezzonico",
+   "ro": "Luca Rezzonico"
+  },
+  {
+   "key": "cfnm_luib",
+   "en": "Luib",
+   "ro": "Luib"
+  },
+  {
+   "key": "cfnm_luis",
+   "en": "Luis Soto Cros",
+   "ro": "Luis Soto Cros"
+  },
+  {
+   "key": "cfnm_magicman300",
+   "en": "Magicman300",
+   "ro": "Magicman300"
+  },
+  {
+   "key": "cfnm_mahkcloud",
+   "en": "MahkCloud",
+   "ro": "MahkCloud"
+  },
+  {
+   "key": "cfnm_mak",
+   "en": "Stéphane Welferinger",
+   "ro": "Stéphane Welferinger"
+  },
+  {
+   "key": "cfnm_makar",
+   "en": "Luboš Makarský",
+   "ro": "Luboš Makarský"
+  },
+  {
+   "key": "cfnm_makoto",
+   "en": "Christoph Konietzko",
+   "ro": "Christoph Konietzko"
+  },
+  {
+   "key": "cfnm_maldunefarth",
+   "en": "Maldanefarth",
+   "ro": "Maldanefarth"
+  },
+  {
+   "key": "cfnm_manlor",
+   "en": "Mika Mäkelä",
+   "ro": "Mika Mäkelä"
+  },
+  {
+   "key": "cfnm_mario_santi",
+   "en": "Mario A. Santi",
+   "ro": "Mario A. Santi"
+  },
+  {
+   "key": "cfnm_martin8532",
+   "en": "Martin Hartmann",
+   "ro": "Martin Hartmann"
+  },
+  {
+   "key": "cfnm_math",
+   "en": "math",
+   "ro": "math"
+  },
+  {
+   "key": "cfnm_mattyb88",
+   "en": "Matty Burney",
+   "ro": "Matty Burney"
+  },
+  {
+   "key": "cfnm_maxgwenesef",
+   "en": "Max Gwenesef",
+   "ro": "Max Gwenesef"
+  },
+  {
+   "key": "cfnm_maykxor",
+   "en": "Micah 'Maykxor' Smyth",
+   "ro": "Micah 'Maykxor' Smyth"
+  },
+  {
+   "key": "cfnm_mccoshenc",
+   "en": "Connor",
+   "ro": "Connor"
+  },
+  {
+   "key": "cfnm_melkir",
+   "en": "Robert Vögele",
+   "ro": "Robert Vögele"
+  },
+  {
+   "key": "cfnm_metaldane",
+   "en": "Metaldane",
+   "ro": "Metaldane"
+  },
+  {
+   "key": "cfnm_metzgi",
+   "en": "Martin Vorisek",
+   "ro": "Martin Vorisek"
+  },
+  {
+   "key": "cfnm_michalproks",
+   "en": "Michal Prokš",
+   "ro": "Michal Prokš"
+  },
+  {
+   "key": "cfnm_michformer",
+   "en": "Michformer",
+   "ro": "Michformer"
+  },
+  {
+   "key": "cfnm_mildacmelak",
+   "en": "Milan Čihák",
+   "ro": "Milan Čihák"
+  },
+  {
+   "key": "cfnm_milkisgood1",
+   "en": "Mikael Angil Cruz",
+   "ro": "Mikael Angil Cruz"
+  },
+  {
+   "key": "cfnm_minko",
+   "en": "Milan Kramár",
+   "ro": "Milan Kramár"
+  },
+  {
+   "key": "cfnm_mitch74aus",
+   "en": "Scott Mitchell",
+   "ro": "Scott Mitchell"
+  },
+  {
+   "key": "cfnm_mivkiz",
+   "en": "Kirill Evgenevich Grishnov",
+   "ro": "Kirill Evgenevich Grishnov"
+  },
+  {
+   "key": "cfnm_modernatomic",
+   "en": "Karel Buschmann",
+   "ro": "Karel Buschmann"
+  },
+  {
+   "key": "cfnm_mogon",
+   "en": "Mogon",
+   "ro": "Mogon"
+  },
+  {
+   "key": "cfnm_molik",
+   "en": "Petr Molík",
+   "ro": "Petr Molík"
+  },
+  {
+   "key": "cfnm_morkham",
+   "en": "Peder Myhr",
+   "ro": "Peder Myhr"
+  },
+  {
+   "key": "cfnm_mortraven",
+   "en": "Nicholas Taylor",
+   "ro": "Nicholas Taylor"
+  },
+  {
+   "key": "cfnm_mrchr15topher",
+   "en": "Christopher Mills",
+   "ro": "Christopher Mills"
+  },
+  {
+   "key": "cfnm_mtzler",
+   "en": "Michael Hopfenmüller",
+   "ro": "Michael Hopfenmüller"
+  },
+  {
+   "key": "cfnm_n1ghtfly",
+   "en": "JAKUB JIRUŠ",
+   "ro": "JAKUB JIRUŠ"
+  },
+  {
+   "key": "cfnm_narflung",
+   "en": "Narflung",
+   "ro": "Narflung"
+  },
+  {
+   "key": "cfnm_narmondur",
+   "en": "Miika Juhani Isoviita",
+   "ro": "Miika Juhani Isoviita"
+  },
+  {
+   "key": "cfnm_narneda",
+   "en": "Narneda",
+   "ro": "Narneda"
+  },
+  {
+   "key": "cfnm_nathankenwabikise",
+   "en": "Nathan Isak Kenwabikise",
+   "ro": "Nathan Isak Kenwabikise"
+  },
+  {
+   "key": "cfnm_nekator",
+   "en": "Rudolfir",
+   "ro": "Rudolfir"
+  },
+  {
+   "key": "cfnm_nervzz",
+   "en": "Julien Jordan",
+   "ro": "Julien Jordan"
+  },
+  {
+   "key": "cfnm_nick2508",
+   "en": "André Sens",
+   "ro": "André Sens"
+  },
+  {
+   "key": "cfnm_nicolas",
+   "en": "Nicolas Lukaschek",
+   "ro": "Nicolas Lukaschek"
+  },
+  {
+   "key": "cfnm_nicotina",
+   "en": "Aquiles Monaco Filho",
+   "ro": "Aquiles Monaco Filho"
+  },
+  {
+   "key": "cfnm_nobry",
+   "en": "Phan Nobry Ouk",
+   "ro": "Phan Nobry Ouk"
+  },
+  {
+   "key": "cfnm_nordee",
+   "en": "D. Nord",
+   "ro": "D. Nord"
+  },
+  {
+   "key": "cfnm_northernaxe",
+   "en": "Samuel-Richard Desaulniers",
+   "ro": "Samuel-Richard Desaulniers"
+  },
+  {
+   "key": "cfnm_obergurukain",
+   "en": "Andreas Schollenberger",
+   "ro": "Andreas Schollenberger"
+  },
+  {
+   "key": "cfnm_ohioman101",
+   "en": "Ryan Mannion",
+   "ro": "Ryan Mannion"
+  },
+  {
+   "key": "cfnm_olavvi",
+   "en": "Olav Vaage",
+   "ro": "Olav Vaage"
+  },
+  {
+   "key": "cfnm_ondrej42",
+   "en": "Ondřej Sim",
+   "ro": "Ondřej Sim"
+  },
+  {
+   "key": "cfnm_oppressor",
+   "en": "Patrick S Railing",
+   "ro": "Patrick S Railing"
+  },
+  {
+   "key": "cfnm_osskozzot",
+   "en": "Osskozzot",
+   "ro": "Osskozzot"
+  },
+  {
+   "key": "cfnm_oszy",
+   "en": "Oswald",
+   "ro": "Oswald"
+  },
+  {
+   "key": "cfnm_outcast",
+   "en": "stephen lister",
+   "ro": "stephen lister"
+  },
+  {
+   "key": "cfnm_parry",
+   "en": "Peter Thorsten Onnasch",
+   "ro": "Peter Thorsten Onnasch"
+  },
+  {
+   "key": "cfnm_patches",
+   "en": "Patches O´houlahan",
+   "ro": "Patches O´houlahan"
+  },
+  {
+   "key": "cfnm_pedro",
+   "en": "PEDRO IVO MARIANO",
+   "ro": "PEDRO IVO MARIANO"
+  },
+  {
+   "key": "cfnm_peregrinus",
+   "en": "Kelly Josef Kilgore",
+   "ro": "Kelly Josef Kilgore"
+  },
+  {
+   "key": "cfnm_petr_novak",
+   "en": "Petr Novák",
+   "ro": "Petr Novák"
+  },
+  {
+   "key": "cfnm_phaidon",
+   "en": "Pantelis Pasvantis",
+   "ro": "Pantelis Pasvantis"
+  },
+  {
+   "key": "cfnm_pharoah4187",
+   "en": "Aaron Richmond",
+   "ro": "Aaron Richmond"
+  },
+  {
+   "key": "cfnm_phil1976",
+   "en": "Phil1976",
+   "ro": "Phil1976"
+  },
+  {
+   "key": "cfnm_phydra",
+   "en": "Bonnie L Nadri",
+   "ro": "Bonnie L Nadri"
+  },
+  {
+   "key": "cfnm_pickpocket31",
+   "en": "Glenn Italiano",
+   "ro": "Glenn Italiano"
+  },
+  {
+   "key": "cfnm_pkirby1966",
+   "en": "Phil \"Madbrit\" Kirby",
+   "ro": "Phil „Madbrit” Kirby"
+  },
+  {
+   "key": "cfnm_poripo",
+   "en": "Sasagawa Ray",
+   "ro": "Sasagawa Ray"
+  },
+  {
+   "key": "cfnm_porphyrogennetos",
+   "en": "Kevin Wallace",
+   "ro": "Kevin Wallace"
+  },
+  {
+   "key": "cfnm_produno",
+   "en": "Marcus Crane",
+   "ro": "Marcus Crane"
+  },
+  {
+   "key": "cfnm_psyco363",
+   "en": "Michel Hauptlin",
+   "ro": "Michel Hauptlin"
+  },
+  {
+   "key": "cfnm_psychozoa",
+   "en": "Psychozoa",
+   "ro": "Psychozoa"
+  },
+  {
+   "key": "cfnm_ptbbcc",
+   "en": "Bob Schröder",
+   "ro": "Bob Schröder"
+  },
+  {
+   "key": "cfnm_qwentis",
+   "en": "Abdulaziz Al Matrooshi",
+   "ro": "Abdulaziz Al Matrooshi"
+  },
+  {
+   "key": "cfnm_r0b0b0b0r",
+   "en": "Róbert Winkler",
+   "ro": "Róbert Winkler"
+  },
+  {
+   "key": "cfnm_ra6475",
+   "en": "Václav Rajnoha",
+   "ro": "Václav Rajnoha"
+  },
+  {
+   "key": "cfnm_raculot",
+   "en": "William Lassen",
+   "ro": "William Lassen"
+  },
+  {
+   "key": "cfnm_radekkaspar",
+   "en": "Radek Kašpar",
+   "ro": "Radek Kašpar"
+  },
+  {
+   "key": "cfnm_ragnol",
+   "en": "Sarah Canniffe",
+   "ro": "Sarah Canniffe"
+  },
+  {
+   "key": "cfnm_ralin821",
+   "en": "Ralin821",
+   "ro": "Ralin821"
+  },
+  {
+   "key": "cfnm_ranadiel",
+   "en": "Matthew Davison",
+   "ro": "Matthew Davison"
+  },
+  {
+   "key": "cfnm_random121",
+   "en": "Random121",
+   "ro": "Random121"
+  },
+  {
+   "key": "cfnm_reaper",
+   "en": "Dylan Lesley",
+   "ro": "Dylan Lesley"
+  },
+  {
+   "key": "cfnm_revek",
+   "en": "Roscoe Fay",
+   "ro": "Roscoe Fay"
+  },
+  {
+   "key": "cfnm_revil821",
+   "en": "revil",
+   "ro": "revil"
+  },
+  {
+   "key": "cfnm_rgbvaz",
+   "en": "Vsevolod Zaikov",
+   "ro": "Vsevolod Zaikov"
+  },
+  {
+   "key": "cfnm_richard_of_fall",
+   "en": "Richard_of_fall",
+   "ro": "Richard_of_fall"
+  },
+  {
+   "key": "cfnm_rik",
+   "en": "Beneš z Ladiměřic",
+   "ro": "Beneš z Ladiměřic"
+  },
+  {
+   "key": "cfnm_roden_ruzgar",
+   "en": "Timothy Montano",
+   "ro": "Timothy Montano"
+  },
+  {
+   "key": "cfnm_royalvoice",
+   "en": "Devin humphrey",
+   "ro": "Devin humphrey"
+  },
+  {
+   "key": "cfnm_ruprecht_iii",
+   "en": "Michael Hedderich",
+   "ro": "Michael Hedderich"
+  },
+  {
+   "key": "cfnm_sammoroth",
+   "en": "Sam Paley",
+   "ro": "Sam Paley"
+  },
+  {
+   "key": "cfnm_sashamhk",
+   "en": "Sasha Mhk",
+   "ro": "Sasha Mhk"
+  },
+  {
+   "key": "cfnm_sblomkamp",
+   "en": "Lawrence Conrad Blomkamp",
+   "ro": "Lawrence Conrad Blomkamp"
+  },
+  {
+   "key": "cfnm_sbuck",
+   "en": "Shawn",
+   "ro": "Shawn"
+  },
+  {
+   "key": "cfnm_scarfy",
+   "en": "Jan Kovats de ujthorda",
+   "ro": "Jan Kovats de ujthorda"
+  },
+  {
+   "key": "cfnm_scotty",
+   "en": "Roman Plch",
+   "ro": "Roman Plch"
+  },
+  {
+   "key": "cfnm_sdfprowler",
+   "en": "Sdf Prowler",
+   "ro": "Sdf Prowler"
+  },
+  {
+   "key": "cfnm_sealawyer",
+   "en": "Dohnal Clark Atkinson",
+   "ro": "Dohnal Clark Atkinson"
+  },
+  {
+   "key": "cfnm_seandave",
+   "en": "Sean",
+   "ro": "Sean"
+  },
+  {
+   "key": "cfnm_secretlars",
+   "en": "Lars-Wictor Dean Abrahamsson",
+   "ro": "Lars-Wictor Dean Abrahamsson"
+  },
+  {
+   "key": "cfnm_serenogas",
+   "en": "Tobias zu Huchilheym",
+   "ro": "Tobias zu Huchilheym"
+  },
+  {
+   "key": "cfnm_serval",
+   "en": "Gomir",
+   "ro": "Gomir"
+  },
+  {
+   "key": "cfnm_shamirr",
+   "en": "Shamirr",
+   "ro": "Shamirr"
+  },
+  {
+   "key": "cfnm_shandrilessa",
+   "en": "Christian Opilio",
+   "ro": "Christian Opilio"
+  },
+  {
+   "key": "cfnm_sharp",
+   "en": "Sharp",
+   "ro": "Sharp"
+  },
+  {
+   "key": "cfnm_shealladh",
+   "en": "Shealladh",
+   "ro": "Shealladh"
+  },
+  {
+   "key": "cfnm_sherpa76",
+   "en": "Gyuman Yoon",
+   "ro": "Gyuman Yoon"
+  },
+  {
+   "key": "cfnm_shigawire",
+   "en": "John Bernhard Horn",
+   "ro": "John Bernhard Horn"
+  },
+  {
+   "key": "cfnm_siannah",
+   "en": "Siannah",
+   "ro": "Siannah"
+  },
+  {
+   "key": "cfnm_silentone2k",
+   "en": "Ryan",
+   "ro": "Ryan"
+  },
+  {
+   "key": "cfnm_simenb91",
+   "en": "Simen Bekkhus",
+   "ro": "Simen Bekkhus"
+  },
+  {
+   "key": "cfnm_sirax",
+   "en": "Tobias Zaugg",
+   "ro": "Tobias Zaugg"
+  },
+  {
+   "key": "cfnm_skuphundaku",
+   "en": "Skuphundaku",
+   "ro": "Skuphundaku"
+  },
+  {
+   "key": "cfnm_smoil",
+   "en": "Tino Aigner",
+   "ro": "Tino Aigner"
+  },
+  {
+   "key": "cfnm_solearis",
+   "en": "Tomáš Berecz",
+   "ro": "Tomáš Berecz"
+  },
+  {
+   "key": "cfnm_sp1nzok",
+   "en": "Ville Hahtonen",
+   "ro": "Ville Hahtonen"
+  },
+  {
+   "key": "cfnm_spagr",
+   "en": "Spagr",
+   "ro": "Spagr"
+  },
+  {
+   "key": "cfnm_spoonkdk",
+   "en": "Daniel Busk",
+   "ro": "Daniel Busk"
+  },
+  {
+   "key": "cfnm_stefan_bosch",
+   "en": "Stefan Bosch",
+   "ro": "Stefan Bosch"
+  },
+  {
+   "key": "cfnm_stein",
+   "en": "Stein",
+   "ro": "Stein"
+  },
+  {
+   "key": "cfnm_steskipper",
+   "en": "Stefano ",
+   "ro": "Stefano "
+  },
+  {
+   "key": "cfnm_stevee",
+   "en": "Steven Evanson",
+   "ro": "Steven Evanson"
+  },
+  {
+   "key": "cfnm_stilgars",
+   "en": "Julien A. Feraud",
+   "ro": "Julien A. Feraud"
+  },
+  {
+   "key": "cfnm_stridsvarg",
+   "en": "Njål Moland",
+   "ro": "Njål Moland"
+  },
+  {
+   "key": "cfnm_suldanessala",
+   "en": "Thomas the bearded one",
+   "ro": "Thomas the bearded one"
+  },
+  {
+   "key": "cfnm_swordmaster",
+   "en": "Brian Schorr",
+   "ro": "Brian Schorr"
+  },
+  {
+   "key": "cfnm_tajo77",
+   "en": "Sebastian Scheel",
+   "ro": "Sebastian Scheel"
+  },
+  {
+   "key": "cfnm_tcberry",
+   "en": "Timothy",
+   "ro": "Timothy"
+  },
+  {
+   "key": "cfnm_teutdelamorte",
+   "en": "Teut de Lepell",
+   "ro": "Teut de Lepell"
+  },
+  {
+   "key": "cfnm_themalfeis",
+   "en": "Jaromir",
+   "ro": "Jaromir"
+  },
+  {
+   "key": "cfnm_thorir",
+   "en": "Michal Zoldak",
+   "ro": "Michal Zoldak"
+  },
+  {
+   "key": "cfnm_timtaalik",
+   "en": "Timothy TWK",
+   "ro": "Timothy TWK"
+  },
+  {
+   "key": "cfnm_tj4590",
+   "en": "Taylor Wheatcroft",
+   "ro": "Taylor Wheatcroft"
+  },
+  {
+   "key": "cfnm_toad",
+   "en": "Memento Mori, F.H",
+   "ro": "Memento Mori, F.H"
+  },
+  {
+   "key": "cfnm_tob",
+   "en": "Zakeran",
+   "ro": "Zakeran"
+  },
+  {
+   "key": "cfnm_tom_forro",
+   "en": "Tom Forro",
+   "ro": "Tom Forro"
+  },
+  {
+   "key": "cfnm_tonycoolmen",
+   "en": "Michael Feuerbach",
+   "ro": "Michael Feuerbach"
+  },
+  {
+   "key": "cfnm_topperfalkon",
+   "en": "Harley Faggetter",
+   "ro": "Harley Faggetter"
+  },
+  {
+   "key": "cfnm_trickster_loki",
+   "en": "Daniel Waters",
+   "ro": "Daniel Waters"
+  },
+  {
+   "key": "cfnm_tumapetr",
+   "en": "Tůma Petr",
+   "ro": "Tůma Petr"
+  },
+  {
+   "key": "cfnm_typisch",
+   "en": "} Mario Haink }",
+   "ro": "} Mario Haink }"
+  },
+  {
+   "key": "cfnm_ucan",
+   "en": "Jari Kaasalainen",
+   "ro": "Jari Kaasalainen"
+  },
+  {
+   "key": "cfnm_ufenloh",
+   "en": "Ufenloh",
+   "ro": "Ufenloh"
+  },
+  {
+   "key": "cfnm_ugubu",
+   "en": "Ugubu Konno",
+   "ro": "Ugubu Konno"
+  },
+  {
+   "key": "cfnm_ulvgrim",
+   "en": "Reiner Gabold",
+   "ro": "Reiner Gabold"
+  },
+  {
+   "key": "cfnm_uncontested",
+   "en": "Branden Lynch",
+   "ro": "Branden Lynch"
+  },
+  {
+   "key": "cfnm_unwissend",
+   "en": "Björn",
+   "ro": "Björn"
+  },
+  {
+   "key": "cfnm_urban",
+   "en": "Louis Britton",
+   "ro": "Louis Britton"
+  },
+  {
+   "key": "cfnm_ureakim",
+   "en": "Ureakim",
+   "ro": "Ureakim"
+  },
+  {
+   "key": "cfnm_utsuro",
+   "en": "Matt McRae",
+   "ro": "Matt McRae"
+  },
+  {
+   "key": "cfnm_uweschneider",
+   "en": "Uwe Schneider",
+   "ro": "Uwe Schneider"
+  },
+  {
+   "key": "cfnm_valiantloki",
+   "en": "Stephan M Travers",
+   "ro": "Stephan M Travers"
+  },
+  {
+   "key": "cfnm_valinblade",
+   "en": "S.Shepherd",
+   "ro": "S.Shepherd"
+  },
+  {
+   "key": "cfnm_vanefox",
+   "en": "VaneFox",
+   "ro": "VaneFox"
+  },
+  {
+   "key": "cfnm_vargasgray",
+   "en": "Robin Wemmenlöv",
+   "ro": "Robin Wemmenlöv"
+  },
+  {
+   "key": "cfnm_versusevil",
+   "en": "Versus Evil",
+   "ro": "Versus Evil"
+  },
+  {
+   "key": "cfnm_viking12",
+   "en": "William Robert Vking Potts",
+   "ro": "William Robert Vking Potts"
+  },
+  {
+   "key": "cfnm_vilem",
+   "en": "Vilém Kledrowetz",
+   "ro": "Vilém Kledrowetz"
+  },
+  {
+   "key": "cfnm_virus",
+   "en": "ViRus",
+   "ro": "ViRus"
+  },
+  {
+   "key": "cfnm_vistix",
+   "en": "Gašper Bogovič",
+   "ro": "Gašper Bogovič"
+  },
+  {
+   "key": "cfnm_vonuberk",
+   "en": "kristjan smith",
+   "ro": "kristjan smith"
+  },
+  {
+   "key": "cfnm_waldkauz",
+   "en": "Gerhard Swihla",
+   "ro": "Gerhard Swihla"
+  },
+  {
+   "key": "cfnm_wardenking",
+   "en": "Daniel Buerengen",
+   "ro": "Daniel Buerengen"
+  },
+  {
+   "key": "cfnm_warhols",
+   "en": "Warhols",
+   "ro": "Warhols"
+  },
+  {
+   "key": "cfnm_wenedros",
+   "en": "Martin Steklý z Loun",
+   "ro": "Martin Steklý z Loun"
+  },
+  {
+   "key": "cfnm_wikc",
+   "en": "Toni",
+   "ro": "Toni"
+  },
+  {
+   "key": "cfnm_wildstalliondc",
+   "en": "Dakota Scott Cisco",
+   "ro": "Dakota Scott Cisco"
+  },
+  {
+   "key": "cfnm_wlorca",
+   "en": "Walter Lorca",
+   "ro": "Walter Lorca"
+  },
+  {
+   "key": "cfnm_wolarion",
+   "en": "Antti Ruokonen",
+   "ro": "Antti Ruokonen"
+  },
+  {
+   "key": "cfnm_wolfgang1st",
+   "en": "Wolfgang Schrenk",
+   "ro": "Wolfgang Schrenk"
+  },
+  {
+   "key": "cfnm_woody",
+   "en": "Verunka",
+   "ro": "Verunka"
+  },
+  {
+   "key": "cfnm_woutertje",
+   "en": "Wouter",
+   "ro": "Wouter"
+  },
+  {
+   "key": "cfnm_wrothamon",
+   "en": "WrothAmon",
+   "ro": "WrothAmon"
+  },
+  {
+   "key": "cfnm_xaquz",
+   "en": "Xaquz",
+   "ro": "Xaquz"
+  },
+  {
+   "key": "cfnm_xing",
+   "en": "Xing",
+   "ro": "Xing"
+  },
+  {
+   "key": "cfnm_xmutant",
+   "en": "Martin Lupač",
+   "ro": "Martin Lupač"
+  },
+  {
+   "key": "cfnm_yasu246",
+   "en": "Yatchi",
+   "ro": "Yatchi"
+  },
+  {
+   "key": "cfnm_yggrgmxnet",
+   "en": "Henning Klaßen",
+   "ro": "Henning Klaßen"
+  },
+  {
+   "key": "cfnm_yuusouamazing",
+   "en": "Yuusouamazing",
+   "ro": "Yuusouamazing"
+  },
+  {
+   "key": "cfnm_z3p",
+   "en": "Zepar",
+   "ro": "Zepar"
+  },
+  {
+   "key": "cfnm_zala_",
+   "en": "Zala",
+   "ro": "Zala"
+  },
+  {
+   "key": "cfnm_zarlor",
+   "en": "Leonard Zimmermann",
+   "ro": "Leonard Zimmermann"
+  },
+  {
+   "key": "cfnm_zeekay980",
+   "en": "Zack Kelly",
+   "ro": "Zack Kelly"
+  },
+  {
+   "key": "cfnm_zeretal",
+   "en": "Alex Brown",
+   "ro": "Alex Brown"
+  },
+  {
+   "key": "cfnm_zero32000",
+   "en": "Manuel Aban Mangrobang IV",
+   "ro": "Manuel Aban Mangrobang IV"
+  },
+  {
+   "key": "cfnm_zold54",
+   "en": "Tomas Zoldak",
+   "ro": "Tomas Zoldak"
+  },
+  {
+   "key": "close_door",
+   "en": "Close door",
+   "ro": "Închide ușa"
+  },
+  {
+   "key": "dlg_alch_autocook",
+   "en": "Start autobrewing? Current progress will be lost.",
+   "ro": "Începi fierberea automată? Progresul actual se va pierde."
+  },
+  {
+   "key": "dlg_alch_autocook_info",
+   "en": "If you start automatic brewing, the ingredients you already used will be lost.",
+   "ro": "Dacă începi prepararea automată, ingredientele deja folosite se vor pierde."
+  },
+  {
+   "key": "dlg_alch_autocook_not_cooked",
+   "en": "You can't autobrew this potion until you've first brewed it by hand.",
+   "ro": "Nu poți prepara automat această poțiune până nu o ai preparat mai întâi manual."
+  },
+  {
+   "key": "dlg_alch_autocook_not_enabled",
+   "en": "You need a higher level to unlock autobrew functionality.",
+   "ro": "Ai nevoie de un nivel mai înalt ca să deblochezi fierberea automată."
+  },
+  {
+   "key": "dlg_alch_cannot_autocook",
+   "en": "You don't know the whole recipe.",
+   "ro": "Nu știi rețeta întreagă."
+  },
+  {
+   "key": "dlg_alch_end_cooking",
+   "en": "Finish brewing?",
+   "ro": "Termini fierberea?"
+  },
+  {
+   "key": "dlg_alch_end_cooking_info",
+   "en": "This will complete the potion",
+   "ro": "Asta va completa poțiunea."
+  },
+  {
+   "key": "dlg_alch_exit",
+   "en": "Are you sure you want to leave the bench? Current progress will be lost.",
+   "ro": "Sigur vrei să părăsești banca de lucru? Progresul actual se va pierde."
+  },
+  {
+   "key": "dlg_alch_exit_info",
+   "en": "If you leave the bench now, all used ingredients will be lost!",
+   "ro": "Dacă părăsești banca acum, toate ingredientele folosite se vor pierde!"
+  },
+  {
+   "key": "dlg_alch_many_ingredients",
+   "en": "No more ingredients can be added.",
+   "ro": "Nu mai poți adăuga ingrediente."
+  },
+  {
+   "key": "dlg_alch_not_all_ingredients",
+   "en": "You don't have all the ingredients for this recipe.",
+   "ro": "Nu ai toate ingredientele pentru această rețetă."
+  },
+  {
+   "key": "dlg_alch_potion_created",
+   "en": "You've brewed ",
+   "ro": "Ai preparat "
+  },
+  {
+   "key": "dlg_alch_prepare",
+   "en": "Prepare the bench for this recipe? The ingredients you already used will be lost.",
+   "ro": "Pregătești masa de alchimie pentru rețeta asta? Ingredientele deja folosite se pierd."
+  },
+  {
+   "key": "dlg_alch_prepare_info",
+   "en": "If you start brewing a new recipe, the ingredients already used will be lost.",
+   "ro": "Dacă începi să prepari altă rețetă, ingredientele deja folosite se pierd."
+  },
+  {
+   "key": "dlg_alch_recipe_already_unlocked",
+   "en": "You already know this recipe.",
+   "ro": "Rețeta asta o știi deja."
+  },
+  {
+   "key": "dlg_alch_recipe_failed",
+   "en": "Potion brewing has failed. All ingredients are lost.",
+   "ro": "Prepararea poțiunii a eșuat. Toate ingredientele s-au pierdut."
+  },
+  {
+   "key": "dlg_alch_recipe_step_unlocked",
+   "en": "You've discovered a new recipe step.",
+   "ro": "Ai descoperit un nou pas al rețetei."
+  },
+  {
+   "key": "dlg_alch_recipe_steps_unlocked",
+   "en": "You've discovered new recipe steps.",
+   "ro": "Ai descoperit noi pași ai rețetei."
+  },
+  {
+   "key": "dlg_alch_recipe_unlocked",
+   "en": "You've discovered a new recipe.",
+   "ro": "Ai descoperit o rețetă nouă."
+  },
+  {
+   "key": "dlg_alch_reset_unneccessary",
+   "en": "Bench is already set up for brewing a new recipe.",
+   "ro": "Banca este deja pregătită pentru prepararea unei rețete noi."
+  },
+  {
+   "key": "dlg_alch_resettable",
+   "en": "Reset the bench? Current progress will be lost.",
+   "ro": "Resetezi masa de alchimie? Progresul de acum se pierde."
+  },
+  {
+   "key": "dlg_alch_resettable_info",
+   "en": "If you reset the bench now, all the ingredients you used will be lost.",
+   "ro": "Dacă resetezi masa acum, toate ingredientele folosite se pierd."
+  },
+  {
+   "key": "dlg_cannotStartMinigame",
+   "en": "Can't start",
+   "ro": "Nu poți începe"
+  },
+  {
+   "key": "dlg_confirmStealingItem",
+   "en": "Are you sure you want to steal this item?",
+   "ro": "Sigur vrei să furi obiectul ăsta?"
+  },
+  {
+   "key": "dlg_hd_cannotStart",
+   "en": "You don't have a spade!",
+   "ro": "Nu ai o cazma!"
+  },
+  {
+   "key": "dlg_horse_cannotMount",
+   "en": "You're too overloaded to mount up!",
+   "ro": "Ești prea încărcat ca să încaleci!"
+  },
+  {
+   "key": "dlg_lp_cannotStart",
+   "en": "You don't have a lockpick!",
+   "ro": "Nu ai șperaclu!"
+  },
+  {
+   "key": "dlg_lp_difficult",
+   "en": "This lock is very difficult for you. Are you going to try it anyway?",
+   "ro": "Lacătul acesta e foarte greu pentru tine. Încerci oricum?"
+  },
+  {
+   "key": "dlg_lp_difficult_info",
+   "en": "This lock is too difficult.",
+   "ro": "Lacătul acesta e prea greu."
+  },
+  {
+   "key": "dlg_no",
+   "en": "No",
+   "ro": "Nu"
+  },
+  {
+   "key": "dlg_ok",
+   "en": "OK",
+   "ro": "OK"
+  },
+  {
+   "key": "dlg_yes",
+   "en": "Yes",
+   "ro": "Da"
+  },
+  {
+   "key": "hud_low_ammo",
+   "en": "LOW AMMO!",
+   "ro": "MUNIȚIE PUȚINĂ!"
+  },
+  {
+   "key": "hud_mp_joined_game",
+   "en": "joined the game",
+   "ro": "a intrat în joc"
+  },
+  {
+   "key": "hud_mp_killed",
+   "en": "killed",
+   "ro": "omorât"
+  },
+  {
+   "key": "hud_mp_left_game",
+   "en": "left the game",
+   "ro": "a părăsit jocul"
+  },
+  {
+   "key": "hud_mp_self_killed",
+   "en": "killed himself",
+   "ro": "s-a sinucis"
+  },
+  {
+   "key": "hud_out_of_ammo",
+   "en": "OUT OF AMMO!",
+   "ro": "FĂRĂ MUNIȚIE!"
+  },
+  {
+   "key": "log_dog_hunt_tired",
+   "en": "Your dog is tired from hunting.",
+   "ro": "Câinele tău e obosit de la vânătoare."
+  },
+  {
+   "key": "log_game_load_failed",
+   "en": "Game load failed",
+   "ro": "Eroare la încărcare"
+  },
+  {
+   "key": "log_game_loaded",
+   "en": "Game loaded",
+   "ro": "Joc încărcat"
+  },
+  {
+   "key": "log_game_save_delete_failed",
+   "en": "Game deletion failed",
+   "ro": "Ștergerea jocului a eșuat"
+  },
+  {
+   "key": "log_game_save_failed",
+   "en": "Game save failed",
+   "ro": "Salvare eșuată"
+  },
+  {
+   "key": "log_game_saved",
+   "en": "Game saved",
+   "ro": "Joc salvat"
+  },
+  {
+   "key": "log_horse_whistle_supressed",
+   "en": "Your horse can't get here",
+   "ro": "Calul tău nu poate ajunge aici."
+  },
+  {
+   "key": "log_no_quicksave",
+   "en": "No quicksave found",
+   "ro": "Nu s-a găsit salvare rapidă"
+  },
+  {
+   "key": "open_door",
+   "en": "Open door",
+   "ro": "Deschide ușa"
+  },
+  {
+   "key": "q_millerDate_sitDownWithTereza",
+   "en": "Sit with Theresa",
+   "ro": "Stai alături de Theresa"
+  },
+  {
+   "key": "q_sickbastard_meat",
+   "en": "You've found some stinking meat in this larder. Who does it belong to?",
+   "ro": "Ai găsit carne alterată în această cămară. Al cui e?"
+  },
+  {
+   "key": "quest_completed",
+   "en": "Quest completed:",
+   "ro": "Misiune îndeplinită:"
+  },
+  {
+   "key": "quest_failed",
+   "en": "Quest failed:",
+   "ro": "Misiune eșuată:"
+  },
+  {
+   "key": "quest_started",
+   "en": "Quest started: ",
+   "ro": "Misiune începută: "
+  },
+  {
+   "key": "trigger_grave_Johanka",
+   "en": "Johanka's grave",
+   "ro": "Mormântul Johankăi"
+  },
+  {
+   "key": "trigger_grave_Matej",
+   "en": "Matthias' grave",
+   "ro": "Mormântul lui Matthias"
+  },
+  {
+   "key": "trigger_modleni",
+   "en": "Pray",
+   "ro": "Roagă-te"
+  },
+  {
+   "key": "ui_back_prompt",
+   "en": "(Back)",
+   "ro": "(Înapoi)"
+  },
+  {
+   "key": "ui_body_dead",
+   "en": "(dead)",
+   "ro": "(mort)"
+  },
+  {
+   "key": "ui_body_unconscious",
+   "en": "(unconscious)",
+   "ro": "(inconștient)"
+  },
+  {
+   "key": "ui_close_stash",
+   "en": "Close",
+   "ro": "Închide"
+  },
+  {
+   "key": "ui_codex_new_entry",
+   "en": "New Codex entry",
+   "ro": "Intrare nouă în Codex"
+  },
+  {
+   "key": "ui_cook_item",
+   "en": "Cook item",
+   "ro": "Gătește"
+  },
+  {
+   "key": "ui_crime_confiscation_1",
+   "en": "A stolen item has been confiscated from your inventory.",
+   "ro": "Un obiect furat a fost confiscat din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_10",
+   "en": "Ten stolen items have been confiscated from your inventory.",
+   "ro": "Zece obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_11",
+   "en": "Eleven stolen items have been confiscated from your inventory.",
+   "ro": "Unsprezece obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_12",
+   "en": "Twelve stolen items have been confiscated from your inventory.",
+   "ro": "Doisprezece obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_13_plus",
+   "en": "More than twelve stolen items have been confiscated from your inventory.",
+   "ro": "Mai mult de doisprezece obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_2",
+   "en": "Two stolen items have been confiscated from your inventory.",
+   "ro": "Două obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_3",
+   "en": "Three stolen items have been confiscated from your inventory.",
+   "ro": "Trei obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_4",
+   "en": "Four stolen items have been confiscated from your inventory.",
+   "ro": "Patru obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_5",
+   "en": "Five stolen items have been confiscated from your inventory.",
+   "ro": "Cinci obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_6",
+   "en": "Six stolen items have been confiscated from your inventory.",
+   "ro": "Șase obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_7",
+   "en": "Seven stolen items have been confiscated from your inventory.",
+   "ro": "Șapte obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_8",
+   "en": "Eight stolen items have been confiscated from your inventory.",
+   "ro": "Opt obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_confiscation_9",
+   "en": "Nine stolen items have been confiscated from your inventory.",
+   "ro": "Nouă obiecte furate au fost confiscate din inventarul tău."
+  },
+  {
+   "key": "ui_crime_jail_placeholder",
+   "en": "Luckily for you, there is no city with a jail in this technical alpha version. You're starving and exhausted instead! Your reputation across the land has also taken a serious hit.",
+   "ro": "Din fericire pentru tine, în această versiune alfa tehnică nu există niciun oraș cu temniță. În schimb ești flămând și extenuat! Reputația ta în întreaga țară a suferit și ea o lovitură serioasă."
+  },
+  {
+   "key": "ui_default",
+   "en": "Use",
+   "ro": "Folosește"
+  },
+  {
+   "key": "ui_dialog_input_1",
+   "en": "Haggling",
+   "ro": "Târguială"
+  },
+  {
+   "key": "ui_dialog_input_2",
+   "en": "Bribery",
+   "ro": "Mită"
+  },
+  {
+   "key": "ui_dialog_input_3",
+   "en": "Bet",
+   "ro": "Pariu"
+  },
+  {
+   "key": "ui_dialoggroup0",
+   "en": "Training",
+   "ro": "Antrenament"
+  },
+  {
+   "key": "ui_dialoggroup1",
+   "en": "Training combat",
+   "ro": "Antrenament de luptă"
+  },
+  {
+   "key": "ui_dialoggroup8",
+   "en": "Behaviour…",
+   "ro": "Comportament…"
+  },
+  {
+   "key": "ui_dialoggroup9",
+   "en": "Random Talk…",
+   "ro": "Vorbe în vânt…"
+  },
+  {
+   "key": "ui_dice_bust",
+   "en": "Bust!",
+   "ro": "Ai dat-o de gard!"
+  },
+  {
+   "key": "ui_dice_round",
+   "en": "round",
+   "ro": "rundă"
+  },
+  {
+   "key": "ui_dice_selected",
+   "en": "selected",
+   "ro": "selectat"
+  },
+  {
+   "key": "ui_dice_total",
+   "en": "total",
+   "ro": "total"
+  },
+  {
+   "key": "ui_dice_you_gave_up",
+   "en": "You gave up!",
+   "ro": "Ai renunțat!"
+  },
+  {
+   "key": "ui_dice_you_gave_up_female",
+   "en": "You gave up!",
+   "ro": "Ai renunțat!"
+  },
+  {
+   "key": "ui_dice_you_lost",
+   "en": "You lost!",
+   "ro": "Ai pierdut!"
+  },
+  {
+   "key": "ui_dice_you_lost_female",
+   "en": "You lost!",
+   "ro": "Ai pierdut!"
+  },
+  {
+   "key": "ui_dice_you_won",
+   "en": "You won!",
+   "ro": "Ai câștigat!"
+  },
+  {
+   "key": "ui_dice_you_won_female",
+   "en": "You won!",
+   "ro": "Ai câștigat!"
+  },
+  {
+   "key": "ui_dlg_cannot_overskip",
+   "en": "You can't skip more hours now!",
+   "ro": "Nu mai poți sări peste alte ore acum!"
+  },
+  {
+   "key": "ui_dog_attack",
+   "en": "Sic!",
+   "ro": "Sic!"
+  },
+  {
+   "key": "ui_dog_fetch",
+   "en": "Fetch!",
+   "ro": "Adu!"
+  },
+  {
+   "key": "ui_dog_heel",
+   "en": "Heel!",
+   "ro": "La picior!"
+  },
+  {
+   "key": "ui_dog_hunt",
+   "en": "Hunt!",
+   "ro": "Vânează!"
+  },
+  {
+   "key": "ui_door_close",
+   "en": "Close",
+   "ro": "Închide"
+  },
+  {
+   "key": "ui_door_open",
+   "en": "Open",
+   "ro": "Deschide"
+  },
+  {
+   "key": "ui_east_shortcut",
+   "en": "E",
+   "ro": "E"
+  },
+  {
+   "key": "ui_eat_kettle",
+   "en": "Eat from pot",
+   "ro": "Mănâncă din oală"
+  },
+  {
+   "key": "ui_end_topic",
+   "en": "(End dialog)",
+   "ro": "(Încheie dialogul)"
+  },
+  {
+   "key": "ui_epilogue_jost",
+   "en": "Take the letter",
+   "ro": "Ia scrisoarea"
+  },
+  {
+   "key": "ui_game_finished",
+   "en": "Game finished",
+   "ro": "Joc terminat"
+  },
+  {
+   "key": "ui_game_over",
+   "en": "Game over",
+   "ro": "Sfârșitul jocului"
+  },
+  {
+   "key": "ui_get",
+   "en": "get",
+   "ro": "obține"
+  },
+  {
+   "key": "ui_get_xp",
+   "en": "You improved",
+   "ro": "Te-ai îmbunătățit"
+  },
+  {
+   "key": "ui_get_xp_female",
+   "en": "You've improved",
+   "ro": "Ai progresat"
+  },
+  {
+   "key": "ui_help_alchemy_back",
+   "en": "Back",
+   "ro": "Anulează/Ieși"
+  },
+  {
+   "key": "ui_help_alchemy_bellows",
+   "en": "Bellows",
+   "ro": "Foale"
+  },
+  {
+   "key": "ui_help_alchemy_exit",
+   "en": "Exit",
+   "ro": "Ieși"
+  },
+  {
+   "key": "ui_help_alchemy_hourglass",
+   "en": "Sandglass",
+   "ro": "Clepsidră"
+  },
+  {
+   "key": "ui_help_alchemy_inventory",
+   "en": "Inventory",
+   "ro": "Inventar"
+  },
+  {
+   "key": "ui_help_alchemy_reading_autocoo",
+   "en": "Autobrew",
+   "ro": "Preparare automată"
+  },
+  {
+   "key": "ui_help_alchemy_reading_prepare",
+   "en": "Prepare",
+   "ro": "Pregătește"
+  },
+  {
+   "key": "ui_help_alchemy_reading_t_herbs",
+   "en": "Herbs",
+   "ro": "Ierburi"
+  },
+  {
+   "key": "ui_help_alchemy_reading_t_recip",
+   "en": "Recipes",
+   "ro": "Rețete"
+  },
+  {
+   "key": "ui_help_alchemy_reset",
+   "en": "Reset",
+   "ro": "Resetează"
+  },
+  {
+   "key": "ui_help_building_outerb",
+   "en": "Bookmark",
+   "ro": "Marcaj"
+  },
+  {
+   "key": "ui_help_building_overview",
+   "en": "Overview",
+   "ro": "Sumar"
+  },
+  {
+   "key": "ui_help_building_structure",
+   "en": "Build",
+   "ro": "Construiește"
+  },
+  {
+   "key": "ui_help_building_upgrade",
+   "en": "Improvement 1",
+   "ro": "Îmbunătățire 1"
+  },
+  {
+   "key": "ui_help_building_upgrade2",
+   "en": "Improvement 2",
+   "ro": "Îmbunătățire 2"
+  },
+  {
+   "key": "ui_help_haggling_accept",
+   "en": "Make offer",
+   "ro": "Fă o ofertă"
+  },
+  {
+   "key": "ui_help_lockpicking_cursor",
+   "en": "Cursor",
+   "ro": "Cursor"
+  },
+  {
+   "key": "ui_help_lockpicking_rotate",
+   "en": "Rotate lock",
+   "ro": "Rotire lacăt"
+  },
+  {
+   "key": "ui_help_pickpocket_end",
+   "en": "Stop",
+   "ro": "Oprește"
+  },
+  {
+   "key": "ui_help_pickpocket_hold_to_char",
+   "en": "Hold to search purse",
+   "ro": "Ține apăsat ca să cauți punga"
+  },
+  {
+   "key": "ui_help_pickpocket_left",
+   "en": "Left",
+   "ro": "Stânga"
+  },
+  {
+   "key": "ui_help_pickpocket_right",
+   "en": "Right",
+   "ro": "Dreapta"
+  },
+  {
+   "key": "ui_help_pickpocket_take",
+   "en": "Take",
+   "ro": "Ia"
+  },
+  {
+   "key": "ui_help_pickpocket_uncover",
+   "en": "Reveal",
+   "ro": "Dezvăluie"
+  },
+  {
+   "key": "ui_help_reading_next",
+   "en": "Next",
+   "ro": "Următorul"
+  },
+  {
+   "key": "ui_help_reading_prev",
+   "en": "Previous",
+   "ro": "Anteriorul"
+  },
+  {
+   "key": "ui_help_reading_study",
+   "en": "Study",
+   "ro": "Studiază"
+  },
+  {
+   "key": "ui_help_skiptime_back",
+   "en": "Back",
+   "ro": "Anulează/Ieși"
+  },
+  {
+   "key": "ui_help_skiptime_cancel",
+   "en": "Cancel",
+   "ro": "Anulează"
+  },
+  {
+   "key": "ui_help_skiptime_down",
+   "en": "-1 Hour",
+   "ro": "-1 Oră"
+  },
+  {
+   "key": "ui_help_skiptime_start",
+   "en": "Start",
+   "ro": "Începe"
+  },
+  {
+   "key": "ui_help_skiptime_up",
+   "en": "+1 Hour",
+   "ro": "+1 Oră"
+  },
+  {
+   "key": "ui_hint_cutscene_abort",
+   "en": "Skip all",
+   "ro": "Sari peste tot"
+  },
+  {
+   "key": "ui_hint_cutscene_skip",
+   "en": "Skip part",
+   "ro": "Sari peste o parte"
+  },
+  {
+   "key": "ui_hint_surrender",
+   "en": "Surrender",
+   "ro": "Predă-te"
+  },
+  {
+   "key": "ui_hold_to",
+   "en": "Hold to",
+   "ro": "Ține apăsat pentru a"
+  },
+  {
+   "key": "ui_horse_inspect_back",
+   "en": "Close",
+   "ro": "Închide"
+  },
+  {
+   "key": "ui_horse_inspect_take",
+   "en": "Take horse",
+   "ro": "Ia calul"
+  },
+  {
+   "key": "ui_hud_alchemy_reason",
+   "en": "This can't be done in the alchemy minigame.",
+   "ro": "Asta nu se poate face în minijocul de alchimie."
+  },
+  {
+   "key": "ui_hud_basic_steal",
+   "en": "Pickpocket",
+   "ro": "Buzunărește"
+  },
+  {
+   "key": "ui_hud_book_start_use",
+   "en": "Read",
+   "ro": "Citește"
+  },
+  {
+   "key": "ui_hud_book_stop_use",
+   "en": "Back",
+   "ro": "Anulează/Ieși"
+  },
+  {
+   "key": "ui_hud_burn_arrows",
+   "en": "Set arrows alight",
+   "ro": "Aprinde săgețile"
+  },
+  {
+   "key": "ui_hud_burn_hay",
+   "en": "Set hay on fire.",
+   "ro": "Dă foc la fân."
+  },
+  {
+   "key": "ui_hud_burn_herbs",
+   "en": "Burn the herbs",
+   "ro": "Arde ierburile"
+  },
+  {
+   "key": "ui_hud_bury",
+   "en": "Bury",
+   "ro": "Îngroapă"
+  },
+  {
+   "key": "ui_hud_cantReadHere",
+   "en": "You can't read here.",
+   "ro": "Nu poți citi aici."
+  },
+  {
+   "key": "ui_hud_caption_object_admire",
+   "en": "Admire",
+   "ro": "Admiră"
+  },
+  {
+   "key": "ui_hud_caption_object_read",
+   "en": "Read",
+   "ro": "Citește"
+  },
+  {
+   "key": "ui_hud_carry_corpse_reason",
+   "en": "This can't be done while you're carrying someone.",
+   "ro": "Asta nu se poate cât timp cari pe cineva."
+  },
+  {
+   "key": "ui_hud_crawl_through_window",
+   "en": "Crawl through window",
+   "ro": "Trage-te prin fereastră"
+  },
+  {
+   "key": "ui_hud_dash",
+   "en": "Gallop",
+   "ro": "Galopează"
+  },
+  {
+   "key": "ui_hud_dismount",
+   "en": "Dismount",
+   "ro": "Coboară"
+  },
+  {
+   "key": "ui_hud_examine",
+   "en": "Examine",
+   "ro": "Cercetează"
+  },
+  {
+   "key": "ui_hud_fail",
+   "en": "Fail",
+   "ro": "Eșec"
+  },
+  {
+   "key": "ui_hud_fill_jug",
+   "en": "Fill jug",
+   "ro": "Umple ulciorul"
+  },
+  {
+   "key": "ui_hud_get_food",
+   "en": "Fetch the wine and bacon.",
+   "ro": "Adu vinul și slănina."
+  },
+  {
+   "key": "ui_hud_get_water",
+   "en": "Get water",
+   "ro": "Ia apă"
+  },
+  {
+   "key": "ui_hud_grab",
+   "en": "Grab body",
+   "ro": "Apucă trupul"
+  },
+  {
+   "key": "ui_hud_hide_out",
+   "en": "Hide",
+   "ro": "Ascunde-te"
+  },
+  {
+   "key": "ui_hud_horse_inspect",
+   "en": "Inspect horse",
+   "ro": "Inspectează calul"
+  },
+  {
+   "key": "ui_hud_horse_pulldown",
+   "en": "Unhorse",
+   "ro": "Doboară de pe cal"
+  },
+  {
+   "key": "ui_hud_hunt_attack",
+   "en": "Tackle",
+   "ro": "Doboară"
+  },
+  {
+   "key": "ui_hud_chair_getup",
+   "en": "Get up",
+   "ro": "Ridică-te"
+  },
+  {
+   "key": "ui_hud_indulgence_notEnoughMoney",
+   "en": "You can't afford this.",
+   "ro": "Nu-ți permiți asta."
+  },
+  {
+   "key": "ui_hud_indulgence_part1",
+   "en": "Pay indulgence:",
+   "ro": "Plătește indulgența:"
+  },
+  {
+   "key": "ui_hud_indulgence_part2",
+   "en": "Gr.",
+   "ro": "gr."
+  },
+  {
+   "key": "ui_hud_inspect_corpse",
+   "en": "Inspect",
+   "ro": "Inspectează"
+  },
+  {
+   "key": "ui_hud_inspect_item",
+   "en": "Inspect",
+   "ro": "Inspectează"
+  },
+  {
+   "key": "ui_hud_inspect_kettle",
+   "en": "Inspect cauldron",
+   "ro": "Cercetează cazanul"
+  },
+  {
+   "key": "ui_hud_judge",
+   "en": "Judge",
+   "ro": "Judecă"
+  },
+  {
+   "key": "ui_hud_jump",
+   "en": "Jump",
+   "ro": "Sari"
+  },
+  {
+   "key": "ui_hud_knock_item",
+   "en": "Knock",
+   "ro": "Bate"
+  },
+  {
+   "key": "ui_hud_knock_out",
+   "en": "Knock out",
+   "ro": "Doboară"
+  },
+  {
+   "key": "ui_hud_knockOnDoor",
+   "en": "Knock on door",
+   "ro": "Bate la ușă"
+  },
+  {
+   "key": "ui_hud_lockpick",
+   "en": "Lockpick",
+   "ro": "Descuie"
+  },
+  {
+   "key": "ui_hud_lockpick_difficulty_1",
+   "en": "Lockpick (very easy)",
+   "ro": "Descuie (foarte ușor)"
+  },
+  {
+   "key": "ui_hud_lockpick_difficulty_2",
+   "en": "Lockpick (easy)",
+   "ro": "Descuie (ușor)"
+  },
+  {
+   "key": "ui_hud_lockpick_difficulty_3",
+   "en": "Lockpick (hard)",
+   "ro": "Descuie (greu)"
+  },
+  {
+   "key": "ui_hud_lockpick_difficulty_4",
+   "en": "Lockpick (very hard)",
+   "ro": "Descuie (foarte greu)"
+  },
+  {
+   "key": "ui_hud_loot",
+   "en": "Loot",
+   "ro": "Jefuiește"
+  },
+  {
+   "key": "ui_hud_mercy_kill",
+   "en": "Mercy kill",
+   "ro": "Lovitură de milă"
+  },
+  {
+   "key": "ui_hud_mercy_kill_unconscious",
+   "en": "Kill",
+   "ro": "Ucide"
+  },
+  {
+   "key": "ui_hud_mount",
+   "en": "Mount",
+   "ro": "Încalecă"
+  },
+  {
+   "key": "ui_hud_mount_and_steal",
+   "en": "Mount and steal",
+   "ro": "Încalecă și fură"
+  },
+  {
+   "key": "ui_hud_move_to_chest",
+   "en": "Put items in trunk",
+   "ro": "Pune obiectele în cufăr"
+  },
+  {
+   "key": "ui_hud_pick_up_ptacek",
+   "en": "Pick up Capon",
+   "ro": "Ridică-l pe Capon"
+  },
+  {
+   "key": "ui_hud_pickpocket_fail_detected_by_victim",
+   "en": "You were caught in the act by your victim.",
+   "ro": "Victima te-a prins în flagrant."
+  },
+  {
+   "key": "ui_hud_pickpocket_fail_lost",
+   "en": "Your victim got away.",
+   "ro": "Victima a scăpat."
+  },
+  {
+   "key": "ui_hud_pickpocket_fail_seen_by_someone",
+   "en": "You were seen by a witness.",
+   "ro": "Te-a văzut un martor."
+  },
+  {
+   "key": "ui_hud_play_dice",
+   "en": "Play dice",
+   "ro": "Joacă zaruri"
+  },
+  {
+   "key": "ui_hud_poisonWine",
+   "en": "Poison wine",
+   "ro": "Otrăvește vinul"
+  },
+  {
+   "key": "ui_hud_put",
+   "en": "Drop  ",
+   "ro": "Lasă  "
+  },
+  {
+   "key": "ui_hud_put_herbs",
+   "en": "Add the herbs",
+   "ro": "Adaugă ierburile"
+  },
+  {
+   "key": "ui_hud_read",
+   "en": "Read",
+   "ro": "Citește"
+  },
+  {
+   "key": "ui_hud_reputation_notification_crime_reported",
+   "en": "Crime reported",
+   "ro": "Crimă raportată"
+  },
+  {
+   "key": "ui_hud_reputation_notification_reputation_gained",
+   "en": "Reputation gained",
+   "ro": "Reputație câștigată"
+  },
+  {
+   "key": "ui_hud_reputation_notification_reputation_lost",
+   "en": "Reputation lost",
+   "ro": "Reputație pierdută"
+  },
+  {
+   "key": "ui_hud_saddle_horse",
+   "en": "Saddle horse",
+   "ro": "Înșeuează calul"
+  },
+  {
+   "key": "ui_hud_scareHorse",
+   "en": "Stampede horse",
+   "ro": "Sperie calul"
+  },
+  {
+   "key": "ui_hud_sharpening_less_pressure",
+   "en": "Less pressure",
+   "ro": "Apasă mai ușor"
+  },
+  {
+   "key": "ui_hud_sharpening_more_pressure",
+   "en": "More pressure",
+   "ro": "Apasă mai tare"
+  },
+  {
+   "key": "ui_hud_sharpening_position",
+   "en": "Position",
+   "ro": "Poziție"
+  },
+  {
+   "key": "ui_hud_sharpening_pressure",
+   "en": "Pressure",
+   "ro": "Presiune"
+  },
+  {
+   "key": "ui_hud_sharpening_rotation",
+   "en": "Angle",
+   "ro": "Unghi"
+  },
+  {
+   "key": "ui_hud_sharpening_step",
+   "en": "Pedal",
+   "ro": "Pedalează"
+  },
+  {
+   "key": "ui_hud_sit",
+   "en": "Sit",
+   "ro": "Așază-te"
+  },
+  {
+   "key": "ui_hud_sitting_action_exit",
+   "en": "Get up",
+   "ro": "Ridică-te"
+  },
+  {
+   "key": "ui_hud_sitting_action_inventory",
+   "en": "Inventory",
+   "ro": "Inventar"
+  },
+  {
+   "key": "ui_hud_sitting_action_sleep",
+   "en": "Sleep",
+   "ro": "Dormi"
+  },
+  {
+   "key": "ui_hud_sitting_reason",
+   "en": "This can't be done while sitting.",
+   "ro": "Asta nu se poate face stând."
+  },
+  {
+   "key": "ui_hud_SkipDialog",
+   "en": "Cancel",
+   "ro": "Anulează"
+  },
+  {
+   "key": "ui_hud_sleep",
+   "en": "Sleep",
+   "ro": "Dormi"
+  },
+  {
+   "key": "ui_hud_sleep_and_save",
+   "en": "Sleep and save",
+   "ro": "Dormi și salvează"
+  },
+  {
+   "key": "ui_hud_start_alchemy",
+   "en": "Start alchemy",
+   "ro": "Începe alchimia"
+  },
+  {
+   "key": "ui_hud_start_digging",
+   "en": "Start digging",
+   "ro": "Sapă"
+  },
+  {
+   "key": "ui_hud_start_transcribing",
+   "en": "Start transcribing",
+   "ro": "Începe transcrierea"
+  },
+  {
+   "key": "ui_hud_start_use",
+   "en": "Start using",
+   "ro": "Începe folosirea"
+  },
+  {
+   "key": "ui_hud_stealItem",
+   "en": "Steal",
+   "ro": "Fură"
+  },
+  {
+   "key": "ui_hud_stealth_kill",
+   "en": "Stealth kill",
+   "ro": "Ucide pe furiș"
+  },
+  {
+   "key": "ui_hud_stop_use",
+   "en": "Stop",
+   "ro": "Oprește"
+  },
+  {
+   "key": "ui_hud_succes",
+   "en": "Success",
+   "ro": "Succes"
+  },
+  {
+   "key": "ui_hud_take",
+   "en": "Take",
+   "ro": "Ia"
+  },
+  {
+   "key": "ui_hud_talk",
+   "en": "Talk",
+   "ro": "Vorbește"
+  },
+  {
+   "key": "ui_hud_throw_dice",
+   "en": "Throw dice",
+   "ro": "Aruncă zarurile"
+  },
+  {
+   "key": "ui_hud_treat",
+   "en": "Treat",
+   "ro": "Tratează"
+  },
+  {
+   "key": "ui_hud_unlock",
+   "en": "Unlock",
+   "ro": "Descuie"
+  },
+  {
+   "key": "ui_hud_untie",
+   "en": "Untie",
+   "ro": "Dezleagă"
+  },
+  {
+   "key": "ui_hud_use_grindstone",
+   "en": "Start",
+   "ro": "Începe"
+  },
+  {
+   "key": "ui_hud_use_item",
+   "en": "Use",
+   "ro": "Folosește"
+  },
+  {
+   "key": "ui_hud_use_item_sabotage",
+   "en": "Sabotage",
+   "ro": "Sabotează"
+  },
+  {
+   "key": "ui_hud_wait",
+   "en": "Wait",
+   "ro": "Așteaptă"
+  },
+  {
+   "key": "ui_hud_you_cant_call_dog",
+   "en": "You can't give commands to your dog now.",
+   "ro": "Nu poți da comenzi câinelui tău acum."
+  },
+  {
+   "key": "ui_hud_you_discovered",
+   "en": "You discovered",
+   "ro": "Ai descoperit"
+  },
+  {
+   "key": "ui_hud_you_discovered_female",
+   "en": "You discovered",
+   "ro": "Ai descoperit"
+  },
+  {
+   "key": "ui_hud_you_learned",
+   "en": "You learned",
+   "ro": "Ai învățat"
+  },
+  {
+   "key": "ui_hud_you_learned_female",
+   "en": "You learned",
+   "ro": "Ai învățat"
+  },
+  {
+   "key": "ui_in_alchem_flag_alcohol",
+   "en": "spirits",
+   "ro": "spirtoase"
+  },
+  {
+   "key": "ui_in_alchem_flag_bellows",
+   "en": "bellows",
+   "ro": "Foale"
+  },
+  {
+   "key": "ui_in_alchem_flag_book",
+   "en": "book",
+   "ro": "carte"
+  },
+  {
+   "key": "ui_in_alchem_flag_dish",
+   "en": "dish",
+   "ro": "Farfurie"
+  },
+  {
+   "key": "ui_in_alchem_flag_distillator",
+   "en": "still",
+   "ro": "Alambic"
+  },
+  {
+   "key": "ui_in_alchem_flag_empty_glass",
+   "en": "phial",
+   "ro": "fiolă"
+  },
+  {
+   "key": "ui_in_alchem_flag_hourglass",
+   "en": "sandglass",
+   "ro": "Clepsidră"
+  },
+  {
+   "key": "ui_in_alchem_flag_kettle",
+   "en": "cauldron",
+   "ro": "cazan"
+  },
+  {
+   "key": "ui_in_alchem_flag_mortar",
+   "en": "mortar",
+   "ro": "Mojar"
+  },
+  {
+   "key": "ui_in_alchem_flag_oil",
+   "en": "oil",
+   "ro": "Ulei"
+  },
+  {
+   "key": "ui_in_alchem_flag_pestle",
+   "en": "pestle",
+   "ro": "Pisălog"
+  },
+  {
+   "key": "ui_in_alchem_flag_water",
+   "en": "water",
+   "ro": "Apă"
+  },
+  {
+   "key": "ui_in_alchem_flag_wine",
+   "en": "wine",
+   "ro": "Vin"
+  },
+  {
+   "key": "ui_in_platinum",
+   "en": "Collect all trophies",
+   "ro": "Strânge toate trofeele"
+  },
+  {
+   "key": "ui_in_woodenSword",
+   "en": "Wooden training sword.",
+   "ro": "Sabie de lemn pentru antrenament."
+  },
+  {
+   "key": "ui_info_dice_giveup",
+   "en": "Hold to quit this dice game.",
+   "ro": "Ține apăsat ca să părăsești jocul ăsta de zaruri."
+  },
+  {
+   "key": "ui_inv_inventory",
+   "en": "Inventory",
+   "ro": "Inventar"
+  },
+  {
+   "key": "ui_inv_npc",
+   "en": "NPC",
+   "ro": "NPC"
+  },
+  {
+   "key": "ui_inv_quest",
+   "en": "Quest",
+   "ro": "Misiuni"
+  },
+  {
+   "key": "ui_inv_questTrackedCount",
+   "en": "($x; )",
+   "ro": "($x; )"
+  },
+  {
+   "key": "ui_inv_store",
+   "en": "Found",
+   "ro": "Găsit"
+  },
+  {
+   "key": "ui_loading_hint_1",
+   "en": "If you want to know what's going on in the vicinity or find out if anyone needs your help, it's best to ask the local innkeeper, who's sure to know all the local gossip.\r\n",
+   "ro": "If you want to know what's going on in the vicinity or find out if anyone needs your help, it's best to ask the local innkeeper, who's sure to know all the local gossip.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_10",
+   "en": "If you want to try your hand at gambling, it’s possible to play the dice game of Farkle in every respectable tavern.",
+   "ro": "Dacă vrei să încerci norocul la jocuri de noroc, în orice tavernă respectabilă poți juca zaruri, jocul Farkle."
+  },
+  {
+   "key": "ui_loading_hint_11",
+   "en": "Alchemy is a useful skill that transforms herbs and other ingredients into potions and remedies. In order to brew those, you need a knowledge of alchemy, a recipe, an alchemist’s bench and the necessary ingredients.\r\n",
+   "ro": "Alchemy is a useful skill that transforms herbs and other ingredients into potions and remedies. In order to brew those, you need a knowledge of alchemy, a recipe, an alchemist’s bench and the necessary ingredients.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_12",
+   "en": "Once you’ve become skilled enough at alchemy, you’ll have the option of auto-brewing potions.",
+   "ro": "Odată ce ai devenit destul de iscusit în alchimie, vei avea posibilitatea să prepari poțiuni automat."
+  },
+  {
+   "key": "ui_loading_hint_13",
+   "en": "Bleeding is a specific type of injury. If you're bleeding, you must quickly bandage the wound, otherwise you'll soon bleed out and die.\r\n",
+   "ro": "Bleeding is a specific type of injury. If you're bleeding, you must quickly bandage the wound, otherwise you'll soon bleed out and die.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_14",
+   "en": "Keep in mind that during combat it is not possible to heal yourself!   \r\n",
+   "ro": "Keep in mind that during combat it is not possible to heal yourself!   \r\n"
+  },
+  {
+   "key": "ui_loading_hint_15",
+   "en": "If you want to maintain bladed weapons, you can save your repair kit and hone them yourself on a grinding wheel, which you can find at every smithy.\r\n",
+   "ro": "If you want to maintain bladed weapons, you can save your repair kit and hone them yourself on a grinding wheel, which you can find at every smithy.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_16",
+   "en": "Life is God’s gift and combat doesn’t always have to end in death! So when it’s clear that a combatant is beaten, he always has the option to surrender honourably, and the honourable response is to accept his surrender.\r\n",
+   "ro": "Life is God’s gift and combat doesn’t always have to end in death! So when it’s clear that a combatant is beaten, he always has the option to surrender honourably, and the honourable response is to accept his surrender.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_17",
+   "en": "If a guard, catchpole or other figure of authority challenges you to surrender or to agree to a personal search, you can do so. But you’d better decide quick, because the guardians of the law have little patience in these troubled times and they won’t hesitate to use force if you don’t cooperate.\r\n",
+   "ro": "If a guard, catchpole or other figure of authority challenges you to surrender or to agree to a personal search, you can do so. But you’d better decide quick, because the guardians of the law have little patience in these troubled times and they won’t hesitate to use force if you don’t cooperate.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_18",
+   "en": "In order to pickpocket someone successfully, you first have to sneak up on them unnoticed.\r\n",
+   "ro": "In order to pickpocket someone successfully, you first have to sneak up on them unnoticed.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_19",
+   "en": "If you want to store things to use later, you can put them in the trunk you'll find at any of your assigned or rented sleeping places. The same items can be found in all the trunks you have.\r\n",
+   "ro": "If you want to store things to use later, you can put them in the trunk you'll find at any of your assigned or rented sleeping places. The same items can be found in all the trunks you have.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_2",
+   "en": "The Codex accumulates all information about the world, points of interest and detailed tutorials.\r\n",
+   "ro": "The Codex accumulates all information about the world, points of interest and detailed tutorials.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_20",
+   "en": "You can skip time and wait for something. If you’re in the middle of some activity, however, the Skip Time button will call up Help.\r\n",
+   "ro": "You can skip time and wait for something. If you’re in the middle of some activity, however, the Skip Time button will call up Help.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_21",
+   "en": "If your loot is really hot, it’s best to go to a known fence. For example, the millers have a reputation for being mixed up in shady deals.",
+   "ro": "Dacă prada ta e prea fierbinte, cel mai bine e să mergi la un receptator cunoscut. De exemplu, morarii au reputația de a fi amestecați în afaceri dubioase."
+  },
+  {
+   "key": "ui_loading_hint_22",
+   "en": "While brewing potions it’s always best to follow the recipe in the book. You can also easily set all the necessary ingredients straight onto the alchemy bench.",
+   "ro": "Când prepari poțiuni, e întotdeauna cel mai bine să urmezi rețeta din carte. Poți, de asemenea, să așezi ușor toate ingredientele necesare direct pe masa de alchimie."
+  },
+  {
+   "key": "ui_loading_hint_23",
+   "en": "No one is born a master swordsman. It takes practice. Captain Bernard will show you the basics at the start, but to achieve mastery you'll have to visit him repeatedly.",
+   "ro": "Nimeni nu se naște maestru al sabiei. Trebuie exersare. Căpitan Bernard îți va arăta bazele la început, dar ca să ajungi la măiestrie va trebui să-l vizitezi din nou și din nou."
+  },
+  {
+   "key": "ui_loading_hint_24",
+   "en": "If you find yourself heavily outnumbered, the best option may be \"run away - live to fight another day\". You can always come back when you're more skilled at combat, more stealthy or fortified with potions.",
+   "ro": "Dacă te găsești copleșit de numărul celor care te înconjoară, cea mai bună opțiune poate fi „fugi – ca să trăiești și să lupți altă dată”. Poți oricând să te întorci când ești mai iscusit în luptă, mai furiș sau întărit cu poțiuni."
+  },
+  {
+   "key": "ui_loading_hint_25",
+   "en": "If you end up on the wrong side of the law, it's best to save your reputation by submitting to arrest and cleansing your soul with a little jail time.",
+   "ro": "Dacă ajungi de partea greșită a legii, cel mai bine e să-ți salvezi reputația, supunându-te arestării și curățindu-ți sufletul cu puțin timp petrecut la închisoare."
+  },
+  {
+   "key": "ui_loading_hint_26",
+   "en": "Even if you're not caught red-handed, your crimes will make people bad-tempered, and angry guards are more likely to stop and search you, angry traders to be less willing to haggle.",
+   "ro": "Chiar dacă nu ești prins asupra faptului, crimele tale îi vor face pe oameni nervoși, iar gărzile furioase vor fi mai predispuse să te oprească și să te percheziționeze, iar negustorii furioși vor fi mai puțin dispuși să târguiască."
+  },
+  {
+   "key": "ui_loading_hint_27",
+   "en": "There are big differences between horses. A new one costs a lot, but it's a worthwhile investment - not just to get around faster, but also to carry a heavier load.",
+   "ro": "Există mari deosebiri între cai. Unul nou costă mult, dar e o investiție care merită – nu doar ca să ajungi mai repede, ci și ca să cari o povară mai grea."
+  },
+  {
+   "key": "ui_loading_hint_28",
+   "en": "Even your finest clothing can lose it's charm if hidden beneath battered armour or a layer of dirt and blood.",
+   "ro": "Chiar și cele mai frumoase haine își pot pierde farmecul dacă sunt ascunse sub o armură zdrobită sau sub un strat de murdărie și sânge."
+  },
+  {
+   "key": "ui_loading_hint_29",
+   "en": "Theresa acquires and improves skills just like Henry, but some will not be available to her in Skalitz, such as horse-riding, alchemy and pickpocketing. These skills have a zero value in the character's stats.",
+   "ro": "Theresa dobândește și își perfecționează îndemânările la fel ca Henry, dar unele nu vor fi disponibile pentru ea la Skalitz, cum ar fi călăria, alchimia și buzunăritul. Aceste îndemânări au valoarea zero în atributele personajului."
+  },
+  {
+   "key": "ui_loading_hint_3",
+   "en": "Every unsuccessful bout of haggling lowers your reputation with the trader. On the contrary, if you tip the trader or give him or her a discount, your reputation will improve.\r\n",
+   "ro": "Every unsuccessful bout of haggling lowers your reputation with the trader. On the contrary, if you tip the trader or give him or her a discount, your reputation will improve.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_30",
+   "en": "Theresa does not acquire perk points, but you can unlock new perks for her by completing certain objectives.",
+   "ro": "Theresa nu câștigă puncte de talent, dar poți debloca talente noi pentru ea îndeplinind anumite obiective."
+  },
+  {
+   "key": "ui_loading_hint_31",
+   "en": "There's no cross-dressing in the middle ages! Just as Henry cannot put on women's clothes, neither can Theresa wear men's.",
+   "ro": "Nu există travestiuri în Evul Mediu! La fel cum Henry nu poate purta haine de femeie, nici Theresa nu poate purta haine de bărbat."
+  },
+  {
+   "key": "ui_loading_hint_32",
+   "en": "Theresa is accompanied everywhere by her faithful dog, Tinker, who can help her in combat, tracking people and sniffing out interesting things.",
+   "ro": "Theresa e însoțită peste tot de câinele ei credincios, Tinker, care o poate ajuta în luptă, la urmărirea oamenilor și la descoperirea lucrurilor interesante."
+  },
+  {
+   "key": "ui_loading_hint_33",
+   "en": "Skalitz is a small but important settlement with a castle, which gets its prestige from the local silver mines. All the silver belongs to the king.",
+   "ro": "Skalitz e o așezare mică, dar importantă, cu un castel, care își datorează prestigiul minelor de argint din apropiere. Tot argintul aparține regelui."
+  },
+  {
+   "key": "ui_loading_hint_34",
+   "en": "Theresa is capable of wielding a weapon, but that doesn't make her a warrior. It's usually best to find another way to resolve conflicts.",
+   "ro": "Theresa știe să mânuiască o armă, dar asta nu o face războinică. De obicei, cel mai bine e să găsești o altă cale de a rezolva conflictele."
+  },
+  {
+   "key": "ui_loading_hint_35",
+   "en": "Work at the mines is tough, but not only men do it. In the sorting plant where the ore is separated, it is mostly women who do the work.",
+   "ro": "Munca la mine e grea, dar nu o fac doar bărbații. În atelierul de sortare unde se separă minereul, munca o fac în mare parte femeile."
+  },
+  {
+   "key": "ui_loading_hint_4",
+   "en": "If you need a light at night, use your torch.\r\n",
+   "ro": "If you need a light at night, use your torch.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_5",
+   "en": "You also need to watch what you eat – if you eat or drink something that’s spoiled, you can get food poisoning, which you can only cure by taking Digestive potion. You can tell you’ve been poisoned by the icon next to your health indicator.\r\n",
+   "ro": "You also need to watch what you eat – if you eat or drink something that’s spoiled, you can get food poisoning, which you can only cure by taking Digestive potion. You can tell you’ve been poisoned by the icon next to your health indicator.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_6",
+   "en": "Reading was a rare skill in the middle ages and a common blacksmith's son certainly wouldn't have been literate. If you want to learn to read, you need to find someone who'll teach you.\r\n",
+   "ro": "Reading was a rare skill in the middle ages and a common blacksmith's son certainly wouldn't have been literate. If you want to learn to read, you need to find someone who'll teach you.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_7",
+   "en": "When you’re dirty, you don’t have to rush immediately to the nearest bathhouse – you can have a quick wash at the nearest water trough.\r\n",
+   "ro": "When you’re dirty, you don’t have to rush immediately to the nearest bathhouse – you can have a quick wash at the nearest water trough.\r\n"
+  },
+  {
+   "key": "ui_loading_hint_8",
+   "en": "In these harsh times, people are wary of anything out of the ordinary. If you step inside someone's house uninvited, for example, they will first warn you that you've no business there, but if you do anything untoward there, they will immediately call for a guard.",
+   "ro": "În vremurile acestea grele, oamenii se feresc de orice lucru neobișnuit. Dacă intri în casa cuiva fără invitație, de pildă, te vor avertiza mai întâi că nu ai ce căuta acolo, dar dacă faci ceva necuviincios, vor chema imediat un gardian."
+  },
+  {
+   "key": "ui_loading_hint_9",
+   "en": "Alcohol is a useful thing, but it's also the scourge of mankind and a good Christian should avoid it like the plague.",
+   "ro": "Alcoolul e un lucru folositor, dar e și flagelul omenirii, iar un bun creștin trebuie să-l ocolească precum ciuma."
+  },
+  {
+   "key": "ui_mod_removal_items",
+   "en": "It seems you have uninstalled a mod that added new content (items, NPCs, perks etc.) and this content has been deleted in the process.",
+   "ro": "Se pare că ai dezinstalat un mod care adăuga conținut nou (obiecte, personaje non-jucător, talente etc.), iar acest conținut a fost șters în proces."
+  },
+  {
+   "key": "ui_new_homes_missing_prerequisities",
+   "en": "Prerequisites lacking",
+   "ro": "Cerințe neîndeplinite"
+  },
+  {
+   "key": "ui_new_horse",
+   "en": "Other horse",
+   "ro": "Alt cal"
+  },
+  {
+   "key": "ui_new_perkpoint",
+   "en": "New perk point available",
+   "ro": "Punct de talent nou disponibil"
+  },
+  {
+   "key": "ui_nh_base_structure_stats",
+   "en": "Basic structure",
+   "ro": "Structură de bază"
+  },
+  {
+   "key": "ui_nm_platinum",
+   "en": "Platinum Trophy",
+   "ro": "Trofeul de platină"
+  },
+  {
+   "key": "ui_nm_woodenSword",
+   "en": "Wooden sword",
+   "ro": "Sabie de lemn"
+  },
+  {
+   "key": "ui_north_shortcut",
+   "en": "N",
+   "ro": "N"
+  },
+  {
+   "key": "ui_northeast_shortcut",
+   "en": "NE",
+   "ro": "NE"
+  },
+  {
+   "key": "ui_northwest_shortcut",
+   "en": "NW",
+   "ro": "NV"
+  },
+  {
+   "key": "ui_objectiveCompleteHintDefault",
+   "en": "Objective completed: ",
+   "ro": "Obiectiv îndeplinit: "
+  },
+  {
+   "key": "ui_objectiveFailHintDefault",
+   "en": "Objective failed: ",
+   "ro": "Obiectiv eșuat: "
+  },
+  {
+   "key": "ui_objectiveStartHintDefault",
+   "en": "Objective started: ",
+   "ro": "Obiectiv început: "
+  },
+  {
+   "key": "ui_objectiveUpdatedHintDefault",
+   "en": "Objective updated",
+   "ro": "Obiectiv actualizat"
+  },
+  {
+   "key": "ui_open_nest",
+   "en": "Examine nest",
+   "ro": "Cercetează cuibul"
+  },
+  {
+   "key": "ui_open_stash",
+   "en": "Open",
+   "ro": "Deschide"
+  },
+  {
+   "key": "ui_open_stash_crime",
+   "en": "Rob",
+   "ro": "Jefuiește"
+  },
+  {
+   "key": "ui_pay",
+   "en": "pay",
+   "ro": "plătește"
+  },
+  {
+   "key": "ui_Pdg",
+   "en": "Pidgen English",
+   "ro": "Engleză pidgin"
+  },
+  {
+   "key": "ui_perk_activeted",
+   "en": "You activated the perk",
+   "ro": "Ai activat talentul"
+  },
+  {
+   "key": "ui_perk_sixthSense",
+   "en": "You've been seen!",
+   "ro": "Ai fost văzut!"
+  },
+  {
+   "key": "ui_perk_used",
+   "en": "You used the perk",
+   "ro": "Ai folosit un talent"
+  },
+  {
+   "key": "ui_pickHerb",
+   "en": "Gather",
+   "ro": "Adună"
+  },
+  {
+   "key": "ui_pickpocket_failed",
+   "en": "Pickpocketing failed",
+   "ro": "Buzunărit eșuat"
+  },
+  {
+   "key": "ui_pickpocket_suceeded",
+   "en": "Pickpocketing successful",
+   "ro": "Buzunărit reușit"
+  },
+  {
+   "key": "ui_pickup_item",
+   "en": "Pick up",
+   "ro": "Ia"
+  },
+  {
+   "key": "ui_playerCantSkipTime_combat",
+   "en": "You can't skip time while in combat.",
+   "ro": "Nu poți sări peste timp în luptă."
+  },
+  {
+   "key": "ui_playerCantSkiptime_lowFood",
+   "en": "You're too hungry!",
+   "ro": "Ți-e prea foame!"
+  },
+  {
+   "key": "ui_playerCantSkiptime_lowHealth",
+   "en": "You're too badly hurt, you need treatment.",
+   "ro": "Ești prea rănit, ai nevoie de tratament."
+  },
+  {
+   "key": "ui_playerCantSkiptime_timePause",
+   "en": "You can't delay - no time to lose!",
+   "ro": "Nu poți amâna - nu e timp de pierdut!"
+  },
+  {
+   "key": "ui_playerCantSleep",
+   "en": "You can't sleep right now.",
+   "ro": "Nu poți dormi chiar acum."
+  },
+  {
+   "key": "ui_playerCantSleep_combat",
+   "en": "You can't sleep while you're in a fight.",
+   "ro": "Nu poți dormi în timpul unei lupte."
+  },
+  {
+   "key": "ui_playerCantSleep_lowFood",
+   "en": "You're too hungry to sleep.",
+   "ro": "Ești prea flămând ca să dormi."
+  },
+  {
+   "key": "ui_playerCantSleep_lowHealth",
+   "en": "You're too badly wounded to sleep. Heal yourself!",
+   "ro": "Ești prea rănit ca să dormi. Vindecă-te!"
+  },
+  {
+   "key": "ui_playerCantSleep_oversleep",
+   "en": "You can't fall asleep because you've slept too long already.",
+   "ro": "Nu poți adormi pentru că ai dormit deja prea mult."
+  },
+  {
+   "key": "ui_playerCantSleep_timePaused",
+   "en": "You can't sleep because the world time is paused.",
+   "ro": "Nu poți dormi, fiindcă timpul lumii este oprit."
+  },
+  {
+   "key": "ui_playerCantStudy_bookIsFinish",
+   "en": "You've already read this book from cover to cover.",
+   "ro": "Ai citit deja această carte de la un capăt la altul."
+  },
+  {
+   "key": "ui_playerCantStudy_lowReading",
+   "en": "You don't have the reading skill needed to read this book.",
+   "ro": "Nu ai îndemânarea Citit necesară pentru a citi această carte."
+  },
+  {
+   "key": "ui_playerCantStudy_lowSkill",
+   "en": "You haven't reached the skill level needed to be able to use this book.",
+   "ro": "Nu ai atins nivelul de îndemânare necesar ca să folosești cartea asta."
+  },
+  {
+   "key": "ui_playerCantStudy_overread",
+   "en": "You can't focus on reading anymore - you've read enough today.",
+   "ro": "Nu te mai poți concentra la citit – ai citit destul pentru azi."
+  },
+  {
+   "key": "ui_players_horse",
+   "en": "My horse",
+   "ro": "Calul meu"
+  },
+  {
+   "key": "ui_put_into_kettle",
+   "en": "Drop into pot",
+   "ro": "Aruncă în oală"
+  },
+  {
+   "key": "ui_q_nightsWatch_interrupt",
+   "en": "Interrupt argument",
+   "ro": "Întrerupe cearta"
+  },
+  {
+   "key": "ui_questCompleted",
+   "en": "Quest completed",
+   "ro": "Misiune îndeplinită"
+  },
+  {
+   "key": "ui_questFailed",
+   "en": "Quest failed",
+   "ro": "Misiune eșuată"
+  },
+  {
+   "key": "ui_questStarted",
+   "en": "Quest started",
+   "ro": "Misiune începută"
+  },
+  {
+   "key": "ui_reached_new_level",
+   "en": "You've reached a new level in",
+   "ro": "Ai ajuns la un nivel nou în"
+  },
+  {
+   "key": "ui_reached_new_level_female",
+   "en": "You've achieved a new level in",
+   "ro": "Ai atins un nivel nou în"
+  },
+  {
+   "key": "ui_rep_stolen_reputation",
+   "en": "Reputation lowered",
+   "ro": "Reputație scăzută"
+  },
+  {
+   "key": "ui_rep_stolen_sold",
+   "en": "Stolen item sold!",
+   "ro": "Obiect furat vândut!"
+  },
+  {
+   "key": "ui_rpg_CannotJumpWhileEncumbered",
+   "en": "You can't jump while overloaded.",
+   "ro": "Nu poți sări când ești supraîncărcat."
+  },
+  {
+   "key": "ui_rpg_CannotSprintWhileEncumbered",
+   "en": "You can't sprint while overloaded.",
+   "ro": "Nu poți alerga când ești supraîncărcat."
+  },
+  {
+   "key": "ui_save_istvans_reinforcements",
+   "en": "Save right before the battle in Q Istvan's Reinforcements",
+   "ro": "Salvează chiar înainte de bătălia din „Întăririle lui Q Istvan”"
+  },
+  {
+   "key": "ui_skill_too_low_to_repair_item",
+   "en": "You don't have enough skill to repair this item.",
+   "ro": "Nu ai destulă îndemânare ca să repari acest obiect."
+  },
+  {
+   "key": "ui_sleep",
+   "en": "Sleep",
+   "ro": "Dormi"
+  },
+  {
+   "key": "ui_south_shortcut",
+   "en": "S",
+   "ro": "S"
+  },
+  {
+   "key": "ui_southeast_shortcut",
+   "en": "SE",
+   "ro": "SE"
+  },
+  {
+   "key": "ui_southwest_shortcut",
+   "en": "SW",
+   "ro": "SV"
+  },
+  {
+   "key": "ui_use_armor",
+   "en": "Put on armour",
+   "ro": "Îmbracă armura"
+  },
+  {
+   "key": "ui_use_burnherbs",
+   "en": "Burn the herbs",
+   "ro": "Arde ierburile"
+  },
+  {
+   "key": "ui_use_fire",
+   "en": "Deal with fire",
+   "ro": "Ocupă-te de foc"
+  },
+  {
+   "key": "ui_use_chickenfeed",
+   "en": "Feed chickens",
+   "ro": "Hrănește găinile"
+  },
+  {
+   "key": "ui_use_item",
+   "en": "Use",
+   "ro": "Folosește"
+  },
+  {
+   "key": "ui_use_putherbs",
+   "en": "Drop the herbs in",
+   "ro": "Pune ierburile înăuntru"
+  },
+  {
+   "key": "ui_use_wash",
+   "en": "Wash yourself",
+   "ro": "Spală-te"
+  },
+  {
+   "key": "ui_west_shortcut",
+   "en": "W",
+   "ro": "V"
+  },
+  {
+   "key": "ui_you_gave",
+   "en": "You parted with",
+   "ro": "Ai renunțat la"
+  },
+  {
+   "key": "ui_you_gave_female",
+   "en": "You parted with",
+   "ro": "Ai renunțat la"
+  },
+  {
+   "key": "ui_you_got",
+   "en": "You got",
+   "ro": "Ai primit"
+  },
+  {
+   "key": "ui_you_got_female",
+   "en": "You got",
+   "ro": "Ai primit"
+  },
+  {
+   "key": "ui_you_in_private_area",
+   "en": "You're in a private area!",
+   "ro": "Ești într-un loc privat!"
+  },
+  {
+   "key": "ui_you_tresspasing",
+   "en": "You're trespassing!",
+   "ro": "Ești în încălcare!"
+  },
+  {
+   "key": "UIA_COMBO",
+   "en": "Combo",
+   "ro": "Înlănțuire"
+  },
+  {
+   "key": "UIA_KICK",
+   "en": "Kick",
+   "ro": "Lovește"
+  },
+  {
+   "key": "UIA_PERFECT_BLOCK",
+   "en": "Perfect block",
+   "ro": "Parare perfectă"
+  },
+  {
+   "key": "UIA_PUNCH",
+   "en": "Punch",
+   "ro": "Pumn"
+  },
+  {
+   "key": "UIA_RIPOSTE",
+   "en": "Riposte",
+   "ro": "Ripostă"
+  },
+  {
+   "key": "USE_DOOR",
+   "en": "Use door",
+   "ro": "Folosește ușa"
+  },
+  {
+   "key": "use_ladder",
+   "en": "Use ladder",
+   "ro": "Folosește scara"
+  },
+  {
+   "key": "waterTube_wash_max_text",
+   "en": "You won't get any cleaner washing in a trough. For that you need the baths.",
+   "ro": "Nu o să te curăți mai bine într-un jgheab. Pentru asta ai nevoie de băi."
+  },
+  {
+   "key": "waterTube_wash_text",
+   "en": "You've washed yourself as much as you can in a trough.",
+   "ro": "Te-ai spălat cât ai putut într-un jgheab."
+  },
+  {
+   "key": "waterTube_wash_text_female",
+   "en": "You've washed yourself all you can in a trough.",
+   "ro": "Te-ai spălat cât ai putut într-un jgheab."
+  }
+ ]
+}

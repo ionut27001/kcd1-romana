@@ -1,0 +1,1465 @@
+{
+ "table": "text_ui_quest.xml",
+ "entries": [
+  {
+   "key": "subchapter_395_description",
+   "en": "The Neuhof stud farm met with tragedy. A raiding party killed several horses and some people. The trail led me to suspect that someone from the farm may have been involved.",
+   "ro": "Herghelia din Neuhof a fost lovită de nenorocire. O ceată de jefuitori a ucis mai mulți cai și câțiva oameni. Urmele m-au făcut să bănuiesc că cineva de la fermă ar fi putut fi amestecat."
+  },
+  {
+   "key": "subchapter_395_name",
+   "en": "Ginger in a Pickle",
+   "ro": "Ghimbir în belea"
+  },
+  {
+   "key": "subchapter_396_description",
+   "en": "Ginger is hiding out in the woods in fear of his life, because by chance he recognised one of the bandits involved in the Neuhof massacre, some fellow with a limp who lives in Uzhitz.",
+   "ro": "Ghimbir se ascunde prin pădure, temându-se pentru viața lui, pentru că din întâmplare l-a recunoscut pe unul dintre tâlharii implicați în masacrul de la Neuhof, un individ șchiopătând care trăiește la Uzhitz."
+  },
+  {
+   "key": "subchapter_396_name",
+   "en": "Mysterious Ways",
+   "ro": "Căi nebănuite"
+  },
+  {
+   "key": "subchapter_397_description",
+   "en": "One of the members of the Neuhof gang, a fellow who goes by the moniker of Reeky, should be somewhere in the vicinity of Ledetchko. Unfortunately, that's about all I could find out so far. I expect it shouldn't be too hard to... well, catch scent of this Reeky, though I don't expect it will be a pleasant encounter.",
+   "ro": "Unul dintre membrii bandei din Neuhof, un individ care se face numit Împuțit, ar trebui să fie pe undeva prin apropiere de Ledetchko. Din păcate, asta e cam tot ce am aflat până acum. Cred că nu va fi prea greu să... ei bine, să-i dau de urmă lui Împuțit, deși nu cred că întâlnirea va fi plăcută."
+  },
+  {
+   "key": "subchapter_397_name",
+   "en": "On the Scent",
+   "ro": "Pe urmă"
+  },
+  {
+   "key": "subchapter_398_description",
+   "en": "I found out from Reeky that another of the bandits who raided Neuhof is apparently hiding out in a windmill south of Merhojed. ",
+   "ro": "Am aflat de la Împuțit că un alt dintre tâlharii care au jefuit Neuhof se ascunde, după cât se pare, într-o moară la sud de Merhojed. "
+  },
+  {
+   "key": "subchapter_398_name",
+   "en": "My Friend Timmy",
+   "ro": "Prietenul meu Timmy"
+  },
+  {
+   "key": "subchapter_400_description",
+   "en": "A raiding party led by Captain Robard of Talmberg is preparing to attack the bandit camp and I'm to go with them. It will be my baptism of fire.",
+   "ro": "Un detașament condus de Căpitan Robard din Talmberg se pregătește să atace tabăra tâlharilor, iar eu trebuie să merg cu ei. Va fi botezul meu al focului."
+  },
+  {
+   "key": "subchapter_400_name",
+   "en": "Baptism of Fire",
+   "ro": "Botezul focului"
+  },
+  {
+   "key": "subchapter_402_description",
+   "en": "Sir Radzig asked me to scout out the location of the camp where the bandits who attacked Neuhof are holed up. I've got to find out as much as I can about the camp and, if possible, sabotage things a bit.",
+   "ro": "Sir Radzig mi-a cerut să cercetez locul taberei în care s-au ascuns tâlharii care au atacat Neuhof. Trebuie să aflu cât mai multe despre tabără și, dacă se poate, să le dau o mână de ajutor la sabotaj."
+  },
+  {
+   "key": "subchapter_402_name",
+   "en": "Nest of Vipers",
+   "ro": "Cuibul viperelor"
+  },
+  {
+   "key": "subchapter_403_description",
+   "en": "The hamlet of Merhojed has been stricken by a mysterious scourge that first infected the animals and now the villagers. ",
+   "ro": "Satul Merhojed a fost lovit de o pestilență misterioasă, care i-a infectat mai întâi pe animale, iar acum pe săteni. "
+  },
+  {
+   "key": "subchapter_403_name",
+   "en": "Pestilence ",
+   "ro": "Pestilența "
+  },
+  {
+   "key": "subchapter_404_description",
+   "en": "After the affair of the counterfeiters, it's become clear that Sasau conceals many secrets. There's talk that there are \"crimps\", as they're called, recruiting men for a new bandit camp...",
+   "ro": "După afacerea cu falsificatorii, a devenit limpede că Sasau ascunde multe taine. Se vorbește despre „recrutori”, cum li se spune, care adună oameni pentru o nouă tabără de tâlhari..."
+  },
+  {
+   "key": "subchapter_404_name",
+   "en": "If You Can't Beat 'em",
+   "ro": "Dacă nu-i poți învinge"
+  },
+  {
+   "key": "subchapter_406_description",
+   "en": "I found quite a pile of Groschen in the Pribyslavitz encampment, which Master Engineer Feyfar subsequently discovered to be fakes. Not only is that a capital crime against the Crown, but it's also proof that there's more going on around Rattay than meets the eye.",
+   "ro": "Am găsit o grămadă de groschen în tabăra de la Pribyslavitz, pe care maestrul inginer Feyfar i-a descoperit apoi drept false. Nu doar că e o crimă capitală împotriva Coroanei, dar e și dovada că se petrece mai mult în jurul Rattayului decât se vede la prima vedere."
+  },
+  {
+   "key": "subchapter_406_name",
+   "en": "All that Glisters",
+   "ro": "Nu tot ce strălucește e aur"
+  },
+  {
+   "key": "subchapter_407_description",
+   "en": "My name is Brother Gregor and I'm a monk in Sasau Monastery. What would Pa have said about that? Most likely he'd piss himself laughing… God rest his soul… Anyway, in order not to draw attention to myself, I must dress like a monk, speak like a monk, and behave like a monk.",
+   "ro": "Mă numesc Fratele Gregor și sunt călugăr la mănăstirea din Sasau. Ce ar fi zis tata despre asta? Cel mai probabil ar fi râs până s-ar ude de tot… Dumnezeu să-i odihnească sufletul… Oricum, ca să nu atrag atenția asupra mea, trebuie să mă îmbrac ca un călugăr, să vorbesc ca un călugăr și să mă port ca un călugăr."
+  },
+  {
+   "key": "subchapter_407_name",
+   "en": "In the Cloister",
+   "ro": "În mănăstire"
+  },
+  {
+   "key": "subchapter_410_description",
+   "en": "Someone is sneaking into the cellars at night to drink wine. I'm pretty sure that's against the monastery rules!",
+   "ro": "Cineva se strecoară noaptea în beciuri ca să bea vin. Sunt destul de sigur că asta încalcă regulile mănăstirii!"
+  },
+  {
+   "key": "subchapter_410_name",
+   "en": "Nasty Habits",
+   "ro": "Deprinderi urâte"
+  },
+  {
+   "key": "subchapter_412_description",
+   "en": "The victory in Vranik may have been for nothing. Istvan Toth and some of his men managed to slip away before our assault and head for Talmberg, which was left undefended. The foe has taken cover behind the castle walls, but we still have a chance to win the day.",
+   "ro": "Victoria de la Vranik ar putea fi zadarnică. Istvan Toth și câțiva dintre oamenii lui au reușit să scape înainte de asaltul nostru și s-au îndreptat spre Talmberg, care a rămas fără apărare. Dușmanul s-a ascuns după zidurile castelului, dar mai avem o șansă să câștigăm ziua."
+  },
+  {
+   "key": "subchapter_412_name",
+   "en": "Out of the Frying Pan",
+   "ro": "Din lac în put"
+  },
+  {
+   "key": "subchapter_413_description",
+   "en": "None of our attacks succeeded and Talmberg remained in Istvan’s hands. Several camps sprung up around the castle and they all had to be got up and running.",
+   "ro": "Niciunul dintre atacurile noastre nu a reușit, iar Talmbergul a rămas în mâinile lui Istvan. În jurul castelului s-au ridicat mai multe tabere, iar toate trebuie pornite și făcute să funcționeze."
+  },
+  {
+   "key": "subchapter_413_name",
+   "en": "Siege",
+   "ro": "Asediu"
+  },
+  {
+   "key": "subchapter_414_description",
+   "en": "For the conquest of Talmberg you need to build a trebuchet. This is more difficult than may seem at first glance.",
+   "ro": "Pentru cucerirea Talmbergului trebuie să construiești o catapultă cu contragreutate. Lucrul acesta e mai greu decât pare la prima vedere."
+  },
+  {
+   "key": "subchapter_414_name",
+   "en": "Rocketeer",
+   "ro": "Artileristul"
+  },
+  {
+   "key": "subchapter_415_description",
+   "en": "A messenger galloped into Talmberg with a report that Istvan's reinforcements are approaching. A battle seems inevitable.",
+   "ro": "Un curier a galopat în Talmberg cu vestea că întăriturile lui Istvan se apropie. O bătălie pare inevitabilă."
+  },
+  {
+   "key": "subchapter_415_name",
+   "en": "Cold Steel, Hot Blood",
+   "ro": "Oțel rece, sânge fierbinte"
+  },
+  {
+   "key": "subchapter_416_description",
+   "en": "Istvan didn't wait for the outcome of the skirmish, but took advantage of our departure and attacked the few men left guarding our trebuchet.",
+   "ro": "Istvan n-a așteptat rezultatul încăierării, ci a profitat de plecarea noastră și a atacat cei câțiva oameni rămași să pândească catapulta noastră."
+  },
+  {
+   "key": "subchapter_416_name",
+   "en": "Family Values",
+   "ro": "Valori de familie"
+  },
+  {
+   "key": "subchapter_417_description",
+   "en": "The men are prepared, the trebuchet built and Istvan refuses to surrender. Talmberg must be conquered by force!",
+   "ro": "Oamenii sunt pregătiți, catapulta e construită, iar Istvan refuză să se predea. Talmbergul trebuie cucerit cu forța!"
+  },
+  {
+   "key": "subchapter_417_name",
+   "en": "An Oath is an Oath",
+   "ro": "Un jurământ e un jurământ"
+  },
+  {
+   "key": "subchapter_418_description",
+   "en": "We finally tracked down the nest of vipers and now it's time to crush the head of the biggest and most venomous of them with our heels.",
+   "ro": "În sfârșit am dat de cuibul viperelor, iar acum e timpul să strivim sub călcâie capul celei mai mari și mai veninoase dintre ele."
+  },
+  {
+   "key": "subchapter_418_name",
+   "en": "Payback",
+   "ro": "Răzbunarea"
+  },
+  {
+   "key": "subchapter_424_description",
+   "en": "I found an interesting secret stash in the monastery. ",
+   "ro": "Am găsit o ascunzătoare interesantă în mănăstire. "
+  },
+  {
+   "key": "subchapter_424_name",
+   "en": "Worldly Goods",
+   "ro": "Bunurile lumești"
+  },
+  {
+   "key": "subchapter_428_description",
+   "en": "I discovered that the only way to the monastery leads through a young nobleman, who is supposed to join the monks' ranks. ",
+   "ro": "Am aflat că singura cale spre mănăstire duce printr-un tânăr nobil, care trebuie să intre în rândul călugărilor. "
+  },
+  {
+   "key": "subchapter_428_name",
+   "en": "Poverty, Chastity and Obedience",
+   "ro": "Sărăcie, castitate și ascultare"
+  },
+  {
+   "key": "subchapter_429_description",
+   "en": "In the monastery library there is a cabinet containing forbidden books, locked away from prying eyes. And among them is the very book that Brother Nevlas thinks could describe a remedy to cure the ailing Abbot Peter. Why should such a book be banned? Well, the medicinal arts are not always compatible with the Divine Plan, besides which, the author was an infidel!",
+   "ro": "În biblioteca mănăstirii există un dulap cu cărți interzise, încuiat ca să nu fie văzut de ochi indiscreți. Și printre ele se află chiar cartea despre care Fratele Nevlas crede că ar putea descrie un leac pentru vindecarea starețului Peter, care e bolnav. De ce ar fi interzisă o astfel de carte? Ei bine, artele medicinii nu se împacă mereu cu Planul Divin și, pe deasupra, autorul a fost un necredincios!"
+  },
+  {
+   "key": "subchapter_429_name",
+   "en": "Libri Prohibiti",
+   "ro": "Libri Prohibiti"
+  },
+  {
+   "key": "subchapter_440_description",
+   "en": "My spiritual contemplation in the Order of St. Benedict is over. Farewell, Brother Gregor! Now, back to those crimps - let's hope they finally lead me to the bandit encampment.",
+   "ro": "Rostul meu de contemplație spirituală în Ordinul Sfântului Benedict s-a încheiat. Rămas-bun, Fratele Gregor! Acum, înapoi la recrutorii aceia. Să sperăm că mă vor duce în sfârșit la tabăra tâlharilor."
+  },
+  {
+   "key": "subchapter_440_name",
+   "en": "The Die is Cast",
+   "ro": "Zarul a fost aruncat"
+  },
+  {
+   "key": "subchapter_441_description",
+   "en": "Theresa, Miller Peshek's niece, is a good friend of mine from Skalitz. I've known her since we were children, and we’ve been through a lot together.",
+   "ro": "Theresa, nepoata morarului Peshek, este o bună prietenă de-a mea din Skalitz. O cunosc de când eram copii și am trecut împreună prin multe."
+  },
+  {
+   "key": "subchapter_441_name",
+   "en": "Courtship ",
+   "ro": "Curtare "
+  },
+  {
+   "key": "subchapter_442_description",
+   "en": "A fellow is hiding in the Sasau monastery who I'm supposed to find and kill. All I know about him is that he's one of the novices. ",
+   "ro": "Un tip se ascunde în mănăstirea din Sasau, pe care trebuie să-l găsesc și să-l ucid. Tot ce știu despre el este că e unul dintre novici. "
+  },
+  {
+   "key": "subchapter_442_name",
+   "en": "A Needle in a Haystack",
+   "ro": "Un ac în carul cu fân"
+  },
+  {
+   "key": "subchapter_452_description",
+   "en": "A villager in Merhojed lost his sword. He supects soldiers from the nearby camp.",
+   "ro": "Un sătean din Merhojed și-a pierdut sabia. Bănuiește soldații din tabăra din apropiere."
+  },
+  {
+   "key": "subchapter_452_name",
+   "en": "Lost sword",
+   "ro": "Sabie pierdută"
+  },
+  {
+   "key": "subchapter_453_description",
+   "en": "I found an old sword. It might belong to someone nearby...",
+   "ro": "Am găsit o sabie veche. S-ar putea să aparțină cuiva din apropiere..."
+  },
+  {
+   "key": "subchapter_453_name",
+   "en": "Old sword",
+   "ro": "Spadă lungă veche"
+  },
+  {
+   "key": "subchapter_454_description",
+   "en": "Stephanie from Talmberg wants an unforgettable wedding for her cousin Sophie.",
+   "ro": "Stephanie din Talmberg vrea o nuntă de neuitat pentru verișoara ei, Sophie."
+  },
+  {
+   "key": "subchapter_454_name",
+   "en": "At Your Service, My Lady",
+   "ro": "La ordinele dumneavoastră, doamnă"
+  },
+  {
+   "key": "subchapter_458_description",
+   "en": "They say the pen is mightier than the sword. Maybe it's time I learned to read.",
+   "ro": "Se spune că pana e mai puternică decât sabia. Poate e timpul să învăț să citesc."
+  },
+  {
+   "key": "subchapter_458_name",
+   "en": "Mightier than the Sword",
+   "ro": "Mai puternică decât sabia"
+  },
+  {
+   "key": "subchapter_460_description",
+   "en": "I came across a stray sheep in Samopesch. So I herded it back. ",
+   "ro": "Am dat peste o oaie rătăcită în Samopesh, așa că am dus-o înapoi la turmă. "
+  },
+  {
+   "key": "subchapter_460_name",
+   "en": "Lost sheep",
+   "ro": "Oaie pierdută"
+  },
+  {
+   "key": "subchapter_461_description",
+   "en": "The Samopesh blacksmith is annoying his neighbours. When he's not hammering on his anvil, he starts tooting on his flute. One of his neighbours asked me to silence him by stealing his flute.",
+   "ro": "Fierarul din Samopesh îi supără pe vecini. Când nu bate în nicovală, începe să cânte din fluier. Unul dintre vecini m-a rugat să-l fac să tacă furându-i fluierul."
+  },
+  {
+   "key": "subchapter_461_name",
+   "en": "BLACKSMITH FLUTE",
+   "ro": "FLUIERUL FIERARULUI"
+  },
+  {
+   "key": "subchapter_468_name",
+   "en": "TEST OF FAITH",
+   "ro": "PROBA CREDINȚEI"
+  },
+  {
+   "key": "subchapter_471_description",
+   "en": "Given the nature of my investigation, it wouldn't hurt to get a bit of combat training. After all, I don't want to lose my head. So I'd better go to the Merhojed military encampment. They should teach me something.",
+   "ro": "Având în vedere natura anchetei mele, nu ar strica un pic de antrenament de luptă. Până la urmă, nu vreau să-mi pierd capul. Ar fi bine să merg la tabăra militară din Merhojed. Ei mă pot învăța ceva."
+  },
+  {
+   "key": "subchapter_471_name",
+   "en": "On guard!",
+   "ro": "În gardă!"
+  },
+  {
+   "key": "subchapter_473_description",
+   "en": "Master Armourer Ota Rabstein refuses to sell his forge to the Sasau blacksmith, Zach. Zach's so furious that he decides to humiliate Ota in front of the whole town. If he can't have Ota's forge, he'll at least take his customers.",
+   "ro": "Meșterul armurier Ota Rabstein refuză să-i vândă forja fierarului din Sasau, Zach. Zach e atât de furios încât hotărăște să-l umilească pe Ota în fața întregului târg. Dacă nu poate avea forja lui Ota, măcar îi va lua clienții."
+  },
+  {
+   "key": "subchapter_473_name",
+   "en": "Rattled ",
+   "ro": "Tulburat "
+  },
+  {
+   "key": "subchapter_478_description",
+   "en": "Urban would like to touch the remains of Saint Procopius, but in local monastery monks do not allow him to do so.",
+   "ro": "Urban ar vrea să atingă moaștele Sfântului Procopiu, dar în mănăstirea de aici călugării nu-i dau voie."
+  },
+  {
+   "key": "subchapter_478_name",
+   "en": "Saintly Remains",
+   "ro": "Moaște sfinte"
+  },
+  {
+   "key": "subchapter_480_description",
+   "en": "Sir Radzig wants me to undertake training with his Captain, Sir Bernard. He has a reputation for being gruff, and I'm not sure whether he'll be too happy about Sir Radzig taking me, a blacksmith's son, into his service.",
+   "ro": "Sir Radzig vrea să mă ia la antrenament cu căpitanul său, Sir Bernard. Are reputația unui om aspru și nu sunt sigur că va fi prea mulțumit că Sir Radzig mă ia în slujba lui, pe mine, fiul unui fierar."
+  },
+  {
+   "key": "subchapter_480_name",
+   "en": "Train Hard, Fight Easy",
+   "ro": "Antrenează-te greu, luptă ușor"
+  },
+  {
+   "key": "subchapter_500_description",
+   "en": "Everyone deals with the approach of death in their own way. Some look for God's forgiveness, others try to do right by their loved ones, others to set their worldly affairs in order.",
+   "ro": "Fiecare se împacă cu apropierea morții în felul său. Unii caută iertarea lui Dumnezeu, alții încearcă să facă bine celor dragi, alții își pun în ordine treburile lumești."
+  },
+  {
+   "key": "subchapter_500_name",
+   "en": "Last Will and Testament",
+   "ro": "Testament"
+  },
+  {
+   "key": "subchapter_501_description",
+   "en": "While we were battling in Pribyslavitz, another gang of bandits attacked Merhojed. However, the villagers not only held off the raiders, but even took one captive. Sir Radzig wants me to interrogate him.",
+   "ro": "În timp ce ne băteam la Pribyslavitz, o altă bandă de tâlhari a atacat Merhojed. Sătenii nu doar că au ținut piept jefuitorilor, dar au și prins unul dintre ei. Sir Radzig vrea să-l interoghez."
+  },
+  {
+   "key": "subchapter_501_name",
+   "en": "Questions and Answers",
+   "ro": "Întrebări și răspunsuri"
+  },
+  {
+   "key": "subchapter_507_description",
+   "en": "In the Abbot's study, now serving as the Prior's chambers, there should be documents with information about the other novices that might offer leads in the search for Pious.",
+   "ro": "În biroul starețului, acum încăperile priorului, ar trebui să existe documente cu informații despre ceilalți novici, care ar putea duce la urmele lui Pious."
+  },
+  {
+   "key": "subchapter_507_name",
+   "en": "The Abbot's List",
+   "ro": "Lista starețului"
+  },
+  {
+   "key": "subchapter_510_description",
+   "en": "It seems someone tore pages from an old book and hid them around the monastery. We a little effort, it should be possible to put it all back together.",
+   "ro": "Se pare că cineva a smuls pagini dintr-o carte veche și le-a ascuns prin mănăstire. Cu puțin efort, ar trebui să le putem pune la loc."
+  },
+  {
+   "key": "subchapter_510_name",
+   "en": "Scattered Pages",
+   "ro": "Pagini împrăștiate"
+  },
+  {
+   "key": "subchapter_518_description",
+   "en": "Novice Lucas has asked me to help solve his problem with the Brother Circators. They've been picking on him and making his life a misery.",
+   "ro": "Novicele Lucas m-a rugat să-l ajut să-și rezolve problema cu frații circatori. Îl chinuie și îi fac viața un iad."
+  },
+  {
+   "key": "subchapter_518_name",
+   "en": "The Trials of a Novice",
+   "ro": "Încercările unui novice"
+  },
+  {
+   "key": "subchapter_523_description",
+   "en": "Strange day came after wierd night. Get through all the objectives, it may heal your soul.",
+   "ro": "Ziua ciudată a venit după noaptea ciudată. Îndeplinește toate obiectivele, poate îți va vindeca sufletul."
+  },
+  {
+   "key": "subchapter_523_name",
+   "en": "What a strange day...",
+   "ro": "Ce zi ciudată..."
+  },
+  {
+   "key": "subchapter_524_description",
+   "en": "The glorious Talmberg Ribbon Race.",
+   "ro": "Glorioasa cursă cu panglici de la Talmberg."
+  },
+  {
+   "key": "subchapter_524_name",
+   "en": "Talmberg Horse Race",
+   "ro": "Cursa de cai de la Talmberg"
+  },
+  {
+   "key": "subchapter_527_description",
+   "en": "Toth is gone and his men scattered, but there are still many things left unresolved. ",
+   "ro": "Toth a dispărut, iar oamenii lui s-au împrăștiat, dar mai sunt multe lucruri nerezolvate. "
+  },
+  {
+   "key": "subchapter_527_name",
+   "en": "Epilogue",
+   "ro": "Epilog"
+  },
+  {
+   "key": "subchapter_528_description",
+   "en": "Every little boy dreams of becoming a knight in shining armour and rescuing a princess from a tower. I never thought that dream would come true for me... well, sort of. I'm not a knight, it's not a princess I have to rescue, but a bathhouse wench, and she's not locked away in a tower, but on top of a hill.",
+   "ro": "Fiecare băiat își visează să devină cavaler în armură strălucitoare și să salveze o prințesă dintr-un turn. Nu m-am gândit niciodată că acest vis se va împlini pentru mine... ei bine, cam așa. Nu sunt cavaler, iar nu o prințesă trebuie s-o salvez, ci o servitoare de la baia publică, și nu e închisă într-un turn, ci pe un deal."
+  },
+  {
+   "key": "subchapter_528_name",
+   "en": "Damsel in Distress",
+   "ro": "Domnișoară în primejdie"
+  },
+  {
+   "key": "subchapter_531_description",
+   "en": "A decision was reached to try once more to sneak into the castle and free the hostages.",
+   "ro": "S-a hotărât să se încerce încă o dată strecurarea în castel și eliberarea ostaticilor."
+  },
+  {
+   "key": "subchapter_531_name",
+   "en": "Night Raid",
+   "ro": "Incursiune nocturnă"
+  },
+  {
+   "key": "subchapter_537_description",
+   "en": "My home was destroyed, my parents and my sweetheart murdered. I fled like a coward and only survived by a miracle. And when I tried to do the right thing and at least bury my loved ones, I lost the last thing my father left me - the sword he forged for Sir Radzig. But I will never run again, ever! I'll find that bastard who led the raid on Skalitz and kill him. And I'll find that thieving rat who took my sword and run him through with it!",
+   "ro": "Casa mea a fost distrusă, părinții și logodnica mi-au fost uciși. Am fugit ca un fricos și am scăpat doar printr-un miracol. Iar când am vrut să fac ce e drept și măcar să-i îngrop pe cei dragi, am pierdut ultimul lucru pe care mi l-a lăsat tatăl meu: sabia pe care a făurit-o pentru Sir Radzig. Dar nu voi mai fugi niciodată, niciodată! Îl voi găsi pe nemernicul care a condus raidul asupra Skalitzului și îl voi ucide. Iar pe șobolanul hoț care mi-a luat sabia îl voi străpunge cu ea!"
+  },
+  {
+   "key": "subchapter_537_name",
+   "en": "Vengeance",
+   "ro": "Răzbunare"
+  },
+  {
+   "key": "subchapter_542_description",
+   "en": "Event group",
+   "ro": "Grup de evenimente"
+  },
+  {
+   "key": "subchapter_542_name",
+   "en": "NPC Ambush",
+   "ro": "Ambuscadă PNJ"
+  },
+  {
+   "key": "subchapter_547_description",
+   "en": "Group of events",
+   "ro": "Grup de evenimente"
+  },
+  {
+   "key": "subchapter_547_name",
+   "en": "CHASE",
+   "ro": "URMĂRIRE"
+  },
+  {
+   "key": "subchapter_550_description",
+   "en": "Event group",
+   "ro": "Grup de evenimente"
+  },
+  {
+   "key": "subchapter_550_name",
+   "en": "PLAYER AMBUSH",
+   "ro": "AMBUSCADĂ JUCĂTOR"
+  },
+  {
+   "key": "subchapter_557_description",
+   "en": "All my life I’ve been asking myself one thing: “Who to pin the blame on?\"",
+   "ro": "Toată viața mea m-am întrebat un singur lucru: „Pe cine să dau vina?”"
+  },
+  {
+   "key": "subchapter_557_name",
+   "en": "Gallows Brothers",
+   "ro": "Frații Spânzurătorii"
+  },
+  {
+   "key": "subchapter_558_description",
+   "en": "They say forbidden fruit tastes the sweetest, and that goes double for poached game. Maybe that's one of the reasons I'm tempted to join the gang of poachers that's hiding out in the Talmberg woods. On the other hand, I might just want to infiltrate them to find out what they're really up to. Because it looks like they're after more than just game.",
+   "ro": "Se spune că fructul oprit are cel mai dulce gust, iar vânatul furat, cu atât mai mult. Poate că unul dintre motive pentru care sunt ispitit să mă alătur bandei de braconieri care se ascunde în pădurile Talmbergului. Pe de altă parte, poate vreau doar să mă infiltrez printre ei și să aflu ce urmăresc de fapt. Fiindcă se pare că vânează ceva mai mult decât vânat."
+  },
+  {
+   "key": "subchapter_558_name",
+   "en": "Sheep in Wolf's Clothing",
+   "ro": "Oi în piele de lup"
+  },
+  {
+   "key": "subchapter_563_description",
+   "en": "The monastery wants Fritz and Matthew to pay for treatment? That doesn't seem right to me.",
+   "ro": "Mănăstirea vrea ca Fritz și Matthew să plătească pentru tratament? Asta nu mi se pare drept."
+  },
+  {
+   "key": "subchapter_563_name",
+   "en": "A Costly Brawl",
+   "ro": "O bătaie costisitoare"
+  },
+  {
+   "key": "subchapter_571_description",
+   "en": "Hanekin Hare's band of poachers isn't as merry as it was. They were attacked by the Talmberg soldiers and Hanekin had to hide out in a mine shaft with a handful of his faithful followers. But one of them, Black Lukesh, has lost the faith and plans to desert Hare. He doesn't want to go empty-handed though, especially since he has something put away for a rainy day at his house. Only his house is being watched by the soldiers.",
+   "ro": "Banda de braconieri a lui Hanekin Iepure nu mai e la fel de veselă. Au fost atacați de soldații din Talmberg, iar Hanekin a trebuit să se ascundă într-un puț de mină, împreună cu o mână de credincioși. Dar unul dintre ei, Black Lukesh, și-a pierdut credința și plănuiește să-l părăsească pe Iepure. Nu vrea însă să plece cu mâinile goale, mai ales că are ceva pus deoparte pentru zile negre, acasă la el. Doar că și casa lui e supravegheată de soldați."
+  },
+  {
+   "key": "subchapter_571_name",
+   "en": "Emergency Supply",
+   "ro": "Provizii de urgență"
+  },
+  {
+   "key": "subchapter_573_description",
+   "en": "Sir Hanush has sent for me and Lord Capon. As Sir Hans' page, I should dress as well as I can for an audience like that. Fortunately, he was kind enough to let me have some of his cast-offs, which are still finer than anything I've ever worn!",
+   "ro": "Sir Hanush m-a chemat pe mine și pe jupânul Capon. Ca paj al lui Sir Hans, ar trebui să mă îmbrac cât mai bine pentru o audiență ca aceea. Din fericire, a fost destul de bun să-mi dea din hainele lui vechi, care sunt totuși mai fine decât orice am purtat vreodată!"
+  },
+  {
+   "key": "subchapter_573_name",
+   "en": "Clothes Make the Man",
+   "ro": "Hainele fac omul"
+  },
+  {
+   "key": "subchapter_585_description",
+   "en": "Andrew the innkeeper buys game. Hunting isn't exactly legal, but that's why there's plenty of coin in it!",
+   "ro": "Andrew, hangiul, cumpără vânat. Vânatul nu e tocmai legal, dar tocmai de aceea se fac bani buni din el!"
+  },
+  {
+   "key": "subchapter_585_name",
+   "en": "Delicacies",
+   "ro": "Delicatese"
+  },
+  {
+   "key": "subchapter_586_description",
+   "en": "Bandits have settled in the vicinity of Rattay and are plundering the region. There's a generous bounty on their heads.",
+   "ro": "Tâlhari s-au așezat în apropierea Rattayului și jefuiesc regiunea. Pe capetele lor e pusă o recompensă generoasă."
+  },
+  {
+   "key": "subchapter_586_name",
+   "en": "Ruin",
+   "ro": "Ruina"
+  },
+  {
+   "key": "subchapter_587_description",
+   "en": "The Sasau swordsmith told me some pilgrim wandering the area said he had come from Jerusalem and had been selling fragments he claimed came from the sacred sword of the Queen of Sheba. The swordsmith would like to get his hands on those fragments and he offered me a handsome reward for helping him to achieve that.",
+   "ro": "Făurarul de săbii din Sasau mi-a spus că un pelerin care rătăcește prin zonă ar fi venit din Ierusalim și ar fi vândut fragmente pe care pretinde că vin din sabia sfântă a reginei din Saba. Făurarul ar vrea să pună mâna pe aceste fragmente și mi-a oferit o recompensă grasă dacă îl ajut să le obțină."
+  },
+  {
+   "key": "subchapter_587_name",
+   "en": "The Queen of Sheba’s Sword",
+   "ro": "Sabia reginei din Saba"
+  },
+  {
+   "key": "subchapter_588_description",
+   "en": "Peshek the Miller is known to pack away not just bags of flour, but quite a few pilfered valuables from the Rattay townsfolk. He might have some work for me to do.",
+   "ro": "Peshek, morarul, e cunoscut că ascunde nu doar saci cu făină, ci și destule lucruri de valoare furate de la locuitorii din Rattay. Poate are de lucru pentru mine."
+  },
+  {
+   "key": "subchapter_588_name",
+   "en": "Thick as Thieves - Peshek",
+   "ro": "Hoți ca hoții – Peshek"
+  },
+  {
+   "key": "subchapter_589_description",
+   "en": "Woyzeck is another miller making unlawful money on the side. He might have some work for me.",
+   "ro": "Woyzeck e un alt morar care face bani nelegiuiți pe lângă treaba lui. Poate are de lucru pentru mine."
+  },
+  {
+   "key": "subchapter_589_name",
+   "en": "Thick as Thieves - Woyzeck",
+   "ro": "Hoți ca hoții – Woyzeck"
+  },
+  {
+   "key": "subchapter_590_description",
+   "en": "Just like Peshek and Woyzeck, Simon too has an interest in “milling” a bit of extra business. I could help him out. ",
+   "ro": "La fel ca Peshek și Woyzeck, și Simon are interes să „măcine” ceva afaceri pe din afară. L-aș putea ajuta. "
+  },
+  {
+   "key": "subchapter_590_name",
+   "en": "Thick as Thieves - Simon",
+   "ro": "Hoți ca hoții – Simon"
+  },
+  {
+   "key": "subchapter_592_description",
+   "en": "Cumans are pillaging around Talmberg, which Sir Divish is understandably upset about. So there's a generous bounty on their heads.",
+   "ro": "Cumanii jefuiesc împrejurimile Talmbergului, ceea ce îl supără pe bună dreptate pe Sir Divish. Așa că pe capetele lor e pusă o recompensă generoasă."
+  },
+  {
+   "key": "subchapter_592_name",
+   "en": "Raiders",
+   "ro": "Jefuitori"
+  },
+  {
+   "key": "subchapter_596_description",
+   "en": "There are marauders roaming even the Sasau area and Sir Sebastian vom Berg needs help with them.",
+   "ro": "Pustiitori umblă și prin zona Sasau, iar Sir Sebastian vom Berg are nevoie de ajutor cu ei."
+  },
+  {
+   "key": "subchapter_596_name",
+   "en": "Interlopers",
+   "ro": "Intruși"
+  },
+  {
+   "key": "subchapter_597_description",
+   "en": "Yes, actual tutorials.",
+   "ro": "Da, tutoriale adevărate."
+  },
+  {
+   "key": "subchapter_597_name",
+   "en": "Tutorials",
+   "ro": "Tutoriale"
+  },
+  {
+   "key": "subchapter_598_name",
+   "en": "Swordplay",
+   "ro": "Scrimă"
+  },
+  {
+   "key": "subchapter_599_description",
+   "en": "The Uzhitz fisherman organises prize fights.",
+   "ro": "Pescarul din Uzhitz organizează întreceri de luptă."
+  },
+  {
+   "key": "subchapter_599_name",
+   "en": "Fishy Business in Uzhitz",
+   "ro": "Afaceri dubioase în Uzhitz"
+  },
+  {
+   "key": "subchapter_600_name",
+   "en": "Archery  ",
+   "ro": "Tir cu arcul  "
+  },
+  {
+   "key": "subchapter_601_description",
+   "en": "A scruffy vagabond from the refugee camp in Rattay wants me to do some pickpocketing for him.",
+   "ro": "Un vagabond șleampăt din tabăra de refugiați din Rattay vrea să fac pentru el niște buzunărit."
+  },
+  {
+   "key": "subchapter_601_name",
+   "en": "Rob the Rich, Give to the Poor",
+   "ro": "Fură de la bogați, dă săracilor"
+  },
+  {
+   "key": "subchapter_602_description",
+   "en": "A woman who's seen better days is plying the oldest trade in the world outside the Inn in the Glade. She wants me to go thieving for her.",
+   "ro": "O femeie care a cunoscut zile mai bune practică cea mai veche meserie din lume în afara hanului din Poiană. Vrea să merg să fur pentru ea."
+  },
+  {
+   "key": "subchapter_602_name",
+   "en": "A Woman Scorned",
+   "ro": "O femeie disprețuită"
+  },
+  {
+   "key": "subchapter_603_description",
+   "en": "A farmhand with a grievance wants to get revenge, and he wants my help to do it.",
+   "ro": "Un argat nemulțumit vrea să se răzbune, iar pentru asta vrea ajutorul meu."
+  },
+  {
+   "key": "subchapter_603_name",
+   "en": "Green-Eyed Monster",
+   "ro": "Monstrul cu ochi verzi"
+  },
+  {
+   "key": "subchapter_604_description",
+   "en": "There's a brawler in Rattay who fights people for silver. Maybe I could beat a Groschen or two out of him.",
+   "ro": "Există un bătăuș în Rattay care se luptă cu oamenii pentru argint. Poate că i-aș putea scoate un groschen sau doi."
+  },
+  {
+   "key": "subchapter_604_name",
+   "en": "Do Me a Favour - Punch Me!",
+   "ro": "Fă-mi o favoare - lovește-mă!"
+  },
+  {
+   "key": "subchapter_605_description",
+   "en": "There's two strange men in Skalitz - one claims to be the spokesman for the Cuman king and that the second is allegedly His Majesty, though he doesn't look too regal... ",
+   "ro": "Sunt doi bărbați ciudați în Skalitz. Unul pretinde că e purtătorul de cuvânt al regelui cumanilor, iar celălalt ar fi, se zice, Majestatea Sa, deși nu arată prea regal... "
+  },
+  {
+   "key": "subchapter_605_name",
+   "en": "Revenge of the Cuman King",
+   "ro": "Răzbunarea regelui cumanilor"
+  },
+  {
+   "key": "subchapter_606_description",
+   "en": "Alex, the leader of the Skalitz refugees, asked me to hunt down some game for them. That's poaching, but a man should help his neighbour.",
+   "ro": "Alex, conducătorul refugiaților din Skalitz, m-a rugat să vânez câteva animale pentru ei. Asta înseamnă braconaj, dar un om trebuie să-și ajute vecinul."
+  },
+  {
+   "key": "subchapter_606_name",
+   "en": "Beggars' Feast",
+   "ro": "Ospățul cerșetorilor"
+  },
+  {
+   "key": "subchapter_609_description",
+   "en": "They're out to get you - kill them all!",
+   "ro": "Vor să te omoare - ucide-i pe toți!"
+  },
+  {
+   "key": "subchapter_609_name",
+   "en": "Fight!",
+   "ro": "Luptă!"
+  },
+  {
+   "key": "subchapter_611_description",
+   "en": "How Henry got his pony.",
+   "ro": "Cum a căpătat Henry calul."
+  },
+  {
+   "key": "subchapter_611_name",
+   "en": "Horse Dealing",
+   "ro": "Negoț de cai"
+  },
+  {
+   "key": "subchapter_612_description",
+   "en": "The Sasau butcher offered me an interesting job. I'm to get him some game and he'll reward me generously. It's poaching, but a job's a job.",
+   "ro": "Măcelarul din Sasau mi-a oferit o slujbă interesantă. Trebuie să-i aduc vânat, iar el mă va răsplăti generos. Este braconaj, dar o slujbă e o slujbă."
+  },
+  {
+   "key": "subchapter_612_name",
+   "en": "Fat Profits",
+   "ro": "Câștiguri mari"
+  },
+  {
+   "key": "subchapter_613_description",
+   "en": "After I helped Hanekin Hare, I was honoured with the title of Talmberg Master Huntsman. Now I have to take care of the Talmberg woods and keep the noble tables supplied with good quality game.",
+   "ro": "După ce l-am ajutat pe Hanekin Iepurele, am fost onorat cu titlul de Vânătorul-șef al Talmbergului. Acum trebuie să am grijă de pădurile Talmbergului și să aduc la mesele nobililor vânat de calitate."
+  },
+  {
+   "key": "subchapter_613_name",
+   "en": "Henry the Master Huntsman",
+   "ro": "Henry, Vânătorul-șef"
+  },
+  {
+   "key": "subchapter_615_description",
+   "en": "Miller Peshek promised to teach me how to pick pockets.",
+   "ro": "Morarul Peshek a promis că mă va învăța să buzunăresc."
+  },
+  {
+   "key": "subchapter_615_name",
+   "en": "Pickpocketing",
+   "ro": "Buzunărit"
+  },
+  {
+   "key": "subchapter_616_description",
+   "en": "Brada the tanner wants animal hides. And he pays quite well for them.",
+   "ro": "Brada, tăbăcarul, vrea piei de animale. Și le plătește destul de bine."
+  },
+  {
+   "key": "subchapter_616_name",
+   "en": "Skin",
+   "ro": "Piele"
+  },
+  {
+   "key": "subchapter_619_name",
+   "en": "Treasures of the past",
+   "ro": "Comori din trecut"
+  },
+  {
+   "key": "subchapter_623_description",
+   "en": "The bold Sir Hans Capon inherited a lovely necklace from his great-grandmother... which he lost at dice. And now he wants it back again. That sounds simple enough... right?",
+   "ro": "Vrednicul Sir Hans Capon a moștenit un colier frumos de la străbunica sa... pe care l-a pierdut la zaruri. Acum vrea să-l recapete. Pare destul de simplu... nu-i așa?"
+  },
+  {
+   "key": "subchapter_623_name",
+   "en": "Game of Throws",
+   "ro": "Joc de aruncări"
+  },
+  {
+   "key": "subchapter_624_description",
+   "en": "There's been talk that Sir Divish has grand plans for the ruined village of Pribyslavitz now the bandits have been driven out. And his plans started to involve me when he sent me on a quest to find a missing man he'd sent there.",
+   "ro": "Se vorbește că Sir Divish are planuri mărețe pentru satul ruinat Pribyslavitz, acum că tâlharii au fost alungați. Planurile lui au început să mă includă când m-a trimis să găsesc un om dispărut pe care îl trimisese acolo."
+  },
+  {
+   "key": "subchapter_624_name",
+   "en": "Lost in the Woods",
+   "ro": "Pierdut în pădure"
+  },
+  {
+   "key": "subchapter_625_description",
+   "en": "In reward for my services, Sir Divish appointed me Bailiff of Pribyslavitz. It's a great honour, but for now I'm only in charge of some ruins, so I'll have to rebuild the place into a thriving hamlet.",
+   "ro": "Drept răsplată pentru serviciile mele, Sir Divish m-a numit jude al Pribyslavitzului. Este o mare cinste, dar deocamdată am în grijă doar niște ruine, așa că va trebui să transform locul într-un sat înfloritor."
+  },
+  {
+   "key": "subchapter_625_name",
+   "en": "A Place to Call Home",
+   "ro": "Un loc pe care să-l numești acasă"
+  },
+  {
+   "key": "subchapter_627_description",
+   "en": "When Henry asked Theresa what happened to her and her family in Skalitz, she started telling him a long, sad story...",
+   "ro": "Când Henry a întrebat-o pe Theresa ce s-a întâmplat cu ea și cu familia ei în Skalitz, ea a început să-i povestească o istorisire lungă și tristă..."
+  },
+  {
+   "key": "subchapter_627_name",
+   "en": "A Woman's lot",
+   "ro": "Soarta unei femei"
+  },
+  {
+   "key": "subchapter_629_description",
+   "en": "After leaving Sasau in a hurry, the charlatan has been trying his luck in Ledetchko, but with little success. The people there are quite content and in no need of his dubious remedies. But that could all change...",
+   "ro": "După ce a părăsit Sasau în grabă, șarlatanul și-a încercat norocul în Ledetchko, dar cu puțin succes. Oamenii de acolo sunt destul de mulțumiți și nu au nevoie de leacurile lui dubioase. Dar lucrurile ar putea să se schimbe..."
+  },
+  {
+   "key": "subchapter_629_name",
+   "en": "No Rest for the Wicked",
+   "ro": "Fără odihnă pentru cei nelegiuiți"
+  },
+  {
+   "key": "subchapter_630_description",
+   "en": "It appears you left some important things in the hands of a corpse! The gravedigger has disposed of the body and safely stored away the departed's worldly goods at the Rattay Presbytery, where you can pick them up.",
+   "ro": "Se pare că ai lăsat lucruri importante în mâinile unui cadavru! Groparul a îngropat trupul și a pus la loc sigur bunurile celui plecat la Prezbiteriul din Rattay, de unde le poți lua."
+  },
+  {
+   "key": "subchapter_630_name",
+   "en": "Lost and Found",
+   "ro": "Pierdut și regăsit"
+  },
+  {
+   "key": "subchapter_631_description",
+   "en": "I stopped by to see Johanka and find out how she's getting on. She confided in me that she's been having strange dreams in which the Virgin Mary appears to her.",
+   "ro": "Am trecut pe la Johanka să văd cum se descurcă. Mi-a mărturisit că are vise ciudate, în care i se arată Fecioara Maria."
+  },
+  {
+   "key": "subchapter_631_name",
+   "en": "The Madonna of Sasau",
+   "ro": "Madona din Sasau"
+  },
+  {
+   "key": "subchapter_633_name",
+   "en": "Desperate Measures",
+   "ro": "Măsuri disperate"
+  },
+  {
+   "key": "subchapter_639_description",
+   "en": "Johanka wanted me to help the Sasau tailor's wife by getting her husband to stop playing dice.",
+   "ro": "Johanka a vrut să-l ajut pe soția croitorului din Sasau să-l facă pe soțul ei să nu mai joace zaruri."
+  },
+  {
+   "key": "subchapter_639_name",
+   "en": "Casting Lots",
+   "ro": "Trageri la sorți"
+  },
+  {
+   "key": "subchapter_640_description",
+   "en": "I came across a survivor and decided to help others to escape too. No one else should be allowed to die! Tinker will help with my search.",
+   "ro": "Am dat peste un supraviețuitor și am hotărât să ajut și pe alții să scape. Nimeni nu trebuie lăsat să moară! Tinker mă va ajuta în căutare."
+  },
+  {
+   "key": "subchapter_640_name",
+   "en": "Angel of Mercy",
+   "ro": "Înger al milei"
+  },
+  {
+   "key": "subchapter_641_description",
+   "en": "Neighbourly disputes in Pribyslavitz.",
+   "ro": "Certuri între vecini în Pribyslavitz."
+  },
+  {
+   "key": "subchapter_641_name",
+   "en": "The Scales of Justice",
+   "ro": "Cântarul dreptății"
+  },
+  {
+   "key": "subchapter_642_description",
+   "en": "Johanka sent me to Ledetchko to find a sinful bath wench and redeem her.",
+   "ro": "Johanka m-a trimis la Ledetchko să găsesc o slujnică de la băi, păcătoasă, și s-o răscumpăr."
+  },
+  {
+   "key": "subchapter_642_name",
+   "en": "Go, and Sin No More",
+   "ro": "Mergi și nu mai păcătui"
+  },
+  {
+   "key": "subchapter_643_description",
+   "en": "I set out with Kuno and his band on our first patrol of the province. I was very curious indeed what trouble I might have to face - whether from marauding brigands or from the lawkeepers themselves! ",
+   "ro": "Am pornit cu Kuno și cu ceata lui în prima patrulă prin provincie. Chiar eram tare curios ce necazuri aveam să înfrunt, fie din partea tâlharilor care prădează, fie din partea slujitorilor legii înșiși! "
+  },
+  {
+   "key": "subchapter_643_name",
+   "en": "Bad Blood",
+   "ro": "Sânge rău"
+  },
+  {
+   "key": "subchapter_644_description",
+   "en": "We set out on another patrol around the province. Hagen Zoul will surely still be doing everything he can to provoke Sir Radzig, so we need to keep our eyes peeled. As night fell, we approached Uzhitz, where we'd decided to spend the night at the inn. But then we heard a cry for help from a windmill.",
+   "ro": "Am pornit într-o nouă patrulă prin provincie. Hagen Zoul va continua, desigur, să facă tot ce poate ca să-l provoace pe Sir Radzig, așa că trebuie să fim cu ochii în patru. Pe când se lăsa noaptea, ne-am apropiat de Uzhitz, unde hotărâserăm să înnoptăm la han. Dar atunci am auzit un strigăt de ajutor de la o moară de vânt."
+  },
+  {
+   "key": "subchapter_644_name",
+   "en": "Uninvited Guests",
+   "ro": "Oaspeți nepoftiți"
+  },
+  {
+   "key": "subchapter_645_description",
+   "en": "We rode out on patrol, this time towards Sasau. Someone there saw and unfamiliar company of horsemen, which is something we should definitely investigate. ",
+   "ro": "Am pornit în patrulă, de data aceasta spre Sasau. Cineva de acolo a văzut o ceată necunoscută de călăreți, lucru pe care trebuie neapărat să-l cercetăm. "
+  },
+  {
+   "key": "subchapter_645_name",
+   "en": "A Tight Spot",
+   "ro": "Într-o strâmtoare"
+  },
+  {
+   "key": "subchapter_647_description",
+   "en": "Kuno sent me to deal with the treacherous Jakey. He doesn't much care how I do it, just as long as I find out as much as possible about Hagen's plans.",
+   "ro": "Kuno m-a trimis să mă ocup de Jakey, cel viclean. Nu-i pasă cum o fac, numai să aflu cât mai mult despre planurile lui Hagen."
+  },
+  {
+   "key": "subchapter_647_name",
+   "en": "Thirty Pieces",
+   "ro": "Treizeci de arginți"
+  },
+  {
+   "key": "subchapter_648_description",
+   "en": "I know where Hagen is going to be and what he's planning. Now the question is, how to deal with it? There will be no end to the chaos as long as Hagen is obsessed with his insane feud with Sir Radzig.",
+   "ro": "Știu unde va fi Hagen și ce plănuiește. Acum întrebarea e cum să mă ocup de asta? Nu va înceta haosul atâta timp cât Hagen e obsedat de nebuna lui ceartă cu Sir Radzig."
+  },
+  {
+   "key": "subchapter_648_name",
+   "en": "What Price Honour?",
+   "ro": "Ce preț are onoarea?"
+  },
+  {
+   "key": "subchapter_649_description",
+   "en": "Sir Radzig has asked for my help again. He charged a mercenary, one Sir Kuno of Rychwald, and his band with patrolling the province and keeping order. I'm to act as a guide for the mercenaries and, since they themselves are a little hard to distinguish from brigands, to keep their appetite for trouble in check.",
+   "ro": "Sir Radzig mi-a cerut din nou ajutorul. I-a încredințat unui mercenar, pe Sir Kuno de Rychwald, și ceții lui sarcina de a patrula prin provincie și de a menține ordinea. Eu trebuie să le fiu călăuză mercenarilor și, întrucât sunt puțin greu de deosebit de tâlhari, să le țin în frâu pofta de necazuri."
+  },
+  {
+   "key": "subchapter_649_name",
+   "en": "Band of Bastards",
+   "ro": "Cete de ticăloși"
+  },
+  {
+   "key": "subchapter_650_description",
+   "en": "The repentant sinner Pavel of Kolin wanted to recover his hidden treasure and donate it to a good cause in Sasau. I decided to help him.",
+   "ro": "Pavel din Kolin, păcătosul pocăit, voia să-și recupereze comoara ascunsă și s-o dăruiască unei cauze bune din Sasau. M-am hotărât să-l ajut."
+  },
+  {
+   "key": "subchapter_650_name",
+   "en": "Bonum Commune",
+   "ro": "Binele obștesc"
+  },
+  {
+   "key": "subchapter_651_description",
+   "en": "I can go to the combat arena for a bit of practice combat if I talk to the Arena Master.",
+   "ro": "Pot merge în arena de luptă pentru puțin antrenament, dacă vorbesc cu Stăpânul arenei."
+  },
+  {
+   "key": "subchapter_651_name",
+   "en": "A Bit of Friendly Violence",
+   "ro": "Puțină violență prietenească"
+  },
+  {
+   "key": "subchapter_654_description",
+   "en": "Bianca wants to brew something special for Henry and she needs to pick herbs in the woods for it. The trouble is, people are saying a wolf was seen in the woods recently...",
+   "ro": "Bianca vrea să prepare ceva special pentru Henry și are nevoie să culeagă ierburi din pădure pentru asta. Problema e că oamenii spun că în pădure s-a văzut de curând un lup..."
+  },
+  {
+   "key": "subchapter_654_name",
+   "en": "Cry Wolf!",
+   "ro": "Strigă lup!"
+  },
+  {
+   "key": "subchapter_656_description",
+   "en": "There's an interesting game that Kuno's men play to pass the time. There's a ring that goes around between them, called the Ring of Bacchus. Whoever has it when they're at the tavern can drink and eat his fill at Kuno's expense. The ring is a highly coveted item in the camp, so I thought I'd join the game too.",
+   "ro": "Ceata lui Kuno are un joc cu care își omoară timpul. Un inel trece dintr-unul în altul și se numește Inelul lui Bacchus. Cine îl are când sunt la tavernă poate bea și mânca după plac pe cheltuiala lui Kuno. Inelul e foarte râvnit în tabără, așa că m-am gândit să mă alătur și eu jocului."
+  },
+  {
+   "key": "subchapter_656_name",
+   "en": "The Ring of Bacchus",
+   "ro": "Inelul lui Bacchus"
+  },
+  {
+   "key": "subchapter_657_description",
+   "en": "Lots of raw materials and other supplies will be needed to rebuild the village of Pribyslavitz.",
+   "ro": "Sunt necesare multe materiale brute și alte provizii pentru a reconstrui satul Pribyslavitz."
+  },
+  {
+   "key": "subchapter_657_name",
+   "en": "Supplies",
+   "ro": "Provizii"
+  },
+  {
+   "key": "subchapter_659_description",
+   "en": "Johanka wants Matthias to take her dancing, but she's too shy to ask him. So, she thought up an elaborate plan to prompt him... and I'm to play a major role in her intrigue.",
+   "ro": "Johanka vrea ca Matthias s-o ducă la dans, dar e prea timidă ca să-i ceară asta. Așa că și-a făcut un plan complicat ca să-l îndemne... și eu am un rol important în intriga ei."
+  },
+  {
+   "key": "subchapter_659_name",
+   "en": "Matchmaker",
+   "ro": "Casamentarul"
+  },
+  {
+   "key": "subchapter_660_description",
+   "en": "I talked to Johanka at the infirmary in Sasau Monastery. She's quite exhausted - apart from having to care for the sick and wounded with little help from anyone, she said she's also been troubled by a repeated nightmare about some cave in the hills above Skalitz. I promised her I'd find this cave and have a look inside.",
+   "ro": "Am vorbit cu Johanka în infirmeria Mănăstirii Sasau. E destul de sleită de puteri: pe lângă faptul că trebuie să îngrijească bolnavii și răniții aproape fără niciun ajutor, mi-a spus că o chinuie și un vis care se repetă, despre o peșteră din dealurile de deasupra Skalitzului. I-am promis că voi găsi peștera și că mă voi uita înăuntru."
+  },
+  {
+   "key": "subchapter_660_name",
+   "en": "Infernal Dream",
+   "ro": "Vis infernal"
+  },
+  {
+   "key": "subchapter_661_description",
+   "en": "Sir Hans wants me to enrol in the Rattay Tourney.",
+   "ro": "Sir Hans vrea să mă înscriu la Turneul de la Rattay."
+  },
+  {
+   "key": "subchapter_661_name",
+   "en": "Capon's Champion",
+   "ro": "Campionul lui Capon"
+  },
+  {
+   "key": "subchapter_663_description",
+   "en": "Johanka tells me there's just one more sinner who needs saving - me! So I have to set out on a pilgrimage of repentance to Uzhitz, pray to the Virgin Mary and ask God for forgiveness.",
+   "ro": "Johanka spune că mai e un singur păcătos care trebuie mântuit: eu! Așa că trebuie să pornesc într-un pelerinaj de pocăință la Uzhitz, să mă rog Fecioarei Maria și să cer lui Dumnezeu iertare."
+  },
+  {
+   "key": "subchapter_663_name",
+   "en": "The Wicket Gate",
+   "ro": "Poarta strâmtă"
+  },
+  {
+   "key": "subchapter_664_description",
+   "en": "Svatopluk, the Samopesh blacksmith's son, died under very suspicious circumstances after winning the Rattay Tourney some years ago.",
+   "ro": "Svatopluk, fiul fierarului din Samopesh, a murit în împrejurări foarte suspecte, după ce a câștigat Turneul de la Rattay acum câțiva ani."
+  },
+  {
+   "key": "subchapter_664_name",
+   "en": "Dead Men Tell No Tales",
+   "ro": "Morții nu spun povești"
+  },
+  {
+   "key": "subchapter_665_description",
+   "en": "Svatopluk, the Samopesh blacksmith's son, died under very suspicious circumstances after winning the Rattay Tourney some years ago.",
+   "ro": "Svatopluk, fiul fierarului din Samopesh, a murit în împrejurări foarte suspecte, după ce a câștigat Turneul de la Rattay acum câțiva ani."
+  },
+  {
+   "key": "subchapter_665_name",
+   "en": "Dead Men Tell No Tales - End",
+   "ro": "Morții nu spun povești - Sfârșit"
+  },
+  {
+   "key": "subchapter_667_description",
+   "en": "Samuel died during the night and now I'm left alone in the world but for Tinker. Has anyone else survived at all? Skalitz is smouldering and it looks like the army has moved on.",
+   "ro": "Samuel a murit peste noapte, iar eu am rămas singur pe lume, doar cu Tinker. A mai scăpat cineva în viață? Skalitzul fumegă, iar armata pare să fi plecat mai departe."
+  },
+  {
+   "key": "subchapter_667_name",
+   "en": "Aftermath",
+   "ro": "Urmările"
+  },
+  {
+   "key": "subchapter_668_description",
+   "en": "Village life is no fairy-tale. You have to be on your feet from dawn till dusk.",
+   "ro": "Viața în sat nu e o poveste de adormit copiii. Trebuie să fii pe picioare din zori până în amurg."
+  },
+  {
+   "key": "subchapter_668_name",
+   "en": "Ordinary Routine",
+   "ro": "Rutină obișnuită"
+  },
+  {
+   "key": "subchapter_669_description",
+   "en": "A pair of Skalitz guards were at the mill asking about silver going missing from the mines. Pa looked like he was very worried, though he tried to cover it up.",
+   "ro": "Doi paznici din Skalitz au fost la moară și au întrebat despre argintul care a dispărut din mine. Tata părea foarte îngrijorat, deși a încercat să-și ascundă asta."
+  },
+  {
+   "key": "subchapter_669_name",
+   "en": "The Family Silver",
+   "ro": "Argintăria familiei"
+  },
+  {
+   "key": "subchapter_670_description",
+   "en": "Yesterday's chores were anything but routine. Let's hope it's quieter today.",
+   "ro": "Treburile de ieri au fost orice altceva decât obișnuite. Să sperăm că astăzi va fi mai liniște."
+  },
+  {
+   "key": "subchapter_670_name",
+   "en": "Unexpected Visit",
+   "ro": "Vizită neașteptată"
+  },
+  {
+   "key": "subchapter_671_description",
+   "en": "Skalitz is under attack! Pa and Stibor were killed in front of my eyes, Zbyshek fled like a coward and left me to the mercy of the raiders. I managed to get away, but I'm not out of danger yet. And neither is my little brother, Samuel, who works in the mines.",
+   "ro": "Skalitzul este atacat! Tata și Stibor au fost uciși chiar sub ochii mei, Zbyshek a fugit ca un laș și m-a lăsat la mila jefuitorilor. Am reușit să scap, dar nu sunt încă în afara pericolului. Și nici fratele meu cel mic, Samuel, care lucrează în mină."
+  },
+  {
+   "key": "subchapter_671_name",
+   "en": "Thicker than Water",
+   "ro": "Sângele e mai gros decât apa"
+  },
+  {
+   "key": "subchapter_672_description",
+   "en": "My brother is dying. I must find some way to save him, otherwise he won't survive till morning. And I'll have to be very careful, because all hell has broken loose outside...",
+   "ro": "Fratele meu moare. Trebuie să găsesc o cale să-l salvez, altfel nu va supraviețui până dimineață. Și va trebui să fiu foarte atent, fiindcă afară s-a dezlănțuit iadul..."
+  },
+  {
+   "key": "subchapter_672_name",
+   "en": "Ties that Bind",
+   "ro": "Legături care țin"
+  },
+  {
+   "key": "subchapter_676_description",
+   "en": "Miller Peshek will take a wager on the tourney from me. ",
+   "ro": "Morarul Peshek va ține un pariu cu mine la turnir. "
+  },
+  {
+   "key": "subchapter_676_name",
+   "en": "Who Do You Like?",
+   "ro": "Pe cine îndrăgești?"
+  },
+  {
+   "key": "subchapter_696_name",
+   "en": "Gossip",
+   "ro": "Bârfă"
+  },
+  {
+   "key": "ui_fasttravel_discovery",
+   "en": "Fast travel point",
+   "ro": "Punct de călătorie rapidă"
+  },
+  {
+   "key": "ui_maplegend_accident",
+   "en": "Accident",
+   "ro": "Accident"
+  },
+  {
+   "key": "ui_maplegend_alchemy",
+   "en": "Alchemy bench",
+   "ro": "Banc de alchimie"
+  },
+  {
+   "key": "ui_maplegend_apothecary",
+   "en": "Apothecary",
+   "ro": "Spițer"
+  },
+  {
+   "key": "ui_maplegend_arena",
+   "en": "Combat arena",
+   "ro": "Arenă de luptă"
+  },
+  {
+   "key": "ui_maplegend_archery_arena",
+   "en": "Archery range",
+   "ro": "Poligon de tir"
+  },
+  {
+   "key": "ui_maplegend_armourer",
+   "en": "Armourer",
+   "ro": "Fierar de arme"
+  },
+  {
+   "key": "ui_maplegend_bailiff",
+   "en": "Rathaus",
+   "ro": "Primărie"
+  },
+  {
+   "key": "ui_maplegend_bailiff_nh2",
+   "en": "Rathaus",
+   "ro": "Primărie"
+  },
+  {
+   "key": "ui_maplegend_bailiff_nh3",
+   "en": "Rathaus",
+   "ro": "Primărie"
+  },
+  {
+   "key": "ui_maplegend_bakery",
+   "en": "Baker",
+   "ro": "Brutar"
+  },
+  {
+   "key": "ui_maplegend_baths",
+   "en": "Baths",
+   "ro": "Băi"
+  },
+  {
+   "key": "ui_maplegend_bed",
+   "en": "Your bed",
+   "ro": "Patul tău"
+  },
+  {
+   "key": "ui_maplegend_blacksmith",
+   "en": "Blacksmith",
+   "ro": "Fierar"
+  },
+  {
+   "key": "ui_maplegend_bridge",
+   "en": "Bridge",
+   "ro": "Pod"
+  },
+  {
+   "key": "ui_maplegend_butchery",
+   "en": "Butcher",
+   "ro": "Măcelar"
+  },
+  {
+   "key": "ui_maplegend_camp",
+   "en": "Camp",
+   "ro": "Tabără"
+  },
+  {
+   "key": "ui_maplegend_camp_enemy",
+   "en": "Enemy camp",
+   "ro": "Tabăra inamicului"
+  },
+  {
+   "key": "ui_maplegend_carpenter",
+   "en": "Carpenter",
+   "ro": "Dulgher"
+  },
+  {
+   "key": "ui_maplegend_cave",
+   "en": "Cave",
+   "ro": "Peșteră"
+  },
+  {
+   "key": "ui_maplegend_conc_cross",
+   "en": "Conciliation cross",
+   "ro": "Cruce de împăcare"
+  },
+  {
+   "key": "ui_maplegend_dog_poi",
+   "en": "Dog ",
+   "ro": "Câine "
+  },
+  {
+   "key": "ui_maplegend_fasttravel",
+   "en": "Fast travel destination",
+   "ro": "Destinație de călătorie rapidă"
+  },
+  {
+   "key": "ui_maplegend_fishing_spot",
+   "en": "Fishing spot",
+   "ro": "Loc de pescuit"
+  },
+  {
+   "key": "ui_maplegend_fishing_trap",
+   "en": "Fish trap",
+   "ro": "Capcană pentru pești"
+  },
+  {
+   "key": "ui_maplegend_fist_fight",
+   "en": "Fist fight spot",
+   "ro": "Loc de luptă cu pumnii"
+  },
+  {
+   "key": "ui_maplegend_forest_garden",
+   "en": "Woodland garden",
+   "ro": "Grădină de pădure"
+  },
+  {
+   "key": "ui_maplegend_free_parcel",
+   "en": "Available land plot",
+   "ro": "Teren liber disponibil"
+  },
+  {
+   "key": "ui_maplegend_garrison",
+   "en": "Garrison",
+   "ro": "Garnizoană"
+  },
+  {
+   "key": "ui_maplegend_general_poi",
+   "en": "Interesting site",
+   "ro": "Loc de interes"
+  },
+  {
+   "key": "ui_maplegend_grave",
+   "en": "Grave",
+   "ro": "Mormânt"
+  },
+  {
+   "key": "ui_maplegend_henhouse",
+   "en": "Chicken coop",
+   "ro": "Coteț de găini"
+  },
+  {
+   "key": "ui_maplegend_herbalist",
+   "en": "Herbalist",
+   "ro": "Ierbar"
+  },
+  {
+   "key": "ui_maplegend_hive",
+   "en": "Beehive",
+   "ro": "Stup"
+  },
+  {
+   "key": "ui_maplegend_home",
+   "en": "Home",
+   "ro": "Casă"
+  },
+  {
+   "key": "ui_maplegend_horse_trader",
+   "en": "Horse trader",
+   "ro": "Negustor de cai"
+  },
+  {
+   "key": "ui_maplegend_hotel",
+   "en": "Lodgings",
+   "ro": "Cazare"
+  },
+  {
+   "key": "ui_maplegend_hunter",
+   "en": "Huntsman",
+   "ro": "Vânător"
+  },
+  {
+   "key": "ui_maplegend_hunting_spot",
+   "en": "Deer hunting spot ",
+   "ro": "Loc de vânătoare de cerbi "
+  },
+  {
+   "key": "ui_maplegend_hunting_spot_boar",
+   "en": "Boar hunting spot",
+   "ro": "Loc de vânătoare de mistreți"
+  },
+  {
+   "key": "ui_maplegend_hunting_spot_roe_deer",
+   "en": "Roe hunting spot",
+   "ro": "Loc de vânătoare de căprioare"
+  },
+  {
+   "key": "ui_maplegend_charcoal_burner",
+   "en": "Charcoal burner",
+   "ro": "Cărbunar"
+  },
+  {
+   "key": "ui_maplegend_charcoal_kiln",
+   "en": "Charcoal kiln",
+   "ro": "Cuptor de cărbune"
+  },
+  {
+   "key": "ui_maplegend_church",
+   "en": "Church",
+   "ro": "Biserică"
+  },
+  {
+   "key": "ui_maplegend_church_nh1",
+   "en": "Church",
+   "ro": "Biserică"
+  },
+  {
+   "key": "ui_maplegend_church_nh2",
+   "en": "Church",
+   "ro": "Biserică"
+  },
+  {
+   "key": "ui_maplegend_church_nh3",
+   "en": "Church",
+   "ro": "Biserică"
+  },
+  {
+   "key": "ui_maplegend_lumberjack_camp",
+   "en": "Woodcutters' camp",
+   "ro": "Tabăra lemnarilor"
+  },
+  {
+   "key": "ui_maplegend_lumberjack_camp_nh",
+   "en": "Woodcutters' camp",
+   "ro": "Tabăra lemnarilor"
+  },
+  {
+   "key": "ui_maplegend_miller",
+   "en": "Miller",
+   "ro": "Morari"
+  },
+  {
+   "key": "ui_maplegend_mine_enrtrance",
+   "en": "Mine entrance",
+   "ro": "Intrarea în mină"
+  },
+  {
+   "key": "ui_maplegend_nest",
+   "en": "Nest",
+   "ro": "Cuib"
+  },
+  {
+   "key": "ui_maplegend_pillory",
+   "en": "Pillory",
+   "ro": "Stâlpul infamiei"
+  },
+  {
+   "key": "ui_maplegend_pub",
+   "en": "Tavern",
+   "ro": "Cârciumă"
+  },
+  {
+   "key": "ui_maplegend_saddler",
+   "en": "Saddler",
+   "ro": "Șelar"
+  },
+  {
+   "key": "ui_maplegend_scribe",
+   "en": "Scribe",
+   "ro": "Cărturar"
+  },
+  {
+   "key": "ui_maplegend_sharpening_wheel",
+   "en": "Grindstone",
+   "ro": "Cute"
+  },
+  {
+   "key": "ui_maplegend_shoemaker",
+   "en": "Cobbler ",
+   "ro": "Cizmar "
+  },
+  {
+   "key": "ui_maplegend_shop",
+   "en": "Trader",
+   "ro": "Negustor"
+  },
+  {
+   "key": "ui_maplegend_shrine",
+   "en": "Shrine",
+   "ro": "Capelă"
+  },
+  {
+   "key": "ui_maplegend_tailor",
+   "en": "Tailor",
+   "ro": "Croitor"
+  },
+  {
+   "key": "ui_maplegend_tanner",
+   "en": "Tanner",
+   "ro": "Tăbăcar"
+  },
+  {
+   "key": "ui_maplegend_unknown",
+   "en": "Unknown place",
+   "ro": "Loc necunoscut"
+  },
+  {
+   "key": "ui_maplegend_vegetable_shop",
+   "en": "Grocer",
+   "ro": "Băcan"
+  },
+  {
+   "key": "ui_maplegend_weaponsmiths",
+   "en": "Weaponsmith",
+   "ro": "Armurier"
+  },
+  {
+   "key": "ui_maplegend_windmill",
+   "en": "Windmill",
+   "ro": "Morile de vânt"
+  }
+ ]
+}

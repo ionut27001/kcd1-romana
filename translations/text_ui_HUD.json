@@ -1,0 +1,15 @@
+{
+ "table": "text_ui_HUD.xml",
+ "entries": [
+  {
+   "key": "ui_hud_drop_body",
+   "en": "Drop body",
+   "ro": "Lasă trupul"
+  },
+  {
+   "key": "ui_hud_pick_up_body",
+   "en": "Pick up body",
+   "ro": "Ridică trupul"
+  }
+ ]
+}

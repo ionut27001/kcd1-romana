@@ -1,0 +1,660 @@
+{
+ "table": "text_ui_minigames.xml",
+ "entries": [
+  {
+   "key": "ui_nh_add_alchemy",
+   "en": "Alchemy Bench",
+   "ro": "Banc de alchimie"
+  },
+  {
+   "key": "ui_nh_add_altar",
+   "en": "Altar",
+   "ro": "Altar"
+  },
+  {
+   "key": "ui_nh_add_archery_range",
+   "en": "Archery Range",
+   "ro": "Poligon de tir cu arcul"
+  },
+  {
+   "key": "ui_nh_add_armorsmith",
+   "en": "Armoursmith's Tools",
+   "ro": "Unelte de armurier"
+  },
+  {
+   "key": "ui_nh_add_brewery",
+   "en": "Brewery",
+   "ro": "Berărie"
+  },
+  {
+   "key": "ui_nh_add_dryfood",
+   "en": "Drying Shed",
+   "ro": "Magazie de uscat"
+  },
+  {
+   "key": "ui_nh_add_gamblers",
+   "en": "Dice Games",
+   "ro": "Jocuri cu zaruri"
+  },
+  {
+   "key": "ui_nh_add_garden",
+   "en": "Herb Garden",
+   "ro": "Grădină de ierburi"
+  },
+  {
+   "key": "ui_nh_add_painting",
+   "en": "Frescoes",
+   "ro": "Fresce"
+  },
+  {
+   "key": "ui_nh_add_saddles",
+   "en": "Saddler's Equipment",
+   "ro": "Echipament de șelar"
+  },
+  {
+   "key": "ui_nh_add_smokehouse",
+   "en": "Smoke House",
+   "ro": "Afumătoare"
+  },
+  {
+   "key": "ui_nh_add_weaponsmith",
+   "en": "Swordsmith's Tools",
+   "ro": "Unelte de fierar de săbii"
+  },
+  {
+   "key": "ui_nh_eff_pro_apiary_baker",
+   "en": "Honey for baker",
+   "ro": "Miere pentru brutar"
+  },
+  {
+   "key": "ui_nh_eff_pro_apiary_pub",
+   "en": "Honey for tavern",
+   "ro": "Miere la cârciumă"
+  },
+  {
+   "key": "ui_nh_eff_pro_baker_pub",
+   "en": "Cakes for tavern",
+   "ro": "Prăjituri pentru cârciumă"
+  },
+  {
+   "key": "ui_nh_eff_pro_blacksmith_garrison",
+   "en": "Weapons for garrison",
+   "ro": "Arme pentru garnizoană"
+  },
+  {
+   "key": "ui_nh_eff_pro_blacksmith_stables",
+   "en": "Horseshoes for stables",
+   "ro": "Potcoave pentru grajduri"
+  },
+  {
+   "key": "ui_nh_eff_pro_butcher_pub",
+   "en": "Meat for tavern",
+   "ro": "Carne pentru cârciumă"
+  },
+  {
+   "key": "ui_nh_eff_pro_garrison_pub",
+   "en": "Tavern customers",
+   "ro": "Clienții cârciumii"
+  },
+  {
+   "key": "ui_nh_eff_pro_stables_merchant",
+   "en": "Horses for merchant",
+   "ro": "Cai pentru negustor"
+  },
+  {
+   "key": "ui_nh_eff_rec_adam",
+   "en": "Innkeeper Adam",
+   "ro": "Cârciumarul Adam"
+  },
+  {
+   "key": "ui_nh_eff_rec_alchemy",
+   "en": "Alchemists' bench",
+   "ro": "Banc de alchimie"
+  },
+  {
+   "key": "ui_nh_eff_rec_altar",
+   "en": "Altar",
+   "ro": "Altar"
+  },
+  {
+   "key": "ui_nh_eff_rec_apiary_baker",
+   "en": "Honey cakes",
+   "ro": "Prăjituri cu miere"
+  },
+  {
+   "key": "ui_nh_eff_rec_apiary_pub",
+   "en": "Mead",
+   "ro": "Hidromel"
+  },
+  {
+   "key": "ui_nh_eff_rec_archeryRange",
+   "en": "Archery range",
+   "ro": "Poligon de tir"
+  },
+  {
+   "key": "ui_nh_eff_rec_armorsmith",
+   "en": "Armoursmith's equipment",
+   "ro": "Echipament de armurier"
+  },
+  {
+   "key": "ui_nh_eff_rec_baker_bigBread",
+   "en": "Full stomachs",
+   "ro": "Burți pline"
+  },
+  {
+   "key": "ui_nh_eff_rec_baker_blackBread",
+   "en": "Black bread",
+   "ro": "Pâine neagră"
+  },
+  {
+   "key": "ui_nh_eff_rec_baker_pub",
+   "en": "Excellent cakes",
+   "ro": "Prăjituri excelente"
+  },
+  {
+   "key": "ui_nh_eff_rec_baker_scale",
+   "en": "Municipal scales",
+   "ro": "Cântarul orașului"
+  },
+  {
+   "key": "ui_nh_eff_rec_blacksmith_garrison",
+   "en": "Weapons from forge",
+   "ro": "Arme de la forjă"
+  },
+  {
+   "key": "ui_nh_eff_rec_blacksmith_stables",
+   "en": "Horseshoes from forge",
+   "ro": "Potcoave de la forjă"
+  },
+  {
+   "key": "ui_nh_eff_rec_bread_hungry",
+   "en": "Hungry village",
+   "ro": "Sat flămând"
+  },
+  {
+   "key": "ui_nh_eff_rec_brewery",
+   "en": "Brewery",
+   "ro": "Berărie"
+  },
+  {
+   "key": "ui_nh_eff_rec_butcher_pub",
+   "en": "Meat banquet",
+   "ro": "Ospăț cu carne"
+  },
+  {
+   "key": "ui_nh_eff_rec_coal",
+   "en": "Charcoal ",
+   "ro": "Cărbune"
+  },
+  {
+   "key": "ui_nh_eff_rec_coal_ginger",
+   "en": "Charcoal from Ginger's friends",
+   "ro": "Cărbune de la prietenii lui Ginger"
+  },
+  {
+   "key": "ui_nh_eff_rec_dryfood",
+   "en": "Drying shed",
+   "ro": "Șopron de uscat"
+  },
+  {
+   "key": "ui_nh_eff_rec_excrement_anywhere",
+   "en": "Stinking stream",
+   "ro": "Pârâu puturos"
+  },
+  {
+   "key": "ui_nh_eff_rec_excrement_compromise",
+   "en": "Fairly clean stream",
+   "ro": "Pârâu destul de curat"
+  },
+  {
+   "key": "ui_nh_eff_rec_excrement_far",
+   "en": "Clean stream",
+   "ro": "Pârâu curat"
+  },
+  {
+   "key": "ui_nh_eff_rec_export_wood",
+   "en": "Selling wood ",
+   "ro": "Vânzare de lemne"
+  },
+  {
+   "key": "ui_nh_eff_rec_fricek",
+   "en": "Fritz",
+   "ro": "Fritz"
+  },
+  {
+   "key": "ui_nh_eff_rec_friends_fricekProductive",
+   "en": "Fritz is peaceful",
+   "ro": "Fritz e pașnic"
+  },
+  {
+   "key": "ui_nh_eff_rec_friends_matusProductive",
+   "en": "Matthew works a bit",
+   "ro": "Matthew muncește puțin"
+  },
+  {
+   "key": "ui_nh_eff_rec_gamblers",
+   "en": "Dice games",
+   "ro": "Jocuri cu zaruri"
+  },
+  {
+   "key": "ui_nh_eff_rec_garden",
+   "en": "Herb garden",
+   "ro": "Grădină de ierburi"
+  },
+  {
+   "key": "ui_nh_eff_rec_garrison_pub",
+   "en": "Thirsty soldiers",
+   "ro": "Soldați însetați"
+  },
+  {
+   "key": "ui_nh_eff_rec_grain_auschitz",
+   "en": "Grain from Uzhitz",
+   "ro": "Grâu din Uzhitz"
+  },
+  {
+   "key": "ui_nh_eff_rec_grain_confiscate",
+   "en": "Disgruntled labourers",
+   "ro": "Muncitori nemulțumiți"
+  },
+  {
+   "key": "ui_nh_eff_rec_grain_samopesh",
+   "en": "Grain from Samopesh",
+   "ro": "Grâu din Samopesh"
+  },
+  {
+   "key": "ui_nh_eff_rec_grain_sasau",
+   "en": "Grain from Sasau",
+   "ro": "Grâu din Sasau"
+  },
+  {
+   "key": "ui_nh_eff_rec_krkovicka",
+   "en": "Butcher Kochwurst",
+   "ro": "Măcelarul Kochwurst"
+  },
+  {
+   "key": "ui_nh_eff_rec_krojchanzl",
+   "en": "Merchant Kornelius",
+   "ro": "Neguțătorul Kornelius"
+  },
+  {
+   "key": "ui_nh_eff_rec_kunes",
+   "en": "Woodcutter Kunesh",
+   "ro": "Tăietorul de lemne Kunesh"
+  },
+  {
+   "key": "ui_nh_eff_rec_malina",
+   "en": "Woodcutter Raspberry",
+   "ro": "Tăietorul de lemne Raspberry"
+  },
+  {
+   "key": "ui_nh_eff_rec_malina_banish",
+   "en": "Raspberry is free",
+   "ro": "Raspberry este liber"
+  },
+  {
+   "key": "ui_nh_eff_rec_malina_payoff",
+   "en": "Dowry paid",
+   "ro": "Zestre plătită"
+  },
+  {
+   "key": "ui_nh_eff_rec_marek",
+   "en": "Groom Mark",
+   "ro": "Mirele Mark"
+  },
+  {
+   "key": "ui_nh_eff_rec_matus",
+   "en": "Matthew",
+   "ro": "Matthew"
+  },
+  {
+   "key": "ui_nh_eff_rec_meat_ledecko",
+   "en": "Livestock from Ledetchko",
+   "ro": "Vite din Ledetchko"
+  },
+  {
+   "key": "ui_nh_eff_rec_meat_rataje",
+   "en": "Livestock from Rattay",
+   "ro": "Vite din Rattay"
+  },
+  {
+   "key": "ui_nh_eff_rec_meat_sazava",
+   "en": "Livestock from Sasau",
+   "ro": "Vite din Sasau"
+  },
+  {
+   "key": "ui_nh_eff_rec_mirka",
+   "en": "Tavern maid Mirka",
+   "ro": "Cârciumăreasa Mirka"
+  },
+  {
+   "key": "ui_nh_eff_rec_ota",
+   "en": "Armoursmith Ota",
+   "ro": "Armurierul Ota"
+  },
+  {
+   "key": "ui_nh_eff_rec_oxen",
+   "en": "Beasts of burden",
+   "ro": "Animale de povară"
+  },
+  {
+   "key": "ui_nh_eff_rec_painting",
+   "en": "Frescoes",
+   "ro": "Fresce"
+  },
+  {
+   "key": "ui_nh_eff_rec_petr",
+   "en": "Baker Silvester",
+   "ro": "Brutarul Silvester"
+  },
+  {
+   "key": "ui_nh_eff_rec_poachers_confiscate",
+   "en": "Poaching ban",
+   "ro": "Braconaj"
+  },
+  {
+   "key": "ui_nh_eff_rec_poachers_denounce",
+   "en": "Tough punishments",
+   "ro": "Pedepse aspre"
+  },
+  {
+   "key": "ui_nh_eff_rec_poachers_keep",
+   "en": "Poachers' paradise",
+   "ro": "Paradisul braconierilor"
+  },
+  {
+   "key": "ui_nh_eff_rec_prachos_banishWife",
+   "en": "Harridan banished",
+   "ro": "Scorpia izgonită"
+  },
+  {
+   "key": "ui_nh_eff_rec_prachos_punishHusband",
+   "en": "Malis must be sober",
+   "ro": "Malis trebuie să fie treaz"
+  },
+  {
+   "key": "ui_nh_eff_rec_reinf_lumberjacks",
+   "en": "Woodcutter soldiers",
+   "ro": "Soldați tăietori de lemne"
+  },
+  {
+   "key": "ui_nh_eff_rec_reinf_none",
+   "en": "No sentries",
+   "ro": "Fără santinele"
+  },
+  {
+   "key": "ui_nh_eff_rec_reinf_varlets",
+   "en": "Labourer soldiers",
+   "ro": "Soldați muncitori"
+  },
+  {
+   "key": "ui_nh_eff_rec_saddles",
+   "en": "Saddler's equipment",
+   "ro": "Echipament de șelar"
+  },
+  {
+   "key": "ui_nh_eff_rec_salary_high",
+   "en": "Overpaid Locator",
+   "ro": "Locator supraplătit"
+  },
+  {
+   "key": "ui_nh_eff_rec_salary_low",
+   "en": "Underpaid Locator",
+   "ro": "Locator subplătit"
+  },
+  {
+   "key": "ui_nh_eff_rec_salary_medium",
+   "en": "Locator's wages",
+   "ro": "Plata locatorului"
+  },
+  {
+   "key": "ui_nh_eff_rec_smokehouse",
+   "en": "Smoke house",
+   "ro": "Casa de afumat"
+  },
+  {
+   "key": "ui_nh_eff_rec_spejlik",
+   "en": "Butcher Brisket",
+   "ro": "Măcelarul Brisket"
+  },
+  {
+   "key": "ui_nh_eff_rec_stables_merchant",
+   "en": "Cart horses",
+   "ro": "Cai de căruță"
+  },
+  {
+   "key": "ui_nh_eff_rec_stone_talmberk",
+   "en": "Stone from Talmberg",
+   "ro": "Piatră din Talmberg"
+  },
+  {
+   "key": "ui_nh_eff_rec_vasek",
+   "en": "Groom Vashek",
+   "ro": "Grăjdarul Vashek"
+  },
+  {
+   "key": "ui_nh_eff_rec_weaponsmith",
+   "en": "Swordsmith's equipment",
+   "ro": "Echipament de fierar de săbii"
+  },
+  {
+   "key": "ui_nh_eff_rec_witch_banish",
+   "en": "Firm faith",
+   "ro": "Credință fermă"
+  },
+  {
+   "key": "ui_nh_eff_rec_witch_protect",
+   "en": "Village herbalist",
+   "ro": "Herboristul satului"
+  },
+  {
+   "key": "ui_nh_eff_rec_wood_banish",
+   "en": "Woodcutters banished",
+   "ro": "Tăietori de lemne alungați"
+  },
+  {
+   "key": "ui_nh_eff_rec_zach",
+   "en": "Armoursmith Zach",
+   "ro": "Armurierul Zach"
+  },
+  {
+   "key": "ui_nh_eff_rec_zvest",
+   "en": "Swordsmith Fink",
+   "ro": "Fierarul de săbii Fink"
+  },
+  {
+   "key": "ui_nh_objective_church",
+   "en": "Church repairs",
+   "ro": "Reparații la biserică"
+  },
+  {
+   "key": "ui_nh_objective_income",
+   "en": "Village income",
+   "ro": "Venitul satului"
+  },
+  {
+   "key": "ui_nh_objective_people",
+   "en": "Village capacity",
+   "ro": "Capacitatea satului"
+  },
+  {
+   "key": "ui_nh_res_coal",
+   "en": "Charcoal",
+   "ro": "Cărbune"
+  },
+  {
+   "key": "ui_nh_res_grain",
+   "en": "Grain",
+   "ro": "Cereale"
+  },
+  {
+   "key": "ui_nh_res_meat",
+   "en": "Livestock",
+   "ro": "Vite"
+  },
+  {
+   "key": "ui_nh_res_stone",
+   "en": "Stone",
+   "ro": "Piatră"
+  },
+  {
+   "key": "ui_nh_structure_desc_apiary1",
+   "en": "Beehives demand little labour, but are well worth having. Forest honey is healthy, tasty and can be used to improve many dishes.",
+   "ro": "Stupii cer puțină muncă, dar merită să-i ai. Mierea de pădure este sănătoasă, gustoasă și poate fi folosită ca să îmbunătățească multe feluri de mâncare."
+  },
+  {
+   "key": "ui_nh_structure_desc_baker1",
+   "en": "Bread is the main staple of the common folk, but the baker also bakes other goods that add variety to the everyday diet.",
+   "ro": "Pâinea este hrana de bază a oamenilor de rând, dar brutarul coace și alte bunătăți care aduc varietate în hrana de zi cu zi."
+  },
+  {
+   "key": "ui_nh_structure_desc_blacksmith1",
+   "en": "A decent settlement must have a blacksmith who will fashion tools, nails, horseshoes and, in times of need, requisites for men-at-arms. With the necessary equipment, he can double either as a swordsmith or an armoursmith.                                    ",
+   "ro": "O așezare decentă trebuie să aibă un fierar care să facă unelte, cuie, potcoave și, la nevoie, cele trebuincioase oștenilor. Cu echipamentul necesar, el poate fi și armurier, și făuritor de săbii."
+  },
+  {
+   "key": "ui_nh_structure_desc_bridge1",
+   "en": "A stone bridge that will stand up to the comings and goings of all the locals and wagons carrying goods in and out, and one that will not disgrace the village.",
+   "ro": "Un pod de piatră care va rezista mersului și venirii localnicilor și căruțelor care duc și aduc mărfuri, și care nu va face de rușine satul."
+  },
+  {
+   "key": "ui_nh_structure_desc_butcher1",
+   "en": "It is the task of the butcher to slaughter livestock and provide the village with meat, naturally only from domesticated animals, since poaching in the nobles' forests is a serious crime.",
+   "ro": "Este treaba măcelarului să taie vitele și să dea satului carne, firește doar de la animale domestice, căci braconajul în pădurile nobililor este o crimă gravă."
+  },
+  {
+   "key": "ui_nh_structure_desc_camp1",
+   "en": "A camp for labourers engaged in all sorts of tasks. Many of them are refugees from Skalitz, but there are also some who heard of Pribyslavitz by chance and came to seek their fortune.",
+   "ro": "O tabără pentru muncitorii care se ocupă de tot felul de treburi. Mulți dintre ei sunt refugiați din Skalitz, dar sunt și unii care au auzit de Pribyslavitz întâmplător și au venit să-și caute norocul."
+  },
+  {
+   "key": "ui_nh_structure_desc_garrison1",
+   "en": "In times of peace, the guardhouse is home to the forces of law and order. In times of war, it serves as the town armoury and military barracks. Naturally, it also has a combat arena where the men can train.",
+   "ro": "În vremuri de pace, casa de pază este căminul forțelor de ordine. În vremuri de război, servește drept armurărie și cazarmă. Firește, are și o arenă de luptă unde oamenii se pot antrena."
+  },
+  {
+   "key": "ui_nh_structure_desc_church1",
+   "en": "Essential repairs to the church should begin with fixing the roof to protect the building from the rain and prevent further decay.",
+   "ro": "Reparațiile esențiale ale bisericii ar trebui să înceapă cu repararea acoperișului, ca să protejeze clădirea de ploaie și să prevină degradarea ulterioară."
+  },
+  {
+   "key": "ui_nh_structure_desc_church2",
+   "en": "The beautiful repaired church is the pride of the whole settlement.",
+   "ro": "Frumoasa biserică reparată este mândria întregii așezări."
+  },
+  {
+   "key": "ui_nh_structure_desc_lumberjacks1",
+   "en": "Woodcutters fell and process the trees in the surrounding woods, ensuring a permanent supply of timber for construction of new buildings, repairs and basic fortifications.",
+   "ro": "Tăietorii de lemne doboară și prelucrează copacii din pădurile din jur, asigurând o aprovizionare permanentă cu cherestea pentru construcția de clădiri noi, reparații și fortificații de bază."
+  },
+  {
+   "key": "ui_nh_structure_desc_merchant1",
+   "en": "Trade is always an essential element of life in towns as well as villages, allowing you to bring in the goods that are lacking, as well as selling the products your tradesmen create. ",
+   "ro": "Comerțul este întotdeauna o parte esențială a vieții în orașe și sate, căci aduce mărfurile care lipsesc și vinde ce fac meșteșugarii."
+  },
+  {
+   "key": "ui_nh_structure_desc_pub1",
+   "en": "The tavern is always busy. After all, what could be better after a hard day's work than to take a breather with friends over a tankard of good ale?",
+   "ro": "Cârciuma este mereu plină. La urma urmei, ce poate fi mai bun după o zi grea de muncă decât să stai cu prietenii la o halbă de bere bună?"
+  },
+  {
+   "key": "ui_nh_structure_desc_stables1",
+   "en": "Owning stables is a privilege enjoyed by very few. The head grooms manage them for their liege lords and have a great responsibility in handling their valuable mounts, for which they deserve recognition.",
+   "ro": "Grajdurile sunt un privilegiu pe care puțini îl au. Grajdarii șefi le îngrijesc pentru stăpânii lor și poartă o mare răspundere pentru caii de preț, așa că merită recunoaștere."
+  },
+  {
+   "key": "ui_nh_structure_desc_townHall1",
+   "en": "The tent will serve at the start instead of a real Rathaus. At least you'll have a place to lay your head before you get a proper Bailiff's residence built.",
+   "ro": "Cortul o să țină locul primăriei adevărate la început. Măcar ai unde să-ți odihnești capul până o să zidești o reședință de jude pe măsură."
+  },
+  {
+   "key": "ui_nh_structure_desc_townHall2",
+   "en": "Every sizeable village should have a Rathaus, the seat of law and order embodied by the Bailiff.",
+   "ro": "Orice sat de o anumită mărime ar trebui să aibă primărie, căci acolo își are sălașul legea și rânduiala, întruchipate de jude."
+  },
+  {
+   "key": "ui_nh_structure_desc_townHall3",
+   "en": "The extended Rathaus is much bigger than the original one, affording possibilities of further improvement into a comfortable Bailiff's residence.",
+   "ro": "Primăria extinsă este mult mai încăpătoare decât cea de la început și lasă loc de îmbunătățiri, până să ajungă o reședință de jude cum se cuvine."
+  },
+  {
+   "key": "ui_nh_structure_name_apiary1",
+   "en": "Beehives",
+   "ro": "Stupi"
+  },
+  {
+   "key": "ui_nh_structure_name_baker1",
+   "en": "Bakery",
+   "ro": "Brutărie"
+  },
+  {
+   "key": "ui_nh_structure_name_blacksmith1",
+   "en": "Forge",
+   "ro": "Fierărie"
+  },
+  {
+   "key": "ui_nh_structure_name_bridge1",
+   "en": "Bridge and Road",
+   "ro": "Pod și drum"
+  },
+  {
+   "key": "ui_nh_structure_name_butcher1",
+   "en": "Butcher's",
+   "ro": "Măcelărie"
+  },
+  {
+   "key": "ui_nh_structure_name_camp1",
+   "en": "Labourers' Camp",
+   "ro": "Tabăra muncitorilor"
+  },
+  {
+   "key": "ui_nh_structure_name_garrison1",
+   "en": "Guardhouse",
+   "ro": "Casa de pază"
+  },
+  {
+   "key": "ui_nh_structure_name_church1",
+   "en": "Church Basic Repairs",
+   "ro": "Reparații de bază la biserică"
+  },
+  {
+   "key": "ui_nh_structure_name_church2",
+   "en": "Church",
+   "ro": "Biserică"
+  },
+  {
+   "key": "ui_nh_structure_name_lumberjacks1",
+   "en": "Woodcutters' Camp",
+   "ro": "Tabăra tăietorilor de lemne"
+  },
+  {
+   "key": "ui_nh_structure_name_merchant1",
+   "en": "Trader's ",
+   "ro": "Negustor"
+  },
+  {
+   "key": "ui_nh_structure_name_pub1",
+   "en": "Tavern",
+   "ro": "Cârciumă"
+  },
+  {
+   "key": "ui_nh_structure_name_stables1",
+   "en": "Stables",
+   "ro": "Grajduri"
+  },
+  {
+   "key": "ui_nh_structure_name_townHall1",
+   "en": "Temporary Rathaus",
+   "ro": "Primărie temporară"
+  },
+  {
+   "key": "ui_nh_structure_name_townHall2",
+   "en": "Rathaus",
+   "ro": "Primărie"
+  },
+  {
+   "key": "ui_nh_structure_name_townHall3",
+   "en": "Extended Rathaus",
+   "ro": "Primărie extinsă"
+  }
+ ]
+}
