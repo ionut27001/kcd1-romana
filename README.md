@@ -5,7 +5,7 @@ misiuni, obiecte, meniuri, cărțile care se pot citi și codexul. Aproximativ 8
 Termenii sunt aceiași ca în [traducerea pentru KCD2](https://github.com/ionut27001/kcd2-romana), ca cele două jocuri
 să se lege.
 
-**Descarcă mod-ul:** [Releases](../../releases) (Nexus Mods în curând)
+**Descarcă mod-ul:** Nexus Mods: https://www.nexusmods.com/kingdomcomedeliverance/mods/2436 (sau din [Releases](../../releases))
 
 Acest repository e locul unde **oricine poate corecta traducerea**: o replică ciudată, un gen greșit, un termen
 tradus inconsecvent. Corecturile acceptate intră în următoarea versiune a mod-ului.
