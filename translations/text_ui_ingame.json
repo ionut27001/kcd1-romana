@@ -3324,7 +3324,7 @@
   {
    "key": "ui_loading_hint_1",
    "en": "If you want to know what's going on in the vicinity or find out if anyone needs your help, it's best to ask the local innkeeper, who's sure to know all the local gossip.\r\n",
-   "ro": "If you want to know what's going on in the vicinity or find out if anyone needs your help, it's best to ask the local innkeeper, who's sure to know all the local gossip.\r\n"
+   "ro": "Dacă vrei să știi ce se întâmplă în apropiere sau să afli dacă cineva are nevoie de ajutorul tău, cel mai bine e să întrebi hangiul local, care cu siguranță cunoaște toate bârfele din zonă.\r\n"
   },
   {
    "key": "ui_loading_hint_10",
@@ -3334,7 +3334,7 @@
   {
    "key": "ui_loading_hint_11",
    "en": "Alchemy is a useful skill that transforms herbs and other ingredients into potions and remedies. In order to brew those, you need a knowledge of alchemy, a recipe, an alchemist’s bench and the necessary ingredients.\r\n",
-   "ro": "Alchemy is a useful skill that transforms herbs and other ingredients into potions and remedies. In order to brew those, you need a knowledge of alchemy, a recipe, an alchemist’s bench and the necessary ingredients.\r\n"
+   "ro": "Alchimia este o îndemânare folositoare, care transformă ierburile și alte ingrediente în poțiuni și leacuri. Ca să le prepari, ai nevoie de cunoștințe de alchimie, de o rețetă, de o masă de alchimist și de ingredientele necesare.\r\n"
   },
   {
    "key": "ui_loading_hint_12",
@@ -3344,47 +3344,47 @@
   {
    "key": "ui_loading_hint_13",
    "en": "Bleeding is a specific type of injury. If you're bleeding, you must quickly bandage the wound, otherwise you'll soon bleed out and die.\r\n",
-   "ro": "Bleeding is a specific type of injury. If you're bleeding, you must quickly bandage the wound, otherwise you'll soon bleed out and die.\r\n"
+   "ro": "Sângerarea este un tip special de rană. Dacă sângerezi, trebuie să legi rapid rana, altfel vei sângera curând până la moarte.\r\n"
   },
   {
    "key": "ui_loading_hint_14",
    "en": "Keep in mind that during combat it is not possible to heal yourself!   \r\n",
-   "ro": "Keep in mind that during combat it is not possible to heal yourself!   \r\n"
+   "ro": "Ține minte că în luptă nu te poți vindeca!   \r\n"
   },
   {
    "key": "ui_loading_hint_15",
    "en": "If you want to maintain bladed weapons, you can save your repair kit and hone them yourself on a grinding wheel, which you can find at every smithy.\r\n",
-   "ro": "If you want to maintain bladed weapons, you can save your repair kit and hone them yourself on a grinding wheel, which you can find at every smithy.\r\n"
+   "ro": "Dacă vrei să întreții armele tăioase, poți păstra trusa de reparații și să le ascuți singur pe roata de ascuțit, pe care o găsești în fiecare fierărie.\r\n"
   },
   {
    "key": "ui_loading_hint_16",
    "en": "Life is God’s gift and combat doesn’t always have to end in death! So when it’s clear that a combatant is beaten, he always has the option to surrender honourably, and the honourable response is to accept his surrender.\r\n",
-   "ro": "Life is God’s gift and combat doesn’t always have to end in death! So when it’s clear that a combatant is beaten, he always has the option to surrender honourably, and the honourable response is to accept his surrender.\r\n"
+   "ro": "Viața este darul lui Dumnezeu, iar lupta nu trebuie să se sfârșească întotdeauna cu moartea! Așadar, când e limpede că un luptător a fost învins, el poate oricând să se predea cu onoare, iar răspunsul onorabil este să-i accepți predarea.\r\n"
   },
   {
    "key": "ui_loading_hint_17",
    "en": "If a guard, catchpole or other figure of authority challenges you to surrender or to agree to a personal search, you can do so. But you’d better decide quick, because the guardians of the law have little patience in these troubled times and they won’t hesitate to use force if you don’t cooperate.\r\n",
-   "ro": "If a guard, catchpole or other figure of authority challenges you to surrender or to agree to a personal search, you can do so. But you’d better decide quick, because the guardians of the law have little patience in these troubled times and they won’t hesitate to use force if you don’t cooperate.\r\n"
+   "ro": "Dacă un strajă, un polițist sau altă persoană cu autoritate te somează să te predai sau să accepți o percheziție, poți s-o faci. Dar mai bine decizi repede, căci apărătorii legii au puțină răbdare în aceste vremuri tulburi și nu vor ezita să folosească forța dacă nu colaborezi.\r\n"
   },
   {
    "key": "ui_loading_hint_18",
    "en": "In order to pickpocket someone successfully, you first have to sneak up on them unnoticed.\r\n",
-   "ro": "In order to pickpocket someone successfully, you first have to sneak up on them unnoticed.\r\n"
+   "ro": "Ca să buzunărești pe cineva cu succes, mai întâi trebuie să te apropii de el nebăgat de seamă.\r\n"
   },
   {
    "key": "ui_loading_hint_19",
    "en": "If you want to store things to use later, you can put them in the trunk you'll find at any of your assigned or rented sleeping places. The same items can be found in all the trunks you have.\r\n",
-   "ro": "If you want to store things to use later, you can put them in the trunk you'll find at any of your assigned or rented sleeping places. The same items can be found in all the trunks you have.\r\n"
+   "ro": "Dacă vrei să păstrezi lucruri pentru a le folosi mai târziu, le poți pune în cufărul pe care îl găsești în orice loc de dormit alocat sau închiriat. Aceleași obiecte se află în toate cufărele tale.\r\n"
   },
   {
    "key": "ui_loading_hint_2",
    "en": "The Codex accumulates all information about the world, points of interest and detailed tutorials.\r\n",
-   "ro": "The Codex accumulates all information about the world, points of interest and detailed tutorials.\r\n"
+   "ro": "Codexul adună toate informațiile despre lume, locurile de interes și tutorialele detaliate.\r\n"
   },
   {
    "key": "ui_loading_hint_20",
    "en": "You can skip time and wait for something. If you’re in the middle of some activity, however, the Skip Time button will call up Help.\r\n",
-   "ro": "You can skip time and wait for something. If you’re in the middle of some activity, however, the Skip Time button will call up Help.\r\n"
+   "ro": "Poți trece timpul și aștepta ceva. Dacă însă ești în mijlocul unei activități, butonul Sari peste timp va deschide Ajutorul.\r\n"
   },
   {
    "key": "ui_loading_hint_21",
@@ -3434,7 +3434,7 @@
   {
    "key": "ui_loading_hint_3",
    "en": "Every unsuccessful bout of haggling lowers your reputation with the trader. On the contrary, if you tip the trader or give him or her a discount, your reputation will improve.\r\n",
-   "ro": "Every unsuccessful bout of haggling lowers your reputation with the trader. On the contrary, if you tip the trader or give him or her a discount, your reputation will improve.\r\n"
+   "ro": "Fiecare târguială nereușită îți scade reputația în fața negustorului. Dimpotrivă, dacă îi dai negustorului un bacșiș sau îi acorzi o reducere, reputația ta se va îmbunătăți.\r\n"
   },
   {
    "key": "ui_loading_hint_30",
@@ -3469,22 +3469,22 @@
   {
    "key": "ui_loading_hint_4",
    "en": "If you need a light at night, use your torch.\r\n",
-   "ro": "If you need a light at night, use your torch.\r\n"
+   "ro": "Dacă ai nevoie de lumină noaptea, folosește-ți torța.\r\n"
   },
   {
    "key": "ui_loading_hint_5",
    "en": "You also need to watch what you eat – if you eat or drink something that’s spoiled, you can get food poisoning, which you can only cure by taking Digestive potion. You can tell you’ve been poisoned by the icon next to your health indicator.\r\n",
-   "ro": "You also need to watch what you eat – if you eat or drink something that’s spoiled, you can get food poisoning, which you can only cure by taking Digestive potion. You can tell you’ve been poisoned by the icon next to your health indicator.\r\n"
+   "ro": "Trebuie să fii atent și la ce mănânci – dacă mănânci sau bei ceva stricat, poți lua otrăvire alimentară, pe care o poți vindeca doar luând poțiune digestivă. Îți poți da seama că ai fost otrăvit după pictograma de lângă indicatorul de sănătate.\r\n"
   },
   {
    "key": "ui_loading_hint_6",
    "en": "Reading was a rare skill in the middle ages and a common blacksmith's son certainly wouldn't have been literate. If you want to learn to read, you need to find someone who'll teach you.\r\n",
-   "ro": "Reading was a rare skill in the middle ages and a common blacksmith's son certainly wouldn't have been literate. If you want to learn to read, you need to find someone who'll teach you.\r\n"
+   "ro": "Cititul era o îndemânare rară în Evul Mediu, iar un fiu de fierar obișnuit cu siguranță nu ar fi fost alfabetizat. Dacă vrei să înveți să citești, trebuie să găsești pe cineva care să te învețe.\r\n"
   },
   {
    "key": "ui_loading_hint_7",
    "en": "When you’re dirty, you don’t have to rush immediately to the nearest bathhouse – you can have a quick wash at the nearest water trough.\r\n",
-   "ro": "When you’re dirty, you don’t have to rush immediately to the nearest bathhouse – you can have a quick wash at the nearest water trough.\r\n"
+   "ro": "Când ești murdar, nu trebuie să alergi imediat la cea mai apropiată baie publică – te poți spăla repede la cel mai apropiat jgheab de adăpat.\r\n"
   },
   {
    "key": "ui_loading_hint_8",

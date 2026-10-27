@@ -16,7 +16,7 @@ import sqlite3
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from kcd1_build import ROW, SRC  # noqa: E402
+from kcd1_build import ROW, SRC, lookup  # noqa: E402
 
 ROOT = pathlib.Path(r"D:\kcd1-ro")
 REPO = ROOT / "github" / "kcd1-romana"
@@ -43,7 +43,7 @@ def export():
     out.mkdir(parents=True)
     files = n = 0
     for t, rows in tables():
-        entries = [{"key": k, "en": en, "ro": "Română" if k == "ui_turkish" else ro.get(en, en)}
+        entries = [{"key": k, "en": en, "ro": "Română" if k == "ui_turkish" else (lookup(ro, en) or en)}
                    for k, en in rows if en.strip()]
         parts = [entries[i:i + CHUNK] for i in range(0, len(entries), CHUNK)]
         stem = t.removesuffix(".xml")
@@ -66,9 +66,12 @@ def import_():
     changed = 0
     for f in sorted((REPO / "translations").glob("*.json")):
         for e in json.loads(f.read_text(encoding="utf-8"))["entries"]:
-            if e["key"] != "ui_turkish" and e["ro"] != ro.get(e["en"], e["en"]):
-                con.execute("UPDATE units SET ro = ?, status = 'ok' WHERE en = ?", (e["ro"], e["en"]))
-                ro[e["en"]] = e["ro"]
+            if e["key"] != "ui_turkish" and e["ro"] != (lookup(ro, e["en"]) or e["en"]):
+                en, new = e["en"], e["ro"]
+                if en not in ro and "\r\n" in en:  # the db keys these with \n
+                    en, new = en.replace("\r\n", "\n"), new.replace("\r\n", "\n")
+                con.execute("UPDATE units SET ro = ?, status = 'ok' WHERE en = ?", (new, en))
+                ro[en] = new
                 changed += 1
     con.commit()
     print(f"imported {changed} changed texts from the repo")
